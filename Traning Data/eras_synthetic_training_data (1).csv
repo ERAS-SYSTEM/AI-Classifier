@@ -1,0 +1,2501 @@
+text,label,language,confidence_score
+"Apartment fire, people trapped inside at Atlas area",Fire Force,english,0.65
+Something doesn't look right here at the marketplace,Police,english,0.61
+"Maybe there's a fire, can you check? at the Office",Fire Force,english,0.5
+Poolisii ariifachiisaa Kebele 04,Police,afaan_oromo,0.81
+"Apartment fire, people trapped inside at the Park",Fire Force,english,0.65
+"Stroke symptoms, FAST positive, need hospital at Kebele 02",Medical/Hospital,english,0.89
+Riot with fires set to buildings at the construction site,Police,english,0.61
+Aarii baay'ee jira Buufata Baabura,Fire Force,afaan_oromo,0.81
+"Active robbery in progress, armed suspect on premises at Gerji",Police,english,0.93
+Ibiddi bubba'e jira Daandii Guddaa,Fire Force,afaan_oromo,0.73
+Just checking if the system works,Other,english,0.97
+"Burglary in progress, suspect inside building at Bus Terminal",Police,english,0.93
+"I think I see smoke, please verify at the Gas Station",Fire Force,english,0.51
+"Someone might need medical attention, not sure at the Gas Station",Medical/Hospital,english,0.47
+"Industrial fire with toxic smoke, evacuate area at Train Station",Fire Force,english,0.89
+"Someone might need medical attention, not sure at Adama Market",Medical/Hospital,english,0.5
+"Apartment fire, people trapped inside at Summit",Fire Force,english,0.65
+Terrorist attack causing fire and casualties at the business district,Police,english,0.52
+"Chemical facility fire, hazardous materials involved at Bus Terminal",Fire Force,english,0.96
+"I smell something like smoke, not sure at Bole Road",Fire Force,english,0.63
+የወንጀል ክስተት ተከስቷል በዋና መንገድ,Police,amharic,0.76
+"Industrial fire with toxic smoke, evacuate area at a local house",Fire Force,english,0.91
+ፖሊስ በአስቸኳይ ይላኩ በዋና መንገድ,Police,amharic,0.79
+Hospitaala nan barbaada Paarkii,Medical/Hospital,afaan_oromo,0.85
+Practice report for training purposes,Other,english,0.92
+"Possible heart attack, but I'm not certain at the business district",Medical/Hospital,english,0.58
+"Something burning maybe, please check at a residential building",Fire Force,english,0.64
+"Could be a break-in, please investigate at Bus Terminal",Police,english,0.61
+"Possible smoke, but I'm not certain at the Hospital gate",Fire Force,english,0.63
+"Person having heart attack, need ambulance immediately at the Gas Station",Medical/Hospital,english,0.87
+"Person shot, multiple injuries reported at the Stadium",Medical/Hospital,english,0.58
+"Gas explosion reported, building collapse possible at the Park",Fire Force,english,0.98
+"Maybe a robbery, not certain at a family home",Police,english,0.45
+የወንጀል ክስተት ተከስቷል በቦሌ መንገድ,Police,amharic,0.84
+Something doesn't look right here at Adama Market,Police,english,0.53
+"Possible smoke, but I'm not certain at Summit",Fire Force,english,0.45
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 02,Medical/Hospital,amharic,0.83
+Not sure if it's a fire or something else at an Apartment building,Fire Force,english,0.55
+የድንገተኛ ህክምና ያስፈልጋል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.74
+Not sure if it's a fire or something else at Bole Road,Fire Force,english,0.42
+Namni hame ta'e jira Staadiyamii,Police,afaan_oromo,0.78
+Not sure but someone looks sick at a private residence,Medical/Hospital,english,0.45
+የህዝብ ጸጥታ ችግር አለ በሲኤምሲ,Police,amharic,0.73
+"I hear someone crying for help, maybe injured at the University campus",Medical/Hospital,english,0.68
+"Sample message, disregard",Other,english,0.88
+"Person shot, multiple injuries reported at a local house",Medical/Hospital,english,0.58
+"Possible heart attack, but I'm not certain at Atlas area",Medical/Hospital,english,0.42
+Structure fire with visible flames from multiple windows at a local house,Fire Force,english,0.95
+አምቡላንስ በፍጥነት ይላኩ በሲኤምሲ,Medical/Hospital,amharic,0.81
+Waan bala'aan uumame Piazza,Police,afaan_oromo,0.75
+"Child choking, immediate medical intervention needed at Gerji",Medical/Hospital,english,0.94
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በፒያሳ,Medical/Hospital,amharic,0.85
+Demonstration mode active,Other,english,0.89
+"Simulation running, no action needed",Other,english,0.97
+Gas main break with strong odor throughout area at the Hospital gate,Fire Force,english,0.98
+"Testing the app, please ignore",Other,english,0.98
+"I heard a pop, might be electrical at the city center",Fire Force,english,0.6
+"Maybe someone fainted, please verify at the downtown area",Medical/Hospital,english,0.58
+ቤት ውስጥ እሳት ተነስቷል በባቡር ጣቢያ,Fire Force,amharic,0.72
+Riot with fires set to buildings at the local Pharmacy,Police,english,0.61
+Namni hame ta'e jira Staadiyamii,Police,afaan_oromo,0.72
+Car crash with fire and suspected DUI at the shopping mall,Fire Force,english,0.58
+"Shots fired, active shooter situation at the business district",Police,english,0.94
+Poolisii ariifachiisaa Kebele 02,Police,afaan_oromo,0.76
+"Shots fired, active shooter situation at a local house",Police,english,0.95
+"I think there's a medical issue, can you check? at Sarbet",Medical/Hospital,english,0.42
+Protestors burning vehicles at a local house,Police,english,0.6
+"Industrial fire with toxic smoke, evacuate area at my Home",Fire Force,english,0.9
+"Shots fired, active shooter situation at a residential building",Police,english,0.9
+"Gas explosion reported, building collapse possible at Summit",Fire Force,english,0.99
+"Sample message, disregard",Other,english,0.96
+Dhibee fayyaa cimaa uumame Kebele 02,Medical/Hospital,afaan_oromo,0.74
+Rimeen uumame poolisii barbaada Kebele 04,Police,afaan_oromo,0.77
+Not sure if it's a crime but looks wrong at the Main Factory,Police,english,0.6
+"Maybe a robbery, not certain at my Home",Police,english,0.61
+"I think I see smoke, please verify at Bus Terminal",Fire Force,english,0.6
+Something doesn't look right here at a residential building,Police,english,0.53
+Dhibee fayyaa cimaa uumame Baankii Qabxii,Medical/Hospital,afaan_oromo,0.72
+"Apartment fire, people trapped inside at Atlas area",Fire Force,english,0.65
+"Stroke symptoms, FAST positive, need hospital at Kazanchis",Medical/Hospital,english,0.88
+አምቡላንስ በፍጥነት ይላኩ በፓርክ,Medical/Hospital,amharic,0.86
+"Person having heart attack, need ambulance immediately at the Main Factory",Medical/Hospital,english,0.98
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በፒያሳ,Fire Force,amharic,0.79
+Forest fire spreading rapidly toward homes at Sarbet,Fire Force,english,0.94
+"Someone is acting strange, might need doctor at Mexico Square",Medical/Hospital,english,0.57
+የህዝብ ጸጥታ ችግር አለ በሲኤምሲ,Police,amharic,0.78
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በቦሌ መንገድ,Fire Force,amharic,0.8
+"Riot with multiple offenders, public safety risk at Kebele 04",Police,english,0.93
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በፒያሳ,Fire Force,amharic,0.87
+የህዝብ ጸጥታ ችግር አለ በዋና መንገድ,Police,amharic,0.87
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቀበሌ 02,Police,amharic,0.78
+"Person having heart attack, need ambulance immediately at Mexico Square",Medical/Hospital,english,0.9
+"Person having heart attack, need ambulance immediately at Kebele 02",Medical/Hospital,english,0.94
+"Simulation running, no action needed",Other,english,0.98
+"Gas explosion reported, building collapse possible at the Stadium",Fire Force,english,0.98
+"Maybe there's a fire, can you check? at the University campus",Fire Force,english,0.49
+"Someone is acting strange, might need doctor at an Apartment building",Medical/Hospital,english,0.49
+Criminal barricaded in burning building at Piazza,Police,english,0.63
+"Maybe there's a fire, can you check? at the shopping mall",Fire Force,english,0.54
+"Stroke symptoms, FAST positive, need hospital at the Hospital gate",Medical/Hospital,english,0.97
+አምቡላንስ በፍጥነት ይላኩ በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.81
+Poolisii ariifachiisaa Daandii Guddaa,Police,afaan_oromo,0.79
+Ijaarsi ibidda jala jira Paarkii,Fire Force,afaan_oromo,0.82
+አምቡላንስ በፍጥነት ይላኩ በዋና መንገድ,Medical/Hospital,amharic,0.83
+"Person with allergic reaction, throat swelling, anaphylaxis at Train Station",Medical/Hospital,english,0.89
+I think I see something suspicious at Bole Road,Police,english,0.44
+"Major trauma with heavy bleeding, emergency transport required at the Park",Medical/Hospital,english,0.89
+Not sure if it's a crime but looks wrong at the commercial district,Police,english,0.52
+Not sure if it's a crime but looks wrong at the construction site,Police,english,0.5
+"Gas explosion reported, building collapse possible at the commercial district",Fire Force,english,0.94
+"Something burning maybe, please check at Summit",Fire Force,english,0.56
+Gaasiin yaa'a jira Kebele 02,Fire Force,afaan_oromo,0.73
+"Could be a break-in, please investigate at the Park",Police,english,0.65
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በፓርክ,Medical/Hospital,amharic,0.77
+"Testing the app, please ignore",Other,english,0.98
+"Something burning maybe, please check at the Park",Fire Force,english,0.58
+"Fight with weapons, people are injured at the business district",Medical/Hospital,english,0.59
+House fire with smoke inhalation victims at a family home,Fire Force,english,0.64
+የህዝብ ጸጥታ ችግር አለ በባቡር ጣቢያ,Police,amharic,0.81
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቀበሌ 02,Police,amharic,0.84
+Demonstration mode active,Other,english,0.99
+"Major trauma with heavy bleeding, emergency transport required at Bole Road",Medical/Hospital,english,0.91
+Just checking if the system works,Other,english,0.97
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በፓርክ,Fire Force,amharic,0.86
+Ibiddi bubba'e jira Buufata Baabura,Fire Force,afaan_oromo,0.87
+"Carjacking occurring right now, suspect armed at Kebele 02",Police,english,0.89
+"Burglary in progress, suspect inside building at the University campus",Police,english,0.97
+Waan hatamuun uumame Bole Daandii,Police,afaan_oromo,0.86
+"Violent attack, victim unconscious and bleeding at a private residence",Medical/Hospital,english,0.6
+"Active robbery in progress, armed suspect on premises at the downtown area",Police,english,0.93
+"Officer needs backup, suspect resisting at Piazza",Police,english,0.98
+Riot with fires set to buildings at Kebele 02,Police,english,0.61
+Gargaarsa fayyaa barbaada Kebele 04,Medical/Hospital,afaan_oromo,0.74
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቀበሌ 04,Police,amharic,0.78
+"I think I see smoke, please verify at Adama Market",Fire Force,english,0.65
+"Officer needs backup, suspect resisting at the local Pharmacy",Police,english,0.99
+"Someone might need medical attention, not sure at Gerji",Medical/Hospital,english,0.55
+"Severe bleeding, send paramedics right away at the shopping mall",Medical/Hospital,english,0.94
+"Testing the app, please ignore",Other,english,0.92
+"Officer needs backup, suspect resisting at an Apartment building",Police,english,0.89
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በማዕከላዊ ባንክ,Fire Force,amharic,0.85
+Not sure if it's a fire or something else at Gerji,Fire Force,english,0.55
+"Someone might need medical attention, not sure at Summit",Medical/Hospital,english,0.52
+"Maybe someone fainted, please verify at Bus Terminal",Medical/Hospital,english,0.54
+"Someone is acting strange, might need doctor at the Gas Station",Medical/Hospital,english,0.5
+"Could be a break-in, please investigate at the Stadium",Police,english,0.57
+Something doesn't look right here at the downtown area,Police,english,0.63
+"Carjacking occurring right now, suspect armed at a local house",Police,english,0.95
+"Shots fired, active shooter situation at the University campus",Police,english,0.95
+Dhibee fayyaa cimaa uumame Buufata Baabura,Medical/Hospital,afaan_oromo,0.73
+"Active seizure, patient needs emergency medical care at the downtown area",Medical/Hospital,english,0.93
+Riot with fires set to buildings at CMC Condominium,Police,english,0.61
+"Unconscious person not breathing, cardiac arrest at Kebele 02",Medical/Hospital,english,0.92
+Not sure but better check this area at Kebele 04,Police,english,0.67
+"I heard a pop, might be electrical at Mexico Square",Fire Force,english,0.48
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በባቡር ጣቢያ,Police,amharic,0.72
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በባቡር ጣቢያ,Fire Force,amharic,0.74
+Criminal barricaded in burning building at the business district,Police,english,0.63
+Practice report for training purposes,Other,english,0.97
+የወንጀል ክስተት ተከስቷል በፒያሳ,Police,amharic,0.75
+"Someone might need medical attention, not sure at the Park",Medical/Hospital,english,0.66
+የህዝብ ጸጥታ ችግር አለ በአዳማ ገበያ,Police,amharic,0.75
+"Child choking, immediate medical intervention needed at the city center",Medical/Hospital,english,0.9
+"Unconscious person not breathing, cardiac arrest at Piazza",Medical/Hospital,english,0.88
+"Child choking, immediate medical intervention needed at the commercial district",Medical/Hospital,english,0.91
+Gaasiin yaa'a jira Staadiyamii,Fire Force,afaan_oromo,0.84
+"Kidnapping witnessed, suspect fleeing scene at the Stadium",Police,english,0.98
+Gargaarsa fayyaa barbaada Piazza,Medical/Hospital,afaan_oromo,0.77
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በቀበሌ 02,Fire Force,amharic,0.78
+"Fight with weapons, people are injured at Kazanchis",Medical/Hospital,english,0.59
+ቤት ውስጥ እሳት ተነስቷል በማዕከላዊ ባንክ,Fire Force,amharic,0.76
+Practice report for training purposes,Other,english,0.9
+"Simulation running, no action needed",Other,english,0.9
+I think I see something suspicious at the Hospital gate,Police,english,0.61
+"I think I see smoke, please verify at the Gas Station",Fire Force,english,0.47
+"Testing the app, please ignore",Other,english,0.9
+Forest fire spreading rapidly toward homes at the Main Factory,Fire Force,english,0.98
+"Person having heart attack, need ambulance immediately at the commercial district",Medical/Hospital,english,0.93
+አምቡላንስ በፍጥነት ይላኩ በቀበሌ 04,Medical/Hospital,amharic,0.79
+"Riot with multiple offenders, public safety risk at CMC Condominium",Police,english,0.88
+"Apartment fire, people trapped inside at the Office",Fire Force,english,0.65
+"Active robbery in progress, armed suspect on premises at the shopping mall",Police,english,0.88
+"Kidnapping witnessed, suspect fleeing scene at the city center",Police,english,0.96
+"Gas leak, people are unconscious at Kazanchis",Fire Force,english,0.66
+"Shots fired, active shooter situation at an Apartment building",Police,english,0.96
+Car crash with fire and suspected DUI at Piazza,Fire Force,english,0.58
+Gaasiin yaa'a jira Staadiyamii,Fire Force,afaan_oromo,0.8
+"Major trauma with heavy bleeding, emergency transport required at the marketplace",Medical/Hospital,english,0.98
+"Burglary in progress, suspect inside building at the city center",Police,english,0.9
+"A stabbing occurred, victim is bleeding heavily at the Park",Medical/Hospital,english,0.62
+Ibiddi bubba'e jira Staadiyamii,Fire Force,afaan_oromo,0.88
+"I think there's a medical issue, can you check? at Main Road",Medical/Hospital,english,0.43
+Forest fire spreading rapidly toward homes at the University campus,Fire Force,english,0.97
+"Something burning maybe, please check at Gerji",Fire Force,english,0.68
+"I smell something like smoke, not sure at a private residence",Fire Force,english,0.49
+Not sure but better check this area at the city center,Police,english,0.43
+"Person with allergic reaction, throat swelling, anaphylaxis at the Gas Station",Medical/Hospital,english,0.89
+"Kidnapping witnessed, suspect fleeing scene at Train Station",Police,english,0.88
+"Stroke symptoms, FAST positive, need hospital at a residential building",Medical/Hospital,english,0.95
+Something doesn't look right here at the commercial district,Police,english,0.66
+Arson suspect caught on fire at the business district,Police,english,0.57
+"Shots fired, active shooter situation at the Hospital gate",Police,english,0.95
+Manni ibidda bubba'e Kebele 04,Fire Force,afaan_oromo,0.84
+"Maybe a robbery, not certain at the Hospital gate",Police,english,0.56
+"Gas explosion reported, building collapse possible at the commercial district",Fire Force,english,0.98
+"Person shot, multiple injuries reported at a local house",Medical/Hospital,english,0.58
+Gas main break with strong odor throughout area at a local house,Fire Force,english,0.93
+I think I see something suspicious at Main Road,Police,english,0.59
+"I heard a pop, might be electrical at Train Station",Fire Force,english,0.55
+"Industrial fire with toxic smoke, evacuate area at Atlas area",Fire Force,english,0.94
+Hospitaala nan barbaada Adama Gandaa,Medical/Hospital,afaan_oromo,0.8
+"Burglary in progress, suspect inside building at Bole Road",Police,english,0.88
+Poolisii ariifachiisaa Bole Daandii,Police,afaan_oromo,0.86
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.72
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በቦሌ መንገድ,Medical/Hospital,amharic,0.87
+"I smell something like smoke, not sure at Bole Road",Fire Force,english,0.44
+የወንጀል ክስተት ተከስቷል በቀበሌ 02,Police,amharic,0.85
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.75
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቦሌ መንገድ,Police,amharic,0.78
+Practice report for training purposes,Other,english,0.91
+"Building explosion, multiple casualties at Bus Terminal",Fire Force,english,0.63
+Poolisii ariifachiisaa Buufata Baabura,Police,afaan_oromo,0.82
+የህዝብ ጸጥታ ችግር አለ በቦሌ መንገድ,Police,amharic,0.79
+Waan bala'aan uumame Adama Gandaa,Police,afaan_oromo,0.76
+Gargaarsa fayyaa barbaada Kebele 02,Medical/Hospital,afaan_oromo,0.87
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በስታዲየም,Fire Force,amharic,0.76
+"Building explosion, multiple casualties at the Gas Station",Fire Force,english,0.63
+"Major incident with fire, injuries, and crime scene at Adama Market",Fire Force,english,0.55
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በቀበሌ 02,Fire Force,amharic,0.79
+Terrorist attack causing fire and casualties at Piazza,Police,english,0.52
+ቤት ውስጥ እሳት ተነስቷል በማዕከላዊ ባንክ,Fire Force,amharic,0.86
+"Building explosion, multiple casualties at the city center",Fire Force,english,0.63
+አምቡላንስ በፍጥነት ይላኩ በቦሌ መንገድ,Medical/Hospital,amharic,0.79
+"Person having heart attack, need ambulance immediately at Kebele 02",Medical/Hospital,english,0.89
+"Burglary in progress, suspect inside building at Adama Market",Police,english,0.87
+"I hear someone crying for help, maybe injured at the Stadium",Medical/Hospital,english,0.58
+"Stroke symptoms, FAST positive, need hospital at Gerji",Medical/Hospital,english,0.94
+"Apartment fire, people trapped inside at the Stadium",Fire Force,english,0.65
+Waan hatamuun uumame Daandii Guddaa,Police,afaan_oromo,0.7
+Gaasiin yaa'a jira Kebele 02,Fire Force,afaan_oromo,0.71
+"Unconscious person not breathing, cardiac arrest at the shopping mall",Medical/Hospital,english,0.9
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቀበሌ 04,Police,amharic,0.71
+"Possible smoke, but I'm not certain at Gerji",Fire Force,english,0.64
+ህመምተኛ አለ ዶክተር ያስፈልጋል በስታዲየም,Medical/Hospital,amharic,0.7
+"Chemical facility fire, hazardous materials involved at Bus Terminal",Fire Force,english,0.97
+Gas main break with strong odor throughout area at the construction site,Fire Force,english,0.98
+Structure fire with visible flames from multiple windows at Bus Terminal,Fire Force,english,0.94
+"Violent attack, victim unconscious and bleeding at the Office",Medical/Hospital,english,0.6
+"Possible heart attack, but I'm not certain at Gerji",Medical/Hospital,english,0.54
+Something doesn't look right here at the marketplace,Police,english,0.55
+"Maybe a robbery, not certain at the marketplace",Police,english,0.55
+"Apartment fire, people trapped inside at a local house",Fire Force,english,0.65
+ቤት ውስጥ እሳት ተነስቷል በዋና መንገድ,Fire Force,amharic,0.79
+"Someone might need medical attention, not sure at Summit",Medical/Hospital,english,0.65
+Forest fire spreading rapidly toward homes at Adama Market,Fire Force,english,0.97
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በሲኤምሲ,Fire Force,amharic,0.83
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.81
+"Gas leak, people are unconscious at Summit",Fire Force,english,0.66
+Demonstration mode active,Other,english,0.89
+Poolisii ariifachiisaa Daandii Guddaa,Police,afaan_oromo,0.76
+Not sure but someone looks sick at the Main Factory,Medical/Hospital,english,0.62
+"Major trauma with heavy bleeding, emergency transport required at the University campus",Medical/Hospital,english,0.98
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በስታዲየም,Medical/Hospital,amharic,0.76
+Just checking if the system works,Other,english,0.98
+"Gas leak, people are unconscious at Sarbet",Fire Force,english,0.66
+"Major incident with fire, injuries, and crime scene at Atlas area",Fire Force,english,0.55
+"Maybe a robbery, not certain at a residential building",Police,english,0.6
+"Someone is acting strange, might need doctor at the Office",Medical/Hospital,english,0.45
+Terrorist attack causing fire and casualties at Atlas area,Police,english,0.52
+Gargaarsa fayyaa barbaada Buufata Otobisii,Medical/Hospital,afaan_oromo,0.74
+"Severe bleeding, send paramedics right away at Main Road",Medical/Hospital,english,0.88
+"No emergency, just a test message",Other,english,0.88
+Ijaarsi ibidda jala jira Buufata Otobisii,Fire Force,afaan_oromo,0.82
+"Something burning maybe, please check at the commercial district",Fire Force,english,0.63
+"Officer needs backup, suspect resisting at Sarbet",Police,english,0.93
+Protestors burning vehicles at Central Bank,Police,english,0.6
+"Possible heart attack, but I'm not certain at the Office",Medical/Hospital,english,0.65
+Domestic violence incident with active assault at Central Bank,Police,english,0.99
+Criminal barricaded in burning building at the Hospital gate,Police,english,0.63
+"Active seizure, patient needs emergency medical care at the Hospital gate",Medical/Hospital,english,0.97
+"Testing the app, please ignore",Other,english,0.97
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቀበሌ 04,Police,amharic,0.7
+ህመምተኛ አለ ዶክተር ያስፈልጋል በፓርክ,Medical/Hospital,amharic,0.8
+Not sure if it's a crime but looks wrong at the shopping mall,Police,english,0.62
+Not sure but someone looks sick at Atlas area,Medical/Hospital,english,0.49
+ቤት ውስጥ እሳት ተነስቷል በአዳማ ገበያ,Fire Force,amharic,0.85
+"Unconscious person not breathing, cardiac arrest at Sarbet",Medical/Hospital,english,0.95
+"I heard a pop, might be electrical at the Stadium",Fire Force,english,0.42
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በባቡር ጣቢያ,Fire Force,amharic,0.84
+ፖሊስ በአስቸኳይ ይላኩ በቀበሌ 04,Police,amharic,0.78
+"Shots fired, active shooter situation at Central Bank",Police,english,0.95
+Aarii baay'ee jira Piazza,Fire Force,afaan_oromo,0.88
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቦሌ መንገድ,Police,amharic,0.76
+"Gas leak, people are unconscious at Sarbet",Fire Force,english,0.66
+Waan hatamuun uumame Buufata Baabura,Police,afaan_oromo,0.84
+"Maybe a robbery, not certain at the Office",Police,english,0.58
+Manni ibidda bubba'e Bole Daandii,Fire Force,afaan_oromo,0.85
+ሐኪም በአስቸኳይ ይፈለጋል በዋና መንገድ,Medical/Hospital,amharic,0.88
+"Person shot, multiple injuries reported at Kebele 04",Medical/Hospital,english,0.58
+Criminal barricaded in burning building at the Stadium,Police,english,0.63
+Arson suspect caught on fire at the shopping mall,Police,english,0.57
+"Riot with multiple offenders, public safety risk at a private residence",Police,english,0.96
+Not sure if it's a crime but looks wrong at Train Station,Police,english,0.59
+"Major trauma with heavy bleeding, emergency transport required at the Office",Medical/Hospital,english,0.95
+"Severe bleeding, send paramedics right away at Gerji",Medical/Hospital,english,0.88
+Manni ibidda bubba'e Adama Gandaa,Fire Force,afaan_oromo,0.79
+"Possible smoke, but I'm not certain at Kebele 04",Fire Force,english,0.47
+"I heard a pop, might be electrical at the Stadium",Fire Force,english,0.48
+"I heard a pop, might be electrical at an Apartment building",Fire Force,english,0.57
+"Major incident with fire, injuries, and crime scene at the downtown area",Fire Force,english,0.55
+Car crash with fire and suspected DUI at a residential building,Fire Force,english,0.58
+የወንጀል ክስተት ተከስቷል በስታዲየም,Police,amharic,0.88
+"Person having heart attack, need ambulance immediately at the city center",Medical/Hospital,english,0.89
+Riot with fires set to buildings at the Office,Police,english,0.61
+የህዝብ ጸጥታ ችግር አለ በአዳማ ገበያ,Police,amharic,0.86
+"Simulation running, no action needed",Other,english,0.93
+"Simulation running, no action needed",Other,english,0.99
+Practice report for training purposes,Other,english,0.96
+"Child choking, immediate medical intervention needed at Central Bank",Medical/Hospital,english,0.94
+"Burglary in progress, suspect inside building at CMC Condominium",Police,english,0.96
+"Active seizure, patient needs emergency medical care at the Main Factory",Medical/Hospital,english,0.98
+"Person shot, multiple injuries reported at the Stadium",Medical/Hospital,english,0.58
+"Industrial fire with toxic smoke, evacuate area at Bole Road",Fire Force,english,0.97
+Hospitaala nan barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.82
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በፒያሳ,Police,amharic,0.84
+Poolisii ariifachiisaa Buufata Baabura,Police,afaan_oromo,0.87
+"Someone might need medical attention, not sure at the business district",Medical/Hospital,english,0.49
+Gas main break with strong odor throughout area at the downtown area,Fire Force,english,0.89
+Apartment building fire with residents trapped at an Apartment building,Fire Force,english,0.95
+Ijaarsi ibidda jala jira Baankii Qabxii,Fire Force,afaan_oromo,0.73
+Yeroo madaa namni dhukkubsate jira Daandii Guddaa,Medical/Hospital,afaan_oromo,0.85
+Protestors burning vehicles at the Stadium,Police,english,0.6
+Multi-vehicle accident with fire on highway at the University campus,Fire Force,english,0.89
+"Sample message, disregard",Other,english,0.9
+"Building explosion, multiple casualties at a private residence",Fire Force,english,0.63
+Not sure if it's a crime but looks wrong at Summit,Police,english,0.63
+"I heard a pop, might be electrical at Atlas area",Fire Force,english,0.5
+"Kidnapping witnessed, suspect fleeing scene at Atlas area",Police,english,0.99
+"Sample message, disregard",Other,english,0.9
+Not sure if it's a crime but looks wrong at Piazza,Police,english,0.64
+Just checking if the system works,Other,english,0.9
+Multi-vehicle accident with fire on highway at Main Road,Fire Force,english,0.96
+Criminal barricaded in burning building at Train Station,Police,english,0.63
+"Maybe a robbery, not certain at the Main Factory",Police,english,0.52
+Domestic violence incident with active assault at an Apartment building,Police,english,0.94
+"Fight with weapons, people are injured at Adama Market",Medical/Hospital,english,0.59
+Just checking if the system works,Other,english,0.87
+"Someone is acting strange, might need doctor at Adama Market",Medical/Hospital,english,0.43
+Poolisii ariifachiisaa Piazza,Police,afaan_oromo,0.81
+"I smell something like smoke, not sure at Atlas area",Fire Force,english,0.47
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በፒያሳ,Fire Force,amharic,0.74
+Domestic violence incident with active assault at Central Bank,Police,english,0.93
+"Fight with weapons, people are injured at Train Station",Medical/Hospital,english,0.59
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በፓርክ,Fire Force,amharic,0.86
+"Officer needs backup, suspect resisting at the University campus",Police,english,0.93
+"I heard something, might be trouble at the marketplace",Police,english,0.67
+Hospitaala nan barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.87
+Gas main break with strong odor throughout area at the marketplace,Fire Force,english,0.9
+ቤት ውስጥ እሳት ተነስቷል በማዕከላዊ ባንክ,Fire Force,amharic,0.81
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በፒያሳ,Medical/Hospital,amharic,0.83
+"Person with allergic reaction, throat swelling, anaphylaxis at a private residence",Medical/Hospital,english,0.98
+Criminal barricaded in burning building at a private residence,Police,english,0.63
+የህዝብ ጸጥታ ችግር አለ በቦሌ መንገድ,Police,amharic,0.81
+ህመምተኛ አለ ዶክተር ያስፈልጋል በቀበሌ 02,Medical/Hospital,amharic,0.8
+"Major trauma with heavy bleeding, emergency transport required at CMC Condominium",Medical/Hospital,english,0.97
+"Could be a break-in, please investigate at the Main Factory",Police,english,0.48
+Namni hame ta'e jira Buufata Baabura,Police,afaan_oromo,0.76
+I think I see something suspicious at Central Bank,Police,english,0.49
+Something doesn't look right here at Kebele 02,Police,english,0.47
+አምቡላንስ በፍጥነት ይላኩ በቀበሌ 02,Medical/Hospital,amharic,0.78
+"Fight with weapons, people are injured at a family home",Medical/Hospital,english,0.59
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በዋና መንገድ,Police,amharic,0.81
+Namni hame ta'e jira Kebele 02,Police,afaan_oromo,0.83
+ፖሊስ በአስቸኳይ ይላኩ በአዳማ ገበያ,Police,amharic,0.77
+"Child choking, immediate medical intervention needed at Bus Terminal",Medical/Hospital,english,0.9
+"Child choking, immediate medical intervention needed at my Home",Medical/Hospital,english,0.97
+"Someone is acting strange, might need doctor at the shopping mall",Medical/Hospital,english,0.46
+Riot with fires set to buildings at Kebele 02,Police,english,0.61
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በቦሌ መንገድ,Fire Force,amharic,0.75
+Demonstration mode active,Other,english,0.94
+Domestic violence incident with active assault at Kebele 02,Police,english,0.91
+"Riot with multiple offenders, public safety risk at the Gas Station",Police,english,0.9
+"Someone is acting strange, might need doctor at Sarbet",Medical/Hospital,english,0.46
+"Kidnapping witnessed, suspect fleeing scene at a private residence",Police,english,0.95
+Multi-vehicle accident with fire on highway at the shopping mall,Fire Force,english,0.89
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቀበሌ 04,Police,amharic,0.81
+Not sure if it's a crime but looks wrong at Bus Terminal,Police,english,0.68
+Waan bala'aan uumame Kebele 04,Police,afaan_oromo,0.86
+"Chemical facility fire, hazardous materials involved at the commercial district",Fire Force,english,0.98
+I think I see something suspicious at the University campus,Police,english,0.56
+Terrorist attack causing fire and casualties at the Main Factory,Police,english,0.52
+"Shots fired, active shooter situation at the business district",Police,english,0.91
+Aarii baay'ee jira Staadiyamii,Fire Force,afaan_oromo,0.73
+"Chemical facility fire, hazardous materials involved at Atlas area",Fire Force,english,0.99
+Gas main break with strong odor throughout area at the city center,Fire Force,english,0.91
+የህዝብ ጸጥታ ችግር አለ በዋና መንገድ,Police,amharic,0.82
+Poolisii ariifachiisaa Piazza,Police,afaan_oromo,0.71
+Protestors burning vehicles at the commercial district,Police,english,0.6
+"Chemical facility fire, hazardous materials involved at the shopping mall",Fire Force,english,0.95
+"Unconscious person not breathing, cardiac arrest at Bus Terminal",Medical/Hospital,english,0.98
+Gaasiin yaa'a jira Kebele 02,Fire Force,afaan_oromo,0.78
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በፓርክ,Police,amharic,0.86
+Arson suspect caught on fire at a family home,Police,english,0.57
+ፖሊስ በአስቸኳይ ይላኩ በቀበሌ 04,Police,amharic,0.75
+"Building explosion, multiple casualties at the commercial district",Fire Force,english,0.63
+Terrorist attack causing fire and casualties at the Main Factory,Police,english,0.52
+Just checking if the system works,Other,english,0.9
+"Carjacking occurring right now, suspect armed at the business district",Police,english,0.9
+Ibiddi bubba'e jira Kebele 02,Fire Force,afaan_oromo,0.85
+"Apartment fire, people trapped inside at Mexico Square",Fire Force,english,0.65
+Gas main break with strong odor throughout area at a private residence,Fire Force,english,0.94
+House fire with smoke inhalation victims at CMC Condominium,Fire Force,english,0.64
+Gaasiin yaa'a jira Buufata Otobisii,Fire Force,afaan_oromo,0.74
+Waan hatamuun uumame Adama Gandaa,Police,afaan_oromo,0.79
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.75
+ቤት ውስጥ እሳት ተነስቷል በዋና መንገድ,Fire Force,amharic,0.71
+"Child choking, immediate medical intervention needed at Mexico Square",Medical/Hospital,english,0.98
+Ibiddi bubba'e jira Paarkii,Fire Force,afaan_oromo,0.79
+"Chemical facility fire, hazardous materials involved at Kebele 04",Fire Force,english,0.92
+Aarii baay'ee jira Kebele 04,Fire Force,afaan_oromo,0.78
+"Burglary in progress, suspect inside building at the city center",Police,english,0.89
+Just checking if the system works,Other,english,0.95
+"Chemical facility fire, hazardous materials involved at Bus Terminal",Fire Force,english,0.93
+Demonstration mode active,Other,english,0.9
+Ibiddi bubba'e jira Kebele 04,Fire Force,afaan_oromo,0.87
+"Officer needs backup, suspect resisting at Train Station",Police,english,0.93
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በፒያሳ,Police,amharic,0.8
+"Industrial fire with toxic smoke, evacuate area at the commercial district",Fire Force,english,0.95
+I think I see something suspicious at Atlas area,Police,english,0.56
+"Riot with multiple offenders, public safety risk at the marketplace",Police,english,0.89
+Ambulaansii ariifachiisaa Kebele 04,Medical/Hospital,afaan_oromo,0.85
+Dhibee fayyaa cimaa uumame Kebele 04,Medical/Hospital,afaan_oromo,0.82
+Not sure but someone looks sick at a local house,Medical/Hospital,english,0.45
+Car crash with fire and suspected DUI at Kebele 02,Fire Force,english,0.58
+Namni hame ta'e jira Adama Gandaa,Police,afaan_oromo,0.83
+Multi-vehicle accident with fire on highway at Gerji,Fire Force,english,0.89
+Domestic violence incident with active assault at the University campus,Police,english,0.97
+Ijaarsi ibidda jala jira Buufata Baabura,Fire Force,afaan_oromo,0.83
+"Something burning maybe, please check at CMC Condominium",Fire Force,english,0.48
+"Person with allergic reaction, throat swelling, anaphylaxis at an Apartment building",Medical/Hospital,english,0.91
+የወንጀል ክስተት ተከስቷል በማዕከላዊ ባንክ,Police,amharic,0.82
+Riot with fires set to buildings at an Apartment building,Police,english,0.61
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በፓርክ,Police,amharic,0.77
+Demonstration mode active,Other,english,0.89
+Namni hame ta'e jira Adama Gandaa,Police,afaan_oromo,0.8
+ቤት ውስጥ እሳት ተነስቷል በሲኤምሲ,Fire Force,amharic,0.86
+"A stabbing occurred, victim is bleeding heavily at the marketplace",Medical/Hospital,english,0.62
+"Unconscious person not breathing, cardiac arrest at Adama Market",Medical/Hospital,english,0.95
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በባቡር ጣቢያ,Fire Force,amharic,0.73
+"Carjacking occurring right now, suspect armed at an Apartment building",Police,english,0.96
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በቀበሌ 04,Medical/Hospital,amharic,0.75
+"No emergency, just a test message",Other,english,0.91
+"Violent attack, victim unconscious and bleeding at Piazza",Medical/Hospital,english,0.6
+Gas main break with strong odor throughout area at the business district,Fire Force,english,0.97
+Rimeen uumame poolisii barbaada Baankii Qabxii,Police,afaan_oromo,0.8
+"Violent attack, victim unconscious and bleeding at the Gas Station",Medical/Hospital,english,0.6
+House fire with smoke inhalation victims at a local house,Fire Force,english,0.64
+"Burglary in progress, suspect inside building at the business district",Police,english,0.92
+Structure fire with visible flames from multiple windows at Main Road,Fire Force,english,0.96
+Protestors burning vehicles at my Home,Police,english,0.6
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በማዕከላዊ ባንክ,Fire Force,amharic,0.86
+"Major trauma with heavy bleeding, emergency transport required at Train Station",Medical/Hospital,english,0.94
+"Major incident with fire, injuries, and crime scene at Kebele 02",Fire Force,english,0.55
+"I hear someone crying for help, maybe injured at a local house",Medical/Hospital,english,0.59
+"Possible smoke, but I'm not certain at a residential building",Fire Force,english,0.51
+Ibiddi bubba'e jira Baankii Qabxii,Fire Force,afaan_oromo,0.86
+Gaasiin yaa'a jira Buufata Baabura,Fire Force,afaan_oromo,0.87
+Just checking if the system works,Other,english,0.95
+ፖሊስ በአስቸኳይ ይላኩ በስታዲየም,Police,amharic,0.7
+Practice report for training purposes,Other,english,0.96
+የወንጀል ክስተት ተከስቷል በሲኤምሲ,Police,amharic,0.73
+የወንጀል ክስተት ተከስቷል በቦሌ መንገድ,Police,amharic,0.83
+Waan bala'aan uumame Staadiyamii,Police,afaan_oromo,0.8
+"I smell something like smoke, not sure at Mexico Square",Fire Force,english,0.53
+"Gas leak, people are unconscious at the Park",Fire Force,english,0.66
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በፒያሳ,Police,amharic,0.76
+Demonstration mode active,Other,english,0.98
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በማዕከላዊ ባንክ,Fire Force,amharic,0.73
+Waan hatamuun uumame Staadiyamii,Police,afaan_oromo,0.78
+Just checking if the system works,Other,english,0.88
+"Fight with weapons, people are injured at a local house",Medical/Hospital,english,0.59
+"Simulation running, no action needed",Other,english,0.9
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በሲኤምሲ,Fire Force,amharic,0.74
+Hospitaala nan barbaada Bole Daandii,Medical/Hospital,afaan_oromo,0.77
+"Kidnapping witnessed, suspect fleeing scene at the commercial district",Police,english,0.99
+"Active robbery in progress, armed suspect on premises at the Hospital gate",Police,english,0.88
+I think I see something suspicious at Atlas area,Police,english,0.56
+Not sure but better check this area at the University campus,Police,english,0.49
+Protestors burning vehicles at a family home,Police,english,0.6
+Rimeen uumame poolisii barbaada Daandii Guddaa,Police,afaan_oromo,0.84
+"Officer needs backup, suspect resisting at Kebele 04",Police,english,0.97
+Rimeen uumame poolisii barbaada Buufata Otobisii,Police,afaan_oromo,0.74
+Terrorist attack causing fire and casualties at Kazanchis,Police,english,0.52
+"Industrial fire with toxic smoke, evacuate area at Main Road",Fire Force,english,0.97
+Criminal barricaded in burning building at Bus Terminal,Police,english,0.63
+Hospitaala nan barbaada Bole Daandii,Medical/Hospital,afaan_oromo,0.88
+"Person shot, multiple injuries reported at the Hospital gate",Medical/Hospital,english,0.58
+Practice report for training purposes,Other,english,0.89
+"Child choking, immediate medical intervention needed at the Office",Medical/Hospital,english,0.89
+Ambulaansii ariifachiisaa Piazza,Medical/Hospital,afaan_oromo,0.77
+ፖሊስ በአስቸኳይ ይላኩ በፒያሳ,Police,amharic,0.81
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቦሌ መንገድ,Police,amharic,0.73
+የወንጀል ክስተት ተከስቷል በአውቶቡስ ቴርሚናል,Police,amharic,0.71
+Namni hame ta'e jira Adama Gandaa,Police,afaan_oromo,0.88
+Demonstration mode active,Other,english,0.97
+Just checking if the system works,Other,english,0.96
+ቤት ውስጥ እሳት ተነስቷል በሲኤምሲ,Fire Force,amharic,0.71
+Demonstration mode active,Other,english,0.88
+"Testing the app, please ignore",Other,english,0.94
+House fire with smoke inhalation victims at Bole Road,Fire Force,english,0.64
+Just checking if the system works,Other,english,0.9
+Hospitaala nan barbaada Paarkii,Medical/Hospital,afaan_oromo,0.75
+Domestic violence incident with active assault at Kazanchis,Police,english,0.93
+Multi-vehicle accident with fire on highway at CMC Condominium,Fire Force,english,0.98
+Arson suspect caught on fire at Bus Terminal,Police,english,0.57
+Demonstration mode active,Other,english,0.98
+"Riot with multiple offenders, public safety risk at a private residence",Police,english,0.97
+Not sure if it's a fire or something else at the construction site,Fire Force,english,0.48
+Ibiddi bubba'e jira Kebele 02,Fire Force,afaan_oromo,0.82
+Dhibee fayyaa cimaa uumame Buufata Otobisii,Medical/Hospital,afaan_oromo,0.87
+"Testing the app, please ignore",Other,english,0.96
+"Burglary in progress, suspect inside building at the shopping mall",Police,english,0.88
+Waan bala'aan uumame Kebele 02,Police,afaan_oromo,0.82
+I think I see something suspicious at Gerji,Police,english,0.62
+"Active seizure, patient needs emergency medical care at the University campus",Medical/Hospital,english,0.95
+Criminal barricaded in burning building at CMC Condominium,Police,english,0.63
+"I heard something, might be trouble at a local house",Police,english,0.51
+Not sure if it's a crime but looks wrong at Kebele 04,Police,english,0.47
+"Active seizure, patient needs emergency medical care at Gerji",Medical/Hospital,english,0.97
+Not sure but better check this area at the Office,Police,english,0.57
+Manni ibidda bubba'e Staadiyamii,Fire Force,afaan_oromo,0.81
+የድንገተኛ ህክምና ያስፈልጋል በዋና መንገድ,Medical/Hospital,amharic,0.87
+"Major incident with fire, injuries, and crime scene at the business district",Fire Force,english,0.55
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቦሌ መንገድ,Police,amharic,0.77
+Ambulaansii ariifachiisaa Buufata Otobisii,Medical/Hospital,afaan_oromo,0.86
+"Person shot, multiple injuries reported at the commercial district",Medical/Hospital,english,0.58
+"Building explosion, multiple casualties at an Apartment building",Fire Force,english,0.63
+"Child choking, immediate medical intervention needed at the commercial district",Medical/Hospital,english,0.94
+Multi-vehicle accident with fire on highway at the marketplace,Fire Force,english,0.93
+Not sure but someone looks sick at Bole Road,Medical/Hospital,english,0.57
+"Sample message, disregard",Other,english,0.96
+"Fight with weapons, people are injured at Atlas area",Medical/Hospital,english,0.59
+Waan bala'aan uumame Paarkii,Police,afaan_oromo,0.83
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በቦሌ መንገድ,Fire Force,amharic,0.77
+የህዝብ ጸጥታ ችግር አለ በአዳማ ገበያ,Police,amharic,0.71
+"I think I see smoke, please verify at Bole Road",Fire Force,english,0.65
+Ambulaansii ariifachiisaa Bole Daandii,Medical/Hospital,afaan_oromo,0.84
+"Something burning maybe, please check at Gerji",Fire Force,english,0.52
+Aarii baay'ee jira Baankii Qabxii,Fire Force,afaan_oromo,0.73
+"I think I see smoke, please verify at Main Road",Fire Force,english,0.47
+"Something burning maybe, please check at a family home",Fire Force,english,0.57
+"Building explosion, multiple casualties at Sarbet",Fire Force,english,0.63
+"Maybe a robbery, not certain at the Stadium",Police,english,0.62
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 02,Medical/Hospital,amharic,0.84
+Not sure if it's a crime but looks wrong at the Main Factory,Police,english,0.67
+Demonstration mode active,Other,english,0.91
+"Testing the app, please ignore",Other,english,0.97
+"Officer needs backup, suspect resisting at a local house",Police,english,0.94
+Arson suspect caught on fire at the Main Factory,Police,english,0.57
+"A stabbing occurred, victim is bleeding heavily at the marketplace",Medical/Hospital,english,0.62
+የድንገተኛ ህክምና ያስፈልጋል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.88
+"Testing the app, please ignore",Other,english,0.92
+Gas main break with strong odor throughout area at a family home,Fire Force,english,0.91
+"Person having heart attack, need ambulance immediately at an Apartment building",Medical/Hospital,english,0.88
+Manni ibidda bubba'e Piazza,Fire Force,afaan_oromo,0.88
+Practice report for training purposes,Other,english,0.88
+"I heard a pop, might be electrical at the downtown area",Fire Force,english,0.61
+"Industrial fire with toxic smoke, evacuate area at a family home",Fire Force,english,0.95
+"Unconscious person not breathing, cardiac arrest at Summit",Medical/Hospital,english,0.94
+"I heard a pop, might be electrical at Adama Market",Fire Force,english,0.56
+Gargaarsa fayyaa barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.77
+Not sure but better check this area at Kazanchis,Police,english,0.59
+Domestic violence incident with active assault at the shopping mall,Police,english,0.92
+"Person having heart attack, need ambulance immediately at Atlas area",Medical/Hospital,english,0.91
+Domestic violence incident with active assault at the business district,Police,english,0.89
+"Fight with weapons, people are injured at the downtown area",Medical/Hospital,english,0.59
+"Maybe a robbery, not certain at CMC Condominium",Police,english,0.54
+Hospitaala nan barbaada Piazza,Medical/Hospital,afaan_oromo,0.78
+"Chemical facility fire, hazardous materials involved at the local Pharmacy",Fire Force,english,0.9
+Terrorist attack causing fire and casualties at CMC Condominium,Police,english,0.52
+የወንጀል ክስተት ተከስቷል በዋና መንገድ,Police,amharic,0.86
+Poolisii ariifachiisaa Piazza,Police,afaan_oromo,0.75
+Hospitaala nan barbaada Kebele 02,Medical/Hospital,afaan_oromo,0.79
+"I hear someone crying for help, maybe injured at Piazza",Medical/Hospital,english,0.67
+"Someone might need medical attention, not sure at Sarbet",Medical/Hospital,english,0.57
+Car crash with fire and suspected DUI at a local house,Fire Force,english,0.58
+Domestic violence incident with active assault at the Main Factory,Police,english,0.92
+"Sample message, disregard",Other,english,0.92
+"Officer needs backup, suspect resisting at the Office",Police,english,0.94
+Gaasiin yaa'a jira Kebele 04,Fire Force,afaan_oromo,0.83
+Criminal barricaded in burning building at Mexico Square,Police,english,0.63
+Car crash with fire and suspected DUI at Adama Market,Fire Force,english,0.58
+"Building explosion, multiple casualties at the city center",Fire Force,english,0.63
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በባቡር ጣቢያ,Medical/Hospital,amharic,0.84
+"Riot with multiple offenders, public safety risk at the business district",Police,english,0.95
+Arson suspect caught on fire at the city center,Police,english,0.57
+"Industrial fire with toxic smoke, evacuate area at a family home",Fire Force,english,0.92
+Gaasiin yaa'a jira Kebele 04,Fire Force,afaan_oromo,0.78
+Manni ibidda bubba'e Kebele 02,Fire Force,afaan_oromo,0.71
+ቤት ውስጥ እሳት ተነስቷል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.81
+"Unconscious person not breathing, cardiac arrest at the business district",Medical/Hospital,english,0.9
+Domestic violence incident with active assault at the city center,Police,english,0.89
+"Testing the app, please ignore",Other,english,0.96
+"Maybe someone fainted, please verify at the local Pharmacy",Medical/Hospital,english,0.49
+"Person having heart attack, need ambulance immediately at the local Pharmacy",Medical/Hospital,english,0.88
+"Violent attack, victim unconscious and bleeding at the city center",Medical/Hospital,english,0.6
+Waan hatamuun uumame Buufata Baabura,Police,afaan_oromo,0.72
+የወንጀል ክስተት ተከስቷል በቀበሌ 04,Police,amharic,0.82
+"No emergency, just a test message",Other,english,0.96
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በባቡር ጣቢያ,Fire Force,amharic,0.75
+Apartment building fire with residents trapped at Bus Terminal,Fire Force,english,0.91
+"Unconscious person not breathing, cardiac arrest at the downtown area",Medical/Hospital,english,0.87
+"Gas explosion reported, building collapse possible at Central Bank",Fire Force,english,0.9
+"I think I see smoke, please verify at the downtown area",Fire Force,english,0.55
+Hospitaala nan barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.78
+"Person having heart attack, need ambulance immediately at Adama Market",Medical/Hospital,english,0.96
+"Someone might need medical attention, not sure at Summit",Medical/Hospital,english,0.69
+"Major incident with fire, injuries, and crime scene at the downtown area",Fire Force,english,0.55
+"Gas explosion reported, building collapse possible at a residential building",Fire Force,english,0.96
+"Someone might need medical attention, not sure at Piazza",Medical/Hospital,english,0.62
+"Gas explosion reported, building collapse possible at Bole Road",Fire Force,english,0.88
+የወንጀል ክስተት ተከስቷል በአዳማ ገበያ,Police,amharic,0.74
+"Violent attack, victim unconscious and bleeding at Kebele 04",Medical/Hospital,english,0.6
+ህመምተኛ አለ ዶክተር ያስፈልጋል በፒያሳ,Medical/Hospital,amharic,0.81
+"Severe bleeding, send paramedics right away at CMC Condominium",Medical/Hospital,english,0.94
+አምቡላንስ በፍጥነት ይላኩ በስታዲየም,Medical/Hospital,amharic,0.75
+"I heard something, might be trouble at the city center",Police,english,0.42
+Not sure if it's a fire or something else at the marketplace,Fire Force,english,0.63
+Practice report for training purposes,Other,english,0.91
+ፖሊስ በአስቸኳይ ይላኩ በአዳማ ገበያ,Police,amharic,0.75
+Waan bala'aan uumame Baankii Qabxii,Police,afaan_oromo,0.78
+"Gas leak, people are unconscious at Bus Terminal",Fire Force,english,0.66
+"Shots fired, active shooter situation at Adama Market",Police,english,0.96
+Practice report for training purposes,Other,english,0.99
+"Building explosion, multiple casualties at Summit",Fire Force,english,0.63
+Protestors burning vehicles at a local house,Police,english,0.6
+Protestors burning vehicles at Atlas area,Police,english,0.6
+"A stabbing occurred, victim is bleeding heavily at the commercial district",Medical/Hospital,english,0.62
+"Shots fired, active shooter situation at the Park",Police,english,0.88
+"Violent attack, victim unconscious and bleeding at Kebele 02",Medical/Hospital,english,0.6
+Protestors burning vehicles at the construction site,Police,english,0.6
+"Maybe someone fainted, please verify at Train Station",Medical/Hospital,english,0.6
+Not sure if it's a fire or something else at Kebele 02,Fire Force,english,0.62
+"Building explosion, multiple casualties at the shopping mall",Fire Force,english,0.63
+Gas main break with strong odor throughout area at Main Road,Fire Force,english,0.95
+"Unconscious person not breathing, cardiac arrest at the business district",Medical/Hospital,english,0.91
+"Maybe someone fainted, please verify at Piazza",Medical/Hospital,english,0.6
+"Person with allergic reaction, throat swelling, anaphylaxis at a local house",Medical/Hospital,english,0.92
+Demonstration mode active,Other,english,0.92
+Waan bala'aan uumame Kebele 04,Police,afaan_oromo,0.77
+"Building explosion, multiple casualties at the University campus",Fire Force,english,0.63
+Structure fire with visible flames from multiple windows at Central Bank,Fire Force,english,0.97
+"Child choking, immediate medical intervention needed at the downtown area",Medical/Hospital,english,0.87
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በፒያሳ,Fire Force,amharic,0.8
+"Testing the app, please ignore",Other,english,0.97
+"I think there's a medical issue, can you check? at Bole Road",Medical/Hospital,english,0.48
+የወንጀል ክስተት ተከስቷል በስታዲየም,Police,amharic,0.73
+"Possible smoke, but I'm not certain at a private residence",Fire Force,english,0.43
+Domestic violence incident with active assault at the Hospital gate,Police,english,0.91
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በቀበሌ 04,Fire Force,amharic,0.72
+Car crash with fire and suspected DUI at the University campus,Fire Force,english,0.58
+Not sure but better check this area at Bole Road,Police,english,0.63
+"Person having heart attack, need ambulance immediately at Mexico Square",Medical/Hospital,english,0.91
+Gaasiin yaa'a jira Buufata Otobisii,Fire Force,afaan_oromo,0.76
+Practice report for training purposes,Other,english,0.97
+የህዝብ ጸጥታ ችግር አለ በሲኤምሲ,Police,amharic,0.86
+"Something burning maybe, please check at Train Station",Fire Force,english,0.67
+ሐኪም በአስቸኳይ ይፈለጋል በሲኤምሲ,Medical/Hospital,amharic,0.7
+"Person shot, multiple injuries reported at Piazza",Medical/Hospital,english,0.58
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በማዕከላዊ ባንክ,Fire Force,amharic,0.87
+"No emergency, just a test message",Other,english,0.94
+Demonstration mode active,Other,english,0.87
+"Maybe a robbery, not certain at Bus Terminal",Police,english,0.47
+Criminal barricaded in burning building at Summit,Police,english,0.63
+Aarii baay'ee jira Piazza,Fire Force,afaan_oromo,0.72
+"Unconscious person not breathing, cardiac arrest at the marketplace",Medical/Hospital,english,0.95
+"I smell something like smoke, not sure at an Apartment building",Fire Force,english,0.53
+"Person having heart attack, need ambulance immediately at the Park",Medical/Hospital,english,0.99
+"Building explosion, multiple casualties at my Home",Fire Force,english,0.63
+"Person with allergic reaction, throat swelling, anaphylaxis at Kebele 02",Medical/Hospital,english,0.98
+"Maybe someone fainted, please verify at the Gas Station",Medical/Hospital,english,0.5
+"Sample message, disregard",Other,english,0.96
+Dhibee fayyaa cimaa uumame Staadiyamii,Medical/Hospital,afaan_oromo,0.81
+"Active robbery in progress, armed suspect on premises at the downtown area",Police,english,0.92
+"Severe bleeding, send paramedics right away at the Office",Medical/Hospital,english,0.97
+Domestic violence incident with active assault at a residential building,Police,english,0.9
+"Maybe there's a fire, can you check? at Summit",Fire Force,english,0.43
+Ijaarsi ibidda jala jira Staadiyamii,Fire Force,afaan_oromo,0.73
+"A stabbing occurred, victim is bleeding heavily at the downtown area",Medical/Hospital,english,0.62
+Dhibee fayyaa cimaa uumame Paarkii,Medical/Hospital,afaan_oromo,0.85
+Ibiddi bubba'e jira Daandii Guddaa,Fire Force,afaan_oromo,0.81
+"Gas explosion reported, building collapse possible at a private residence",Fire Force,english,0.93
+"A stabbing occurred, victim is bleeding heavily at a private residence",Medical/Hospital,english,0.62
+"Officer needs backup, suspect resisting at the Gas Station",Police,english,0.9
+Domestic violence incident with active assault at the business district,Police,english,0.96
+"Severe bleeding, send paramedics right away at Kazanchis",Medical/Hospital,english,0.98
+"Apartment fire, people trapped inside at Bus Terminal",Fire Force,english,0.65
+Not sure if it's a fire or something else at a family home,Fire Force,english,0.66
+"No emergency, just a test message",Other,english,0.96
+"Person having heart attack, need ambulance immediately at Adama Market",Medical/Hospital,english,0.97
+Forest fire spreading rapidly toward homes at an Apartment building,Fire Force,english,0.91
+"Maybe a robbery, not certain at Sarbet",Police,english,0.68
+"Severe bleeding, send paramedics right away at Bole Road",Medical/Hospital,english,0.88
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በስታዲየም,Medical/Hospital,amharic,0.86
+"Possible heart attack, but I'm not certain at Summit",Medical/Hospital,english,0.48
+"Gas leak, people are unconscious at Bus Terminal",Fire Force,english,0.66
+"Someone might need medical attention, not sure at the Park",Medical/Hospital,english,0.64
+"I heard a pop, might be electrical at the Hospital gate",Fire Force,english,0.49
+Car crash with fire and suspected DUI at a family home,Fire Force,english,0.58
+Just checking if the system works,Other,english,0.88
+"Apartment fire, people trapped inside at the construction site",Fire Force,english,0.65
+"Person having heart attack, need ambulance immediately at my Home",Medical/Hospital,english,0.91
+Terrorist attack causing fire and casualties at the University campus,Police,english,0.52
+Ijaarsi ibidda jala jira Kebele 02,Fire Force,afaan_oromo,0.71
+"Child choking, immediate medical intervention needed at a local house",Medical/Hospital,english,0.94
+"Possible smoke, but I'm not certain at Train Station",Fire Force,english,0.69
+"Gas leak, people are unconscious at Kebele 04",Fire Force,english,0.66
+Multi-vehicle accident with fire on highway at Mexico Square,Fire Force,english,0.95
+Just checking if the system works,Other,english,0.87
+"Simulation running, no action needed",Other,english,0.96
+"Active robbery in progress, armed suspect on premises at the commercial district",Police,english,0.99
+የወንጀል ክስተት ተከስቷል በሲኤምሲ,Police,amharic,0.81
+"Maybe someone fainted, please verify at the business district",Medical/Hospital,english,0.66
+Not sure but better check this area at the local Pharmacy,Police,english,0.53
+Poolisii ariifachiisaa Paarkii,Police,afaan_oromo,0.88
+Manni ibidda bubba'e Bole Daandii,Fire Force,afaan_oromo,0.76
+"Person with allergic reaction, throat swelling, anaphylaxis at an Apartment building",Medical/Hospital,english,0.94
+"I think there's a medical issue, can you check? at Kebele 04",Medical/Hospital,english,0.56
+"Apartment fire, people trapped inside at the business district",Fire Force,english,0.65
+ሐኪም በአስቸኳይ ይፈለጋል በአውቶቡስ ቴርሚናል,Medical/Hospital,amharic,0.82
+"Fight with weapons, people are injured at my Home",Medical/Hospital,english,0.59
+"Maybe there's a fire, can you check? at a residential building",Fire Force,english,0.57
+Hospitaala nan barbaada Bole Daandii,Medical/Hospital,afaan_oromo,0.72
+"Carjacking occurring right now, suspect armed at Summit",Police,english,0.93
+"Someone might need medical attention, not sure at Mexico Square",Medical/Hospital,english,0.5
+Manni ibidda bubba'e Paarkii,Fire Force,afaan_oromo,0.77
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በዋና መንገድ,Police,amharic,0.77
+"Major trauma with heavy bleeding, emergency transport required at Atlas area",Medical/Hospital,english,0.95
+"Something burning maybe, please check at Atlas area",Fire Force,english,0.66
+"Sample message, disregard",Other,english,0.96
+"Could be a break-in, please investigate at a family home",Police,english,0.69
+"Child choking, immediate medical intervention needed at my Home",Medical/Hospital,english,0.92
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.78
+"Active seizure, patient needs emergency medical care at a family home",Medical/Hospital,english,0.88
+Gas main break with strong odor throughout area at Atlas area,Fire Force,english,0.93
+Domestic violence incident with active assault at a family home,Police,english,0.96
+Gas main break with strong odor throughout area at a private residence,Fire Force,english,0.94
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.85
+"Severe bleeding, send paramedics right away at the city center",Medical/Hospital,english,0.89
+"Officer needs backup, suspect resisting at the construction site",Police,english,0.97
+"Major incident with fire, injuries, and crime scene at Main Road",Fire Force,english,0.55
+Ibiddi bubba'e jira Kebele 02,Fire Force,afaan_oromo,0.78
+"Major incident with fire, injuries, and crime scene at the downtown area",Fire Force,english,0.55
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በዋና መንገድ,Fire Force,amharic,0.79
+Hospitaala nan barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.85
+Just checking if the system works,Other,english,0.87
+Criminal barricaded in burning building at Bole Road,Police,english,0.63
+"Burglary in progress, suspect inside building at a local house",Police,english,0.93
+"Person shot, multiple injuries reported at the Office",Medical/Hospital,english,0.58
+Hospitaala nan barbaada Daandii Guddaa,Medical/Hospital,afaan_oromo,0.8
+"I think there's a medical issue, can you check? at an Apartment building",Medical/Hospital,english,0.47
+"Person shot, multiple injuries reported at the Office",Medical/Hospital,english,0.58
+"Carjacking occurring right now, suspect armed at the Hospital gate",Police,english,0.99
+Ijaarsi ibidda jala jira Bole Daandii,Fire Force,afaan_oromo,0.75
+የወንጀል ክስተት ተከስቷል በዋና መንገድ,Police,amharic,0.78
+"Apartment fire, people trapped inside at the downtown area",Fire Force,english,0.65
+Domestic violence incident with active assault at CMC Condominium,Police,english,0.94
+"No emergency, just a test message",Other,english,0.94
+"Officer needs backup, suspect resisting at Kebele 02",Police,english,0.93
+አምቡላንስ በፍጥነት ይላኩ በቦሌ መንገድ,Medical/Hospital,amharic,0.87
+"I hear someone crying for help, maybe injured at my Home",Medical/Hospital,english,0.65
+Criminal barricaded in burning building at the commercial district,Police,english,0.63
+Aarii baay'ee jira Piazza,Fire Force,afaan_oromo,0.7
+"Industrial fire with toxic smoke, evacuate area at the commercial district",Fire Force,english,0.89
+"Carjacking occurring right now, suspect armed at Kebele 02",Police,english,0.89
+"Sample message, disregard",Other,english,0.94
+"Violent attack, victim unconscious and bleeding at Piazza",Medical/Hospital,english,0.6
+Dhibee fayyaa cimaa uumame Buufata Baabura,Medical/Hospital,afaan_oromo,0.72
+Riot with fires set to buildings at Gerji,Police,english,0.61
+"Someone is acting strange, might need doctor at Kebele 04",Medical/Hospital,english,0.61
+Ambulaansii ariifachiisaa Paarkii,Medical/Hospital,afaan_oromo,0.8
+"Gas leak, people are unconscious at Adama Market",Fire Force,english,0.66
+Ijaarsi ibidda jala jira Kebele 04,Fire Force,afaan_oromo,0.87
+"Child choking, immediate medical intervention needed at the commercial district",Medical/Hospital,english,0.98
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በስታዲየም,Fire Force,amharic,0.84
+Waan hatamuun uumame Paarkii,Police,afaan_oromo,0.77
+"Simulation running, no action needed",Other,english,0.92
+"Chemical facility fire, hazardous materials involved at the Office",Fire Force,english,0.98
+Waan bala'aan uumame Bole Daandii,Police,afaan_oromo,0.86
+"Apartment fire, people trapped inside at Train Station",Fire Force,english,0.65
+"Active robbery in progress, armed suspect on premises at a local house",Police,english,0.9
+"Chemical facility fire, hazardous materials involved at Gerji",Fire Force,english,0.9
+"Gas explosion reported, building collapse possible at my Home",Fire Force,english,0.93
+"Maybe there's a fire, can you check? at CMC Condominium",Fire Force,english,0.5
+የድንገተኛ ህክምና ያስፈልጋል በስታዲየም,Medical/Hospital,amharic,0.83
+"Sample message, disregard",Other,english,0.9
+"Child choking, immediate medical intervention needed at a private residence",Medical/Hospital,english,0.9
+"I heard a pop, might be electrical at Gerji",Fire Force,english,0.64
+Apartment building fire with residents trapped at Bole Road,Fire Force,english,0.88
+"Possible smoke, but I'm not certain at the shopping mall",Fire Force,english,0.44
+"A stabbing occurred, victim is bleeding heavily at the city center",Medical/Hospital,english,0.62
+"Child choking, immediate medical intervention needed at the Office",Medical/Hospital,english,0.88
+"Apartment fire, people trapped inside at the marketplace",Fire Force,english,0.65
+"Sample message, disregard",Other,english,0.99
+Something doesn't look right here at the University campus,Police,english,0.68
+ፖሊስ በአስቸኳይ ይላኩ በቀበሌ 04,Police,amharic,0.83
+Ambulaansii ariifachiisaa Buufata Baabura,Medical/Hospital,afaan_oromo,0.81
+Gas main break with strong odor throughout area at Mexico Square,Fire Force,english,0.99
+Rimeen uumame poolisii barbaada Adama Gandaa,Police,afaan_oromo,0.82
+Just checking if the system works,Other,english,0.98
+Gas main break with strong odor throughout area at a local house,Fire Force,english,0.99
+"Chemical facility fire, hazardous materials involved at a local house",Fire Force,english,0.91
+Waan hatamuun uumame Staadiyamii,Police,afaan_oromo,0.82
+"Testing the app, please ignore",Other,english,0.88
+"Shots fired, active shooter situation at a residential building",Police,english,0.97
+Demonstration mode active,Other,english,0.95
+"Someone is acting strange, might need doctor at a family home",Medical/Hospital,english,0.57
+"Maybe someone fainted, please verify at Kazanchis",Medical/Hospital,english,0.68
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በቦሌ መንገድ,Medical/Hospital,amharic,0.86
+"Active seizure, patient needs emergency medical care at Piazza",Medical/Hospital,english,0.91
+"Burglary in progress, suspect inside building at Sarbet",Police,english,0.93
+"Testing the app, please ignore",Other,english,0.93
+"Something burning maybe, please check at my Home",Fire Force,english,0.55
+Gas main break with strong odor throughout area at Mexico Square,Fire Force,english,0.92
+"Simulation running, no action needed",Other,english,0.92
+"No emergency, just a test message",Other,english,0.88
+"Severe bleeding, send paramedics right away at the Hospital gate",Medical/Hospital,english,0.89
+Waan hatamuun uumame Kebele 02,Police,afaan_oromo,0.86
+Ambulaansii ariifachiisaa Staadiyamii,Medical/Hospital,afaan_oromo,0.78
+"Active seizure, patient needs emergency medical care at the Stadium",Medical/Hospital,english,0.87
+"Severe bleeding, send paramedics right away at Train Station",Medical/Hospital,english,0.9
+"Severe bleeding, send paramedics right away at the business district",Medical/Hospital,english,0.95
+"Person with allergic reaction, throat swelling, anaphylaxis at Mexico Square",Medical/Hospital,english,0.89
+የወንጀል ክስተት ተከስቷል በሲኤምሲ,Police,amharic,0.73
+"No emergency, just a test message",Other,english,0.89
+"Shots fired, active shooter situation at Mexico Square",Police,english,0.94
+"Possible smoke, but I'm not certain at the commercial district",Fire Force,english,0.6
+Ibiddi bubba'e jira Daandii Guddaa,Fire Force,afaan_oromo,0.86
+"Active seizure, patient needs emergency medical care at a local house",Medical/Hospital,english,0.97
+"Stroke symptoms, FAST positive, need hospital at Main Road",Medical/Hospital,english,0.98
+Forest fire spreading rapidly toward homes at the shopping mall,Fire Force,english,0.91
+I think I see something suspicious at Central Bank,Police,english,0.6
+Gas main break with strong odor throughout area at the University campus,Fire Force,english,0.91
+House fire with smoke inhalation victims at Adama Market,Fire Force,english,0.64
+Gas main break with strong odor throughout area at the construction site,Fire Force,english,0.94
+Just checking if the system works,Other,english,0.98
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በቦሌ መንገድ,Fire Force,amharic,0.87
+የወንጀል ክስተት ተከስቷል በፒያሳ,Police,amharic,0.78
+Manni ibidda bubba'e Kebele 04,Fire Force,afaan_oromo,0.83
+Poolisii ariifachiisaa Kebele 04,Police,afaan_oromo,0.75
+Just checking if the system works,Other,english,0.91
+"Apartment fire, people trapped inside at Kebele 02",Fire Force,english,0.65
+"Carjacking occurring right now, suspect armed at Central Bank",Police,english,0.91
+"Fight with weapons, people are injured at a local house",Medical/Hospital,english,0.59
+"Sample message, disregard",Other,english,0.89
+"Possible heart attack, but I'm not certain at a local house",Medical/Hospital,english,0.49
+Forest fire spreading rapidly toward homes at the Stadium,Fire Force,english,0.93
+ፖሊስ በአስቸኳይ ይላኩ በሲኤምሲ,Police,amharic,0.77
+"Could be a break-in, please investigate at an Apartment building",Police,english,0.45
+"Sample message, disregard",Other,english,0.93
+Not sure but someone looks sick at Kazanchis,Medical/Hospital,english,0.59
+"Something burning maybe, please check at Central Bank",Fire Force,english,0.6
+Multi-vehicle accident with fire on highway at the Main Factory,Fire Force,english,0.91
+ሐኪም በአስቸኳይ ይፈለጋል በስታዲየም,Medical/Hospital,amharic,0.79
+Not sure if it's a fire or something else at CMC Condominium,Fire Force,english,0.6
+"Someone is acting strange, might need doctor at Bole Road",Medical/Hospital,english,0.55
+Not sure but someone looks sick at the construction site,Medical/Hospital,english,0.68
+Manni ibidda bubba'e Staadiyamii,Fire Force,afaan_oromo,0.86
+Car crash with fire and suspected DUI at the University campus,Fire Force,english,0.58
+"No emergency, just a test message",Other,english,0.91
+"Possible smoke, but I'm not certain at Adama Market",Fire Force,english,0.53
+"Something burning maybe, please check at Central Bank",Fire Force,english,0.63
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በፓርክ,Police,amharic,0.75
+Waan hatamuun uumame Piazza,Police,afaan_oromo,0.8
+"Building explosion, multiple casualties at Main Road",Fire Force,english,0.63
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በሲኤምሲ,Police,amharic,0.81
+"Someone might need medical attention, not sure at the city center",Medical/Hospital,english,0.6
+"Child choking, immediate medical intervention needed at the commercial district",Medical/Hospital,english,0.88
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በባቡር ጣቢያ,Fire Force,amharic,0.78
+Manni ibidda bubba'e Adama Gandaa,Fire Force,afaan_oromo,0.77
+Gaasiin yaa'a jira Buufata Otobisii,Fire Force,afaan_oromo,0.72
+Demonstration mode active,Other,english,0.9
+Domestic violence incident with active assault at Bus Terminal,Police,english,0.95
+Aarii baay'ee jira Kebele 04,Fire Force,afaan_oromo,0.77
+Manni ibidda bubba'e Buufata Baabura,Fire Force,afaan_oromo,0.77
+"Shots fired, active shooter situation at Sarbet",Police,english,0.89
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በማዕከላዊ ባንክ,Police,amharic,0.85
+"Someone is acting strange, might need doctor at Central Bank",Medical/Hospital,english,0.52
+Ibiddi bubba'e jira Kebele 04,Fire Force,afaan_oromo,0.76
+"Active robbery in progress, armed suspect on premises at the Main Factory",Police,english,0.97
+Structure fire with visible flames from multiple windows at a family home,Fire Force,english,0.9
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በማዕከላዊ ባንክ,Police,amharic,0.8
+"I heard something, might be trouble at Piazza",Police,english,0.57
+Just checking if the system works,Other,english,0.95
+ቤት ውስጥ እሳት ተነስቷል በማዕከላዊ ባንክ,Fire Force,amharic,0.79
+Domestic violence incident with active assault at Train Station,Police,english,0.94
+Waan hatamuun uumame Bole Daandii,Police,afaan_oromo,0.86
+Ijaarsi ibidda jala jira Buufata Otobisii,Fire Force,afaan_oromo,0.77
+"Testing the app, please ignore",Other,english,0.96
+Gas main break with strong odor throughout area at Adama Market,Fire Force,english,0.97
+Yeroo madaa namni dhukkubsate jira Adama Gandaa,Medical/Hospital,afaan_oromo,0.81
+"Violent attack, victim unconscious and bleeding at Kebele 02",Medical/Hospital,english,0.6
+Manni ibidda bubba'e Baankii Qabxii,Fire Force,afaan_oromo,0.82
+"Someone is acting strange, might need doctor at a residential building",Medical/Hospital,english,0.61
+የወንጀል ክስተት ተከስቷል በባቡር ጣቢያ,Police,amharic,0.87
+"Possible smoke, but I'm not certain at a private residence",Fire Force,english,0.55
+ህመምተኛ አለ ዶክተር ያስፈልጋል በፓርክ,Medical/Hospital,amharic,0.81
+"I think I see smoke, please verify at Central Bank",Fire Force,english,0.61
+"Carjacking occurring right now, suspect armed at Atlas area",Police,english,0.99
+Not sure but better check this area at the local Pharmacy,Police,english,0.54
+"Maybe there's a fire, can you check? at the Gas Station",Fire Force,english,0.54
+Gaasiin yaa'a jira Staadiyamii,Fire Force,afaan_oromo,0.84
+"Person having heart attack, need ambulance immediately at Main Road",Medical/Hospital,english,0.91
+Dhibee fayyaa cimaa uumame Paarkii,Medical/Hospital,afaan_oromo,0.84
+Criminal barricaded in burning building at Kebele 04,Police,english,0.63
+Multi-vehicle accident with fire on highway at the Main Factory,Fire Force,english,0.96
+Criminal barricaded in burning building at a family home,Police,english,0.63
+Practice report for training purposes,Other,english,0.92
+Not sure if it's a fire or something else at an Apartment building,Fire Force,english,0.61
+Forest fire spreading rapidly toward homes at an Apartment building,Fire Force,english,0.92
+"Chemical facility fire, hazardous materials involved at the Office",Fire Force,english,0.96
+I think I see something suspicious at a private residence,Police,english,0.47
+"Building explosion, multiple casualties at Mexico Square",Fire Force,english,0.63
+Waan hatamuun uumame Staadiyamii,Police,afaan_oromo,0.75
+Just checking if the system works,Other,english,0.95
+"Apartment fire, people trapped inside at Train Station",Fire Force,english,0.65
+ፖሊስ በአስቸኳይ ይላኩ በአዳማ ገበያ,Police,amharic,0.88
+Dhibee fayyaa cimaa uumame Adama Gandaa,Medical/Hospital,afaan_oromo,0.72
+Protestors burning vehicles at Gerji,Police,english,0.6
+Just checking if the system works,Other,english,0.9
+"Someone might need medical attention, not sure at the Stadium",Medical/Hospital,english,0.44
+"Major trauma with heavy bleeding, emergency transport required at the commercial district",Medical/Hospital,english,0.97
+"Unconscious person not breathing, cardiac arrest at Central Bank",Medical/Hospital,english,0.88
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በአዳማ ገበያ,Medical/Hospital,amharic,0.7
+"Gas leak, people are unconscious at Mexico Square",Fire Force,english,0.66
+"No emergency, just a test message",Other,english,0.96
+Riot with fires set to buildings at a residential building,Police,english,0.61
+Manni ibidda bubba'e Kebele 02,Fire Force,afaan_oromo,0.79
+Car crash with fire and suspected DUI at a private residence,Fire Force,english,0.58
+"Violent attack, victim unconscious and bleeding at the Main Factory",Medical/Hospital,english,0.6
+"I heard something, might be trouble at the Main Factory",Police,english,0.5
+"Stroke symptoms, FAST positive, need hospital at my Home",Medical/Hospital,english,0.94
+Dhibee fayyaa cimaa uumame Staadiyamii,Medical/Hospital,afaan_oromo,0.73
+Ijaarsi ibidda jala jira Staadiyamii,Fire Force,afaan_oromo,0.77
+"Sample message, disregard",Other,english,0.93
+"I heard a pop, might be electrical at Adama Market",Fire Force,english,0.47
+"Child choking, immediate medical intervention needed at Atlas area",Medical/Hospital,english,0.95
+የድንገተኛ ህክምና ያስፈልጋል በፓርክ,Medical/Hospital,amharic,0.8
+"Testing the app, please ignore",Other,english,0.96
+የህዝብ ጸጥታ ችግር አለ በአውቶቡስ ቴርሚናል,Police,amharic,0.76
+Aarii baay'ee jira Baankii Qabxii,Fire Force,afaan_oromo,0.72
+"Possible smoke, but I'm not certain at Central Bank",Fire Force,english,0.44
+ፖሊስ በአስቸኳይ ይላኩ በቀበሌ 04,Police,amharic,0.86
+Aarii baay'ee jira Kebele 02,Fire Force,afaan_oromo,0.88
+"Severe bleeding, send paramedics right away at the downtown area",Medical/Hospital,english,0.95
+"I think there's a medical issue, can you check? at Adama Market",Medical/Hospital,english,0.59
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በሲኤምሲ,Medical/Hospital,amharic,0.87
+"Person having heart attack, need ambulance immediately at Sarbet",Medical/Hospital,english,0.91
+"Person having heart attack, need ambulance immediately at Sarbet",Medical/Hospital,english,0.89
+"Sample message, disregard",Other,english,0.98
+"Kidnapping witnessed, suspect fleeing scene at the University campus",Police,english,0.96
+"Major incident with fire, injuries, and crime scene at the University campus",Fire Force,english,0.55
+የህዝብ ጸጥታ ችግር አለ በዋና መንገድ,Police,amharic,0.71
+"Someone might need medical attention, not sure at a local house",Medical/Hospital,english,0.44
+Structure fire with visible flames from multiple windows at the Park,Fire Force,english,0.93
+ቤት ውስጥ እሳት ተነስቷል በቦሌ መንገድ,Fire Force,amharic,0.71
+አምቡላንስ በፍጥነት ይላኩ በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.74
+Not sure if it's a crime but looks wrong at Kazanchis,Police,english,0.54
+Aarii baay'ee jira Kebele 02,Fire Force,afaan_oromo,0.74
+Car crash with fire and suspected DUI at the Office,Fire Force,english,0.58
+Aarii baay'ee jira Baankii Qabxii,Fire Force,afaan_oromo,0.78
+Protestors burning vehicles at the Park,Police,english,0.6
+House fire with smoke inhalation victims at an Apartment building,Fire Force,english,0.64
+ፖሊስ በአስቸኳይ ይላኩ በአውቶቡስ ቴርሚናል,Police,amharic,0.8
+"Person having heart attack, need ambulance immediately at the Park",Medical/Hospital,english,0.94
+"No emergency, just a test message",Other,english,0.93
+Car crash with fire and suspected DUI at Kebele 04,Fire Force,english,0.58
+"I think there's a medical issue, can you check? at Train Station",Medical/Hospital,english,0.44
+Just checking if the system works,Other,english,0.92
+Rimeen uumame poolisii barbaada Bole Daandii,Police,afaan_oromo,0.8
+"Maybe there's a fire, can you check? at Atlas area",Fire Force,english,0.44
+"Active robbery in progress, armed suspect on premises at Bus Terminal",Police,english,0.91
+"Major trauma with heavy bleeding, emergency transport required at Summit",Medical/Hospital,english,0.87
+"Sample message, disregard",Other,english,0.93
+"I smell something like smoke, not sure at a residential building",Fire Force,english,0.57
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በፒያሳ,Medical/Hospital,amharic,0.75
+Not sure if it's a crime but looks wrong at the city center,Police,english,0.59
+Waan bala'aan uumame Buufata Baabura,Police,afaan_oromo,0.78
+"Severe bleeding, send paramedics right away at Kazanchis",Medical/Hospital,english,0.92
+"Building explosion, multiple casualties at a private residence",Fire Force,english,0.63
+"Testing the app, please ignore",Other,english,0.95
+"Gas leak, people are unconscious at the Office",Fire Force,english,0.66
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በባቡር ጣቢያ,Fire Force,amharic,0.84
+Poolisii ariifachiisaa Kebele 02,Police,afaan_oromo,0.71
+"A stabbing occurred, victim is bleeding heavily at the Office",Medical/Hospital,english,0.62
+Something doesn't look right here at the downtown area,Police,english,0.47
+Gas main break with strong odor throughout area at an Apartment building,Fire Force,english,0.9
+"Industrial fire with toxic smoke, evacuate area at the Stadium",Fire Force,english,0.93
+አምቡላንስ በፍጥነት ይላኩ በቦሌ መንገድ,Medical/Hospital,amharic,0.79
+ቤት ውስጥ እሳት ተነስቷል በቀበሌ 04,Fire Force,amharic,0.77
+"Sample message, disregard",Other,english,0.92
+Not sure but someone looks sick at the business district,Medical/Hospital,english,0.48
+ሐኪም በአስቸኳይ ይፈለጋል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.73
+"Major trauma with heavy bleeding, emergency transport required at Main Road",Medical/Hospital,english,0.89
+Riot with fires set to buildings at my Home,Police,english,0.61
+"Could be a break-in, please investigate at Bole Road",Police,english,0.62
+የወንጀል ክስተት ተከስቷል በዋና መንገድ,Police,amharic,0.71
+"Someone is acting strange, might need doctor at the shopping mall",Medical/Hospital,english,0.48
+"I hear someone crying for help, maybe injured at the construction site",Medical/Hospital,english,0.63
+Yeroo madaa namni dhukkubsate jira Bole Daandii,Medical/Hospital,afaan_oromo,0.81
+Gaasiin yaa'a jira Kebele 04,Fire Force,afaan_oromo,0.76
+Something doesn't look right here at the Main Factory,Police,english,0.48
+"Carjacking occurring right now, suspect armed at Gerji",Police,english,0.93
+አምቡላንስ በፍጥነት ይላኩ በቦሌ መንገድ,Medical/Hospital,amharic,0.86
+"Simulation running, no action needed",Other,english,0.88
+"I smell something like smoke, not sure at the Main Factory",Fire Force,english,0.54
+Demonstration mode active,Other,english,0.96
+Gas main break with strong odor throughout area at the marketplace,Fire Force,english,0.97
+"Possible smoke, but I'm not certain at the Main Factory",Fire Force,english,0.54
+Hospitaala nan barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.73
+"Possible heart attack, but I'm not certain at Bole Road",Medical/Hospital,english,0.61
+"Shots fired, active shooter situation at Kazanchis",Police,english,0.94
+"I think there's a medical issue, can you check? at the local Pharmacy",Medical/Hospital,english,0.66
+"Riot with multiple offenders, public safety risk at a local house",Police,english,0.91
+"Violent attack, victim unconscious and bleeding at Summit",Medical/Hospital,english,0.6
+Dhibee fayyaa cimaa uumame Kebele 04,Medical/Hospital,afaan_oromo,0.78
+"No emergency, just a test message",Other,english,0.93
+Namni hame ta'e jira Staadiyamii,Police,afaan_oromo,0.72
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በስታዲየም,Fire Force,amharic,0.85
+አምቡላንስ በፍጥነት ይላኩ በአዳማ ገበያ,Medical/Hospital,amharic,0.84
+ቤት ውስጥ እሳት ተነስቷል በዋና መንገድ,Fire Force,amharic,0.73
+House fire with smoke inhalation victims at a residential building,Fire Force,english,0.64
+"Industrial fire with toxic smoke, evacuate area at Adama Market",Fire Force,english,0.95
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በዋና መንገድ,Fire Force,amharic,0.71
+"Industrial fire with toxic smoke, evacuate area at the University campus",Fire Force,english,0.97
+Riot with fires set to buildings at Gerji,Police,english,0.61
+"I hear someone crying for help, maybe injured at Mexico Square",Medical/Hospital,english,0.54
+"Testing the app, please ignore",Other,english,0.88
+Multi-vehicle accident with fire on highway at Kebele 02,Fire Force,english,0.97
+"Building explosion, multiple casualties at Kebele 02",Fire Force,english,0.63
+"Something burning maybe, please check at Adama Market",Fire Force,english,0.53
+"Simulation running, no action needed",Other,english,0.88
+Practice report for training purposes,Other,english,0.9
+Arson suspect caught on fire at the marketplace,Police,english,0.57
+Namni hame ta'e jira Kebele 04,Police,afaan_oromo,0.78
+"I smell something like smoke, not sure at the business district",Fire Force,english,0.52
+Waan hatamuun uumame Piazza,Police,afaan_oromo,0.82
+Waan hatamuun uumame Adama Gandaa,Police,afaan_oromo,0.7
+"Carjacking occurring right now, suspect armed at the Stadium",Police,english,0.92
+"Building explosion, multiple casualties at the commercial district",Fire Force,english,0.63
+Just checking if the system works,Other,english,0.96
+"Testing the app, please ignore",Other,english,0.96
+"Apartment fire, people trapped inside at an Apartment building",Fire Force,english,0.65
+"Apartment fire, people trapped inside at Kazanchis",Fire Force,english,0.65
+"Gas leak, people are unconscious at Piazza",Fire Force,english,0.66
+Ibiddi bubba'e jira Buufata Otobisii,Fire Force,afaan_oromo,0.75
+Rimeen uumame poolisii barbaada Kebele 02,Police,afaan_oromo,0.79
+Forest fire spreading rapidly toward homes at the city center,Fire Force,english,0.9
+Gargaarsa fayyaa barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.82
+Namni hame ta'e jira Paarkii,Police,afaan_oromo,0.73
+"Maybe someone fainted, please verify at Kebele 02",Medical/Hospital,english,0.68
+"Could be a break-in, please investigate at Atlas area",Police,english,0.64
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በማዕከላዊ ባንክ,Police,amharic,0.75
+ህመምተኛ አለ ዶክተር ያስፈልጋል በቀበሌ 04,Medical/Hospital,amharic,0.79
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በፓርክ,Police,amharic,0.73
+"I heard something, might be trouble at the business district",Police,english,0.53
+"Maybe a robbery, not certain at the Office",Police,english,0.44
+"Gas leak, people are unconscious at the Office",Fire Force,english,0.66
+"Shots fired, active shooter situation at a private residence",Police,english,0.93
+"Testing the app, please ignore",Other,english,0.97
+Not sure but someone looks sick at Piazza,Medical/Hospital,english,0.55
+"No emergency, just a test message",Other,english,0.88
+"Simulation running, no action needed",Other,english,0.93
+Structure fire with visible flames from multiple windows at Sarbet,Fire Force,english,0.94
+ፖሊስ በአስቸኳይ ይላኩ በቦሌ መንገድ,Police,amharic,0.85
+Arson suspect caught on fire at the construction site,Police,english,0.57
+"Apartment fire, people trapped inside at Central Bank",Fire Force,english,0.65
+Practice report for training purposes,Other,english,0.92
+Just checking if the system works,Other,english,0.89
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በስታዲየም,Police,amharic,0.8
+"Stroke symptoms, FAST positive, need hospital at the commercial district",Medical/Hospital,english,0.95
+"Someone is acting strange, might need doctor at Piazza",Medical/Hospital,english,0.47
+Not sure if it's a fire or something else at Atlas area,Fire Force,english,0.5
+"Simulation running, no action needed",Other,english,0.95
+Forest fire spreading rapidly toward homes at the downtown area,Fire Force,english,0.89
+"Carjacking occurring right now, suspect armed at the Gas Station",Police,english,0.99
+Multi-vehicle accident with fire on highway at Sarbet,Fire Force,english,0.87
+Car crash with fire and suspected DUI at Kebele 02,Fire Force,english,0.58
+"Active robbery in progress, armed suspect on premises at Summit",Police,english,0.99
+House fire with smoke inhalation victims at Central Bank,Fire Force,english,0.64
+"Person having heart attack, need ambulance immediately at the Gas Station",Medical/Hospital,english,0.98
+"I smell something like smoke, not sure at the Stadium",Fire Force,english,0.62
+"I smell something like smoke, not sure at CMC Condominium",Fire Force,english,0.44
+"Someone is acting strange, might need doctor at Central Bank",Medical/Hospital,english,0.66
+"Something burning maybe, please check at the Main Factory",Fire Force,english,0.49
+Hospitaala nan barbaada Paarkii,Medical/Hospital,afaan_oromo,0.83
+"Burglary in progress, suspect inside building at the local Pharmacy",Police,english,0.99
+"Testing the app, please ignore",Other,english,0.96
+Namni hame ta'e jira Staadiyamii,Police,afaan_oromo,0.72
+ህመምተኛ አለ ዶክተር ያስፈልጋል በቀበሌ 04,Medical/Hospital,amharic,0.83
+Gas main break with strong odor throughout area at Train Station,Fire Force,english,0.89
+"Could be a break-in, please investigate at Bus Terminal",Police,english,0.52
+Waan bala'aan uumame Adama Gandaa,Police,afaan_oromo,0.87
+Demonstration mode active,Other,english,0.97
+Structure fire with visible flames from multiple windows at Kazanchis,Fire Force,english,0.97
+Ibiddi bubba'e jira Baankii Qabxii,Fire Force,afaan_oromo,0.7
+"Someone is acting strange, might need doctor at Central Bank",Medical/Hospital,english,0.59
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 02,Medical/Hospital,amharic,0.82
+ፖሊስ በአስቸኳይ ይላኩ በአውቶቡስ ቴርሚናል,Police,amharic,0.79
+"Gas explosion reported, building collapse possible at the Office",Fire Force,english,0.89
+Terrorist attack causing fire and casualties at the business district,Police,english,0.52
+"Person having heart attack, need ambulance immediately at the Hospital gate",Medical/Hospital,english,0.98
+"Could be a break-in, please investigate at a residential building",Police,english,0.55
+"Building explosion, multiple casualties at a local house",Fire Force,english,0.63
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በአዳማ ገበያ,Fire Force,amharic,0.78
+የህዝብ ጸጥታ ችግር አለ በሲኤምሲ,Police,amharic,0.88
+"Person having heart attack, need ambulance immediately at my Home",Medical/Hospital,english,0.9
+"Shots fired, active shooter situation at Adama Market",Police,english,0.89
+"I think there's a medical issue, can you check? at the city center",Medical/Hospital,english,0.62
+"Industrial fire with toxic smoke, evacuate area at a local house",Fire Force,english,0.88
+Gargaarsa fayyaa barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.75
+"Someone might need medical attention, not sure at the Park",Medical/Hospital,english,0.43
+የድንገተኛ ህክምና ያስፈልጋል በስታዲየም,Medical/Hospital,amharic,0.81
+"Chemical facility fire, hazardous materials involved at a private residence",Fire Force,english,0.89
+"I think I see smoke, please verify at a family home",Fire Force,english,0.67
+"Person having heart attack, need ambulance immediately at the marketplace",Medical/Hospital,english,0.97
+Just checking if the system works,Other,english,0.95
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.86
+"Person with allergic reaction, throat swelling, anaphylaxis at Bus Terminal",Medical/Hospital,english,0.97
+"Major incident with fire, injuries, and crime scene at Kebele 02",Fire Force,english,0.55
+"Child choking, immediate medical intervention needed at the Park",Medical/Hospital,english,0.96
+"Industrial fire with toxic smoke, evacuate area at the University campus",Fire Force,english,0.91
+"Testing the app, please ignore",Other,english,0.93
+Criminal barricaded in burning building at a local house,Police,english,0.63
+Gargaarsa fayyaa barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.82
+Something doesn't look right here at Main Road,Police,english,0.54
+"I heard something, might be trouble at the shopping mall",Police,english,0.67
+ቤት ውስጥ እሳት ተነስቷል በቀበሌ 02,Fire Force,amharic,0.71
+"Simulation running, no action needed",Other,english,0.99
+"Something burning maybe, please check at Atlas area",Fire Force,english,0.55
+"Someone is acting strange, might need doctor at the marketplace",Medical/Hospital,english,0.66
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.78
+Waan bala'aan uumame Baankii Qabxii,Police,afaan_oromo,0.75
+"Possible smoke, but I'm not certain at the city center",Fire Force,english,0.64
+"Stroke symptoms, FAST positive, need hospital at the Office",Medical/Hospital,english,0.88
+"Possible heart attack, but I'm not certain at Central Bank",Medical/Hospital,english,0.58
+Yeroo madaa namni dhukkubsate jira Piazza,Medical/Hospital,afaan_oromo,0.8
+Ibiddi bubba'e jira Piazza,Fire Force,afaan_oromo,0.77
+"Someone is acting strange, might need doctor at a local house",Medical/Hospital,english,0.66
+"Gas leak, people are unconscious at the downtown area",Fire Force,english,0.66
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቀበሌ 04,Police,amharic,0.79
+Riot with fires set to buildings at a residential building,Police,english,0.61
+ቤት ውስጥ እሳት ተነስቷል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.7
+የህዝብ ጸጥታ ችግር አለ በቀበሌ 02,Police,amharic,0.79
+"Someone might need medical attention, not sure at the Gas Station",Medical/Hospital,english,0.58
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 04,Medical/Hospital,amharic,0.8
+"Carjacking occurring right now, suspect armed at Adama Market",Police,english,0.95
+"Maybe a robbery, not certain at the Hospital gate",Police,english,0.47
+"Person with allergic reaction, throat swelling, anaphylaxis at Sarbet",Medical/Hospital,english,0.95
+Riot with fires set to buildings at the local Pharmacy,Police,english,0.61
+"Simulation running, no action needed",Other,english,0.95
+"Person having heart attack, need ambulance immediately at the University campus",Medical/Hospital,english,0.88
+"Fight with weapons, people are injured at the Gas Station",Medical/Hospital,english,0.59
+"Child choking, immediate medical intervention needed at a private residence",Medical/Hospital,english,0.88
+Poolisii ariifachiisaa Buufata Otobisii,Police,afaan_oromo,0.83
+"Gas leak, people are unconscious at Adama Market",Fire Force,english,0.66
+"I smell something like smoke, not sure at Train Station",Fire Force,english,0.6
+I think I see something suspicious at a local house,Police,english,0.56
+"Maybe someone fainted, please verify at Bus Terminal",Medical/Hospital,english,0.68
+Dhibee fayyaa cimaa uumame Staadiyamii,Medical/Hospital,afaan_oromo,0.83
+Gaasiin yaa'a jira Bole Daandii,Fire Force,afaan_oromo,0.86
+Car crash with fire and suspected DUI at Bus Terminal,Fire Force,english,0.58
+"Child choking, immediate medical intervention needed at the construction site",Medical/Hospital,english,0.95
+"Stroke symptoms, FAST positive, need hospital at the construction site",Medical/Hospital,english,0.93
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በማዕከላዊ ባንክ,Fire Force,amharic,0.87
+Ibiddi bubba'e jira Bole Daandii,Fire Force,afaan_oromo,0.73
+"Gas explosion reported, building collapse possible at the Office",Fire Force,english,0.93
+Criminal barricaded in burning building at CMC Condominium,Police,english,0.63
+Riot with fires set to buildings at the Office,Police,english,0.61
+Not sure if it's a fire or something else at the shopping mall,Fire Force,english,0.56
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በዋና መንገድ,Medical/Hospital,amharic,0.72
+"Apartment fire, people trapped inside at a family home",Fire Force,english,0.65
+"Kidnapping witnessed, suspect fleeing scene at the Office",Police,english,0.98
+Just checking if the system works,Other,english,0.94
+Not sure but someone looks sick at the business district,Medical/Hospital,english,0.52
+Protestors burning vehicles at Kebele 02,Police,english,0.6
+"Violent attack, victim unconscious and bleeding at the local Pharmacy",Medical/Hospital,english,0.6
+Namni hame ta'e jira Baankii Qabxii,Police,afaan_oromo,0.77
+"Major trauma with heavy bleeding, emergency transport required at the shopping mall",Medical/Hospital,english,0.92
+Apartment building fire with residents trapped at Main Road,Fire Force,english,0.88
+Manni ibidda bubba'e Daandii Guddaa,Fire Force,afaan_oromo,0.83
+"Something burning maybe, please check at the shopping mall",Fire Force,english,0.44
+የወንጀል ክስተት ተከስቷል በፒያሳ,Police,amharic,0.71
+"Building explosion, multiple casualties at the Office",Fire Force,english,0.63
+"Sample message, disregard",Other,english,0.98
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በማዕከላዊ ባንክ,Fire Force,amharic,0.86
+House fire with smoke inhalation victims at the Main Factory,Fire Force,english,0.64
+"Gas explosion reported, building collapse possible at the Gas Station",Fire Force,english,0.93
+Apartment building fire with residents trapped at the Park,Fire Force,english,0.87
+የህዝብ ጸጥታ ችግር አለ በፓርክ,Police,amharic,0.86
+"Person shot, multiple injuries reported at Main Road",Medical/Hospital,english,0.58
+Criminal barricaded in burning building at a local house,Police,english,0.63
+"Severe bleeding, send paramedics right away at the Main Factory",Medical/Hospital,english,0.96
+Waan bala'aan uumame Piazza,Police,afaan_oromo,0.81
+"Could be a break-in, please investigate at Adama Market",Police,english,0.48
+"I heard something, might be trouble at the commercial district",Police,english,0.68
+Just checking if the system works,Other,english,0.96
+Ijaarsi ibidda jala jira Buufata Otobisii,Fire Force,afaan_oromo,0.81
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በማዕከላዊ ባንክ,Fire Force,amharic,0.81
+"I think I see smoke, please verify at the Main Factory",Fire Force,english,0.69
+"Testing the app, please ignore",Other,english,0.93
+Practice report for training purposes,Other,english,0.89
+"Building explosion, multiple casualties at Summit",Fire Force,english,0.63
+"Shots fired, active shooter situation at CMC Condominium",Police,english,0.88
+Not sure if it's a crime but looks wrong at an Apartment building,Police,english,0.65
+"A stabbing occurred, victim is bleeding heavily at the Park",Medical/Hospital,english,0.62
+"Someone is acting strange, might need doctor at an Apartment building",Medical/Hospital,english,0.53
+"Someone is acting strange, might need doctor at the construction site",Medical/Hospital,english,0.53
+"Maybe a robbery, not certain at Kebele 04",Police,english,0.65
+Arson suspect caught on fire at the business district,Police,english,0.57
+"Possible smoke, but I'm not certain at a residential building",Fire Force,english,0.63
+የህዝብ ጸጥታ ችግር አለ በቀበሌ 02,Police,amharic,0.83
+"Active seizure, patient needs emergency medical care at the construction site",Medical/Hospital,english,0.92
+Not sure but better check this area at the local Pharmacy,Police,english,0.48
+"Building explosion, multiple casualties at the Gas Station",Fire Force,english,0.63
+Ibiddi bubba'e jira Piazza,Fire Force,afaan_oromo,0.79
+Car crash with fire and suspected DUI at the Main Factory,Fire Force,english,0.58
+ፖሊስ በአስቸኳይ ይላኩ በቦሌ መንገድ,Police,amharic,0.81
+Practice report for training purposes,Other,english,0.96
+"Maybe someone fainted, please verify at Main Road",Medical/Hospital,english,0.55
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በቀበሌ 02,Fire Force,amharic,0.86
+"Simulation running, no action needed",Other,english,0.98
+"I think there's a medical issue, can you check? at Kazanchis",Medical/Hospital,english,0.46
+ፖሊስ በአስቸኳይ ይላኩ በአዳማ ገበያ,Police,amharic,0.82
+"Testing the app, please ignore",Other,english,0.9
+ፖሊስ በአስቸኳይ ይላኩ በባቡር ጣቢያ,Police,amharic,0.81
+"Active robbery in progress, armed suspect on premises at Kebele 02",Police,english,0.93
+Practice report for training purposes,Other,english,0.89
+Domestic violence incident with active assault at Bus Terminal,Police,english,0.95
+Poolisii ariifachiisaa Paarkii,Police,afaan_oromo,0.77
+"I hear someone crying for help, maybe injured at Summit",Medical/Hospital,english,0.6
+I think I see something suspicious at Central Bank,Police,english,0.68
+"Sample message, disregard",Other,english,0.98
+የወንጀል ክስተት ተከስቷል በባቡር ጣቢያ,Police,amharic,0.81
+Aarii baay'ee jira Baankii Qabxii,Fire Force,afaan_oromo,0.71
+Domestic violence incident with active assault at Kebele 02,Police,english,0.88
+"Active seizure, patient needs emergency medical care at an Apartment building",Medical/Hospital,english,0.98
+"I heard something, might be trouble at the downtown area",Police,english,0.48
+"Gas leak, people are unconscious at Kazanchis",Fire Force,english,0.66
+"Shots fired, active shooter situation at Summit",Police,english,0.94
+Ibiddi bubba'e jira Bole Daandii,Fire Force,afaan_oromo,0.83
+"Maybe someone fainted, please verify at a private residence",Medical/Hospital,english,0.57
+Yeroo madaa namni dhukkubsate jira Kebele 04,Medical/Hospital,afaan_oromo,0.71
+"Maybe there's a fire, can you check? at the business district",Fire Force,english,0.66
+Not sure but better check this area at Train Station,Police,english,0.52
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በቦሌ መንገድ,Fire Force,amharic,0.7
+Namni hame ta'e jira Staadiyamii,Police,afaan_oromo,0.77
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በስታዲየም,Police,amharic,0.8
+Criminal barricaded in burning building at the University campus,Police,english,0.63
+የወንጀል ክስተት ተከስቷል በአዳማ ገበያ,Police,amharic,0.83
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በቦሌ መንገድ,Fire Force,amharic,0.74
+Gas main break with strong odor throughout area at the city center,Fire Force,english,0.93
+"Something burning maybe, please check at my Home",Fire Force,english,0.64
+Multi-vehicle accident with fire on highway at Summit,Fire Force,english,0.95
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 02,Medical/Hospital,amharic,0.8
+"Building explosion, multiple casualties at the city center",Fire Force,english,0.63
+"Riot with multiple offenders, public safety risk at the commercial district",Police,english,0.9
+"Industrial fire with toxic smoke, evacuate area at Summit",Fire Force,english,0.91
+Rimeen uumame poolisii barbaada Paarkii,Police,afaan_oromo,0.87
+"I think I see smoke, please verify at a family home",Fire Force,english,0.51
+Ambulaansii ariifachiisaa Buufata Otobisii,Medical/Hospital,afaan_oromo,0.73
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በፒያሳ,Police,amharic,0.83
+Just checking if the system works,Other,english,0.95
+"Person having heart attack, need ambulance immediately at CMC Condominium",Medical/Hospital,english,0.92
+"Industrial fire with toxic smoke, evacuate area at an Apartment building",Fire Force,english,0.87
+"Testing the app, please ignore",Other,english,0.95
+"I think there's a medical issue, can you check? at the marketplace",Medical/Hospital,english,0.42
+"A stabbing occurred, victim is bleeding heavily at the commercial district",Medical/Hospital,english,0.62
+"Testing the app, please ignore",Other,english,0.97
+"Maybe a robbery, not certain at the business district",Police,english,0.62
+"Burglary in progress, suspect inside building at the Park",Police,english,0.91
+"No emergency, just a test message",Other,english,0.98
+Multi-vehicle accident with fire on highway at Kebele 02,Fire Force,english,0.91
+"Gas explosion reported, building collapse possible at Train Station",Fire Force,english,0.98
+Just checking if the system works,Other,english,0.96
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቦሌ መንገድ,Police,amharic,0.82
+"Someone might need medical attention, not sure at Kebele 04",Medical/Hospital,english,0.46
+"Major incident with fire, injuries, and crime scene at the Gas Station",Fire Force,english,0.55
+Not sure if it's a crime but looks wrong at the city center,Police,english,0.48
+Waan hatamuun uumame Adama Gandaa,Police,afaan_oromo,0.71
+"Gas leak, people are unconscious at the downtown area",Fire Force,english,0.66
+"Fight with weapons, people are injured at a family home",Medical/Hospital,english,0.59
+Arson suspect caught on fire at Kazanchis,Police,english,0.57
+የህዝብ ጸጥታ ችግር አለ በቦሌ መንገድ,Police,amharic,0.81
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በፓርክ,Fire Force,amharic,0.78
+ህመምተኛ አለ ዶክተር ያስፈልጋል በባቡር ጣቢያ,Medical/Hospital,amharic,0.72
+Car crash with fire and suspected DUI at the shopping mall,Fire Force,english,0.58
+የህዝብ ጸጥታ ችግር አለ በዋና መንገድ,Police,amharic,0.72
+"Child choking, immediate medical intervention needed at the city center",Medical/Hospital,english,0.98
+"Person having heart attack, need ambulance immediately at Kebele 04",Medical/Hospital,english,0.9
+"Person shot, multiple injuries reported at Summit",Medical/Hospital,english,0.58
+Criminal barricaded in burning building at my Home,Police,english,0.63
+"Simulation running, no action needed",Other,english,0.95
+Waan hatamuun uumame Buufata Otobisii,Police,afaan_oromo,0.88
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በፓርክ,Medical/Hospital,amharic,0.72
+"Someone might need medical attention, not sure at the marketplace",Medical/Hospital,english,0.64
+"Testing the app, please ignore",Other,english,0.95
+Yeroo madaa namni dhukkubsate jira Kebele 04,Medical/Hospital,afaan_oromo,0.88
+Multi-vehicle accident with fire on highway at the Office,Fire Force,english,0.98
+Waan hatamuun uumame Piazza,Police,afaan_oromo,0.86
+"Burglary in progress, suspect inside building at the downtown area",Police,english,0.97
+የድንገተኛ ህክምና ያስፈልጋል በቀበሌ 02,Medical/Hospital,amharic,0.78
+"Something burning maybe, please check at the Office",Fire Force,english,0.52
+"Violent attack, victim unconscious and bleeding at Kebele 02",Medical/Hospital,english,0.6
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 02,Medical/Hospital,amharic,0.86
+I think I see something suspicious at my Home,Police,english,0.46
+Gas main break with strong odor throughout area at the city center,Fire Force,english,0.9
+Hospitaala nan barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.72
+"I heard a pop, might be electrical at a family home",Fire Force,english,0.54
+Poolisii ariifachiisaa Piazza,Police,afaan_oromo,0.8
+የወንጀል ክስተት ተከስቷል በስታዲየም,Police,amharic,0.76
+I think I see something suspicious at the Park,Police,english,0.63
+"I heard something, might be trouble at Kazanchis",Police,english,0.64
+"Industrial fire with toxic smoke, evacuate area at a local house",Fire Force,english,0.96
+"Officer needs backup, suspect resisting at the Gas Station",Police,english,0.98
+"Person having heart attack, need ambulance immediately at Kebele 04",Medical/Hospital,english,0.92
+Not sure if it's a crime but looks wrong at the downtown area,Police,english,0.59
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በአዳማ ገበያ,Fire Force,amharic,0.87
+"Kidnapping witnessed, suspect fleeing scene at Adama Market",Police,english,0.97
+Demonstration mode active,Other,english,0.94
+ፖሊስ በአስቸኳይ ይላኩ በሲኤምሲ,Police,amharic,0.76
+Not sure but someone looks sick at the Stadium,Medical/Hospital,english,0.43
+"Stroke symptoms, FAST positive, need hospital at Summit",Medical/Hospital,english,0.88
+"Chemical facility fire, hazardous materials involved at the local Pharmacy",Fire Force,english,0.94
+"Unconscious person not breathing, cardiac arrest at a private residence",Medical/Hospital,english,0.94
+"I smell something like smoke, not sure at Summit",Fire Force,english,0.53
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በቀበሌ 02,Medical/Hospital,amharic,0.71
+Gas main break with strong odor throughout area at the city center,Fire Force,english,0.96
+ህመምተኛ አለ ዶክተር ያስፈልጋል በአውቶቡስ ቴርሚናል,Medical/Hospital,amharic,0.82
+Not sure but better check this area at Summit,Police,english,0.66
+"Person with allergic reaction, throat swelling, anaphylaxis at Piazza",Medical/Hospital,english,0.97
+Multi-vehicle accident with fire on highway at Gerji,Fire Force,english,0.98
+"I heard a pop, might be electrical at the marketplace",Fire Force,english,0.57
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.74
+Multi-vehicle accident with fire on highway at the local Pharmacy,Fire Force,english,0.94
+"Gas explosion reported, building collapse possible at CMC Condominium",Fire Force,english,0.95
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በፒያሳ,Police,amharic,0.76
+Not sure if it's a crime but looks wrong at Adama Market,Police,english,0.5
+Practice report for training purposes,Other,english,0.92
+"Could be a break-in, please investigate at the Hospital gate",Police,english,0.43
+Not sure but better check this area at CMC Condominium,Police,english,0.44
+"Active seizure, patient needs emergency medical care at the downtown area",Medical/Hospital,english,0.9
+Hospitaala nan barbaada Adama Gandaa,Medical/Hospital,afaan_oromo,0.72
+የድንገተኛ ህክምና ያስፈልጋል በቀበሌ 04,Medical/Hospital,amharic,0.77
+"Someone might need medical attention, not sure at Gerji",Medical/Hospital,english,0.51
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቦሌ መንገድ,Police,amharic,0.87
+የወንጀል ክስተት ተከስቷል በሲኤምሲ,Police,amharic,0.86
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በቦሌ መንገድ,Fire Force,amharic,0.85
+Ibiddi bubba'e jira Kebele 04,Fire Force,afaan_oromo,0.88
+Manni ibidda bubba'e Paarkii,Fire Force,afaan_oromo,0.83
+Not sure but someone looks sick at the Park,Medical/Hospital,english,0.49
+Terrorist attack causing fire and casualties at the shopping mall,Police,english,0.52
+Ambulaansii ariifachiisaa Staadiyamii,Medical/Hospital,afaan_oromo,0.75
+Car crash with fire and suspected DUI at Central Bank,Fire Force,english,0.58
+Rimeen uumame poolisii barbaada Baankii Qabxii,Police,afaan_oromo,0.86
+Ijaarsi ibidda jala jira Piazza,Fire Force,afaan_oromo,0.72
+ቤት ውስጥ እሳት ተነስቷል በባቡር ጣቢያ,Fire Force,amharic,0.84
+Waan bala'aan uumame Staadiyamii,Police,afaan_oromo,0.75
+"I think there's a medical issue, can you check? at an Apartment building",Medical/Hospital,english,0.53
+Aarii baay'ee jira Adama Gandaa,Fire Force,afaan_oromo,0.82
+"Industrial fire with toxic smoke, evacuate area at the Stadium",Fire Force,english,0.96
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በቀበሌ 04,Fire Force,amharic,0.75
+Ijaarsi ibidda jala jira Adama Gandaa,Fire Force,afaan_oromo,0.87
+Arson suspect caught on fire at the local Pharmacy,Police,english,0.57
+Practice report for training purposes,Other,english,0.93
+"Fight with weapons, people are injured at Bole Road",Medical/Hospital,english,0.59
+ፖሊስ በአስቸኳይ ይላኩ በማዕከላዊ ባንክ,Police,amharic,0.79
+"Industrial fire with toxic smoke, evacuate area at a residential building",Fire Force,english,0.89
+"A stabbing occurred, victim is bleeding heavily at a residential building",Medical/Hospital,english,0.62
+I think I see something suspicious at Mexico Square,Police,english,0.5
+Namni hame ta'e jira Buufata Otobisii,Police,afaan_oromo,0.86
+"Active robbery in progress, armed suspect on premises at the Park",Police,english,0.9
+Hospitaala nan barbaada Bole Daandii,Medical/Hospital,afaan_oromo,0.72
+"Building explosion, multiple casualties at the local Pharmacy",Fire Force,english,0.63
+Not sure if it's a fire or something else at my Home,Fire Force,english,0.64
+Not sure but better check this area at the Main Factory,Police,english,0.62
+Just checking if the system works,Other,english,0.97
+"Someone might need medical attention, not sure at the commercial district",Medical/Hospital,english,0.56
+"Kidnapping witnessed, suspect fleeing scene at the shopping mall",Police,english,0.98
+"Simulation running, no action needed",Other,english,0.96
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በቦሌ መንገድ,Medical/Hospital,amharic,0.86
+"Sample message, disregard",Other,english,0.96
+"Could be a break-in, please investigate at Kazanchis",Police,english,0.49
+የህዝብ ጸጥታ ችግር አለ በዋና መንገድ,Police,amharic,0.78
+"Apartment fire, people trapped inside at the University campus",Fire Force,english,0.65
+Manni ibidda bubba'e Kebele 02,Fire Force,afaan_oromo,0.73
+Demonstration mode active,Other,english,0.91
+"Person having heart attack, need ambulance immediately at a private residence",Medical/Hospital,english,0.88
+"Possible heart attack, but I'm not certain at Bus Terminal",Medical/Hospital,english,0.44
+"Fight with weapons, people are injured at the Gas Station",Medical/Hospital,english,0.59
+"Could be a break-in, please investigate at Train Station",Police,english,0.61
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በፓርክ,Fire Force,amharic,0.73
+"Possible heart attack, but I'm not certain at Summit",Medical/Hospital,english,0.53
+Protestors burning vehicles at Kebele 02,Police,english,0.6
+"Apartment fire, people trapped inside at my Home",Fire Force,english,0.65
+የህዝብ ጸጥታ ችግር አለ በፒያሳ,Police,amharic,0.85
+የወንጀል ክስተት ተከስቷል በፒያሳ,Police,amharic,0.88
+"Stroke symptoms, FAST positive, need hospital at CMC Condominium",Medical/Hospital,english,0.95
+"Maybe someone fainted, please verify at CMC Condominium",Medical/Hospital,english,0.64
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በዋና መንገድ,Police,amharic,0.82
+"Possible heart attack, but I'm not certain at the University campus",Medical/Hospital,english,0.67
+Something doesn't look right here at Central Bank,Police,english,0.51
+"Active robbery in progress, armed suspect on premises at the downtown area",Police,english,0.97
+"Someone is acting strange, might need doctor at my Home",Medical/Hospital,english,0.52
+"Shots fired, active shooter situation at Bus Terminal",Police,english,0.99
+"Industrial fire with toxic smoke, evacuate area at Mexico Square",Fire Force,english,0.95
+"Person shot, multiple injuries reported at Bole Road",Medical/Hospital,english,0.58
+"I hear someone crying for help, maybe injured at the city center",Medical/Hospital,english,0.49
+"I think I see smoke, please verify at Piazza",Fire Force,english,0.52
+የድንገተኛ ህክምና ያስፈልጋል በአውቶቡስ ቴርሚናል,Medical/Hospital,amharic,0.87
+"Person having heart attack, need ambulance immediately at Train Station",Medical/Hospital,english,0.94
+"Major trauma with heavy bleeding, emergency transport required at the shopping mall",Medical/Hospital,english,0.91
+የድንገተኛ ህክምና ያስፈልጋል በሲኤምሲ,Medical/Hospital,amharic,0.85
+Terrorist attack causing fire and casualties at the University campus,Police,english,0.52
+Aarii baay'ee jira Buufata Otobisii,Fire Force,afaan_oromo,0.87
+Arson suspect caught on fire at Mexico Square,Police,english,0.57
+Criminal barricaded in burning building at Central Bank,Police,english,0.63
+"Major trauma with heavy bleeding, emergency transport required at Atlas area",Medical/Hospital,english,0.93
+Just checking if the system works,Other,english,0.93
+Not sure but someone looks sick at a residential building,Medical/Hospital,english,0.56
+Terrorist attack causing fire and casualties at Central Bank,Police,english,0.52
+"Stroke symptoms, FAST positive, need hospital at the Hospital gate",Medical/Hospital,english,0.95
+"Fight with weapons, people are injured at CMC Condominium",Medical/Hospital,english,0.59
+"Stroke symptoms, FAST positive, need hospital at the marketplace",Medical/Hospital,english,0.91
+"Building explosion, multiple casualties at the Gas Station",Fire Force,english,0.63
+Ambulaansii ariifachiisaa Buufata Otobisii,Medical/Hospital,afaan_oromo,0.73
+Ijaarsi ibidda jala jira Bole Daandii,Fire Force,afaan_oromo,0.74
+Not sure if it's a crime but looks wrong at the University campus,Police,english,0.54
+Multi-vehicle accident with fire on highway at CMC Condominium,Fire Force,english,0.97
+"Officer needs backup, suspect resisting at Bus Terminal",Police,english,0.87
+Arson suspect caught on fire at Summit,Police,english,0.57
+"Major incident with fire, injuries, and crime scene at Gerji",Fire Force,english,0.55
+"Testing the app, please ignore",Other,english,0.95
+Forest fire spreading rapidly toward homes at an Apartment building,Fire Force,english,0.88
+Multi-vehicle accident with fire on highway at Train Station,Fire Force,english,0.89
+Dhibee fayyaa cimaa uumame Piazza,Medical/Hospital,afaan_oromo,0.76
+Car crash with fire and suspected DUI at the marketplace,Fire Force,english,0.58
+"Maybe a robbery, not certain at Piazza",Police,english,0.47
+Hospitaala nan barbaada Piazza,Medical/Hospital,afaan_oromo,0.85
+"Officer needs backup, suspect resisting at the Gas Station",Police,english,0.91
+ህመምተኛ አለ ዶክተር ያስፈልጋል በቀበሌ 02,Medical/Hospital,amharic,0.82
+Forest fire spreading rapidly toward homes at Bus Terminal,Fire Force,english,0.93
+"Fight with weapons, people are injured at a residential building",Medical/Hospital,english,0.59
+አምቡላንስ በፍጥነት ይላኩ በባቡር ጣቢያ,Medical/Hospital,amharic,0.77
+"Possible heart attack, but I'm not certain at the marketplace",Medical/Hospital,english,0.62
+Terrorist attack causing fire and casualties at the Office,Police,english,0.52
+"Apartment fire, people trapped inside at CMC Condominium",Fire Force,english,0.65
+"Riot with multiple offenders, public safety risk at the shopping mall",Police,english,0.96
+Demonstration mode active,Other,english,0.98
+"Riot with multiple offenders, public safety risk at CMC Condominium",Police,english,0.97
+"Officer needs backup, suspect resisting at a local house",Police,english,0.88
+"Possible smoke, but I'm not certain at Main Road",Fire Force,english,0.51
+Practice report for training purposes,Other,english,0.92
+"I heard a pop, might be electrical at Train Station",Fire Force,english,0.63
+Waan bala'aan uumame Baankii Qabxii,Police,afaan_oromo,0.71
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በፓርክ,Fire Force,amharic,0.76
+Waan hatamuun uumame Piazza,Police,afaan_oromo,0.85
+"I heard something, might be trouble at the Hospital gate",Police,english,0.5
+Riot with fires set to buildings at Mexico Square,Police,english,0.61
+"Chemical facility fire, hazardous materials involved at Bole Road",Fire Force,english,0.97
+"Shots fired, active shooter situation at the city center",Police,english,0.91
+"Severe bleeding, send paramedics right away at the city center",Medical/Hospital,english,0.88
+I think I see something suspicious at the Main Factory,Police,english,0.48
+Protestors burning vehicles at a private residence,Police,english,0.6
+"Testing the app, please ignore",Other,english,0.98
+Terrorist attack causing fire and casualties at the marketplace,Police,english,0.52
+Namni hame ta'e jira Paarkii,Police,afaan_oromo,0.73
+Riot with fires set to buildings at the Office,Police,english,0.61
+Domestic violence incident with active assault at Piazza,Police,english,0.97
+"Maybe a robbery, not certain at Main Road",Police,english,0.47
+"Shots fired, active shooter situation at the city center",Police,english,0.96
+Structure fire with visible flames from multiple windows at Kazanchis,Fire Force,english,0.93
+Yeroo madaa namni dhukkubsate jira Staadiyamii,Medical/Hospital,afaan_oromo,0.79
+Hospitaala nan barbaada Bole Daandii,Medical/Hospital,afaan_oromo,0.75
+Ambulaansii ariifachiisaa Adama Gandaa,Medical/Hospital,afaan_oromo,0.79
+"Major trauma with heavy bleeding, emergency transport required at the Stadium",Medical/Hospital,english,0.94
+Yeroo madaa namni dhukkubsate jira Daandii Guddaa,Medical/Hospital,afaan_oromo,0.76
+"Something burning maybe, please check at Atlas area",Fire Force,english,0.67
+"I heard something, might be trouble at an Apartment building",Police,english,0.43
+ቤት ውስጥ እሳት ተነስቷል በማዕከላዊ ባንክ,Fire Force,amharic,0.83
+Gas main break with strong odor throughout area at Gerji,Fire Force,english,0.92
+Waan hatamuun uumame Kebele 02,Police,afaan_oromo,0.84
+"Unconscious person not breathing, cardiac arrest at the marketplace",Medical/Hospital,english,0.93
+Rimeen uumame poolisii barbaada Piazza,Police,afaan_oromo,0.85
+የድንገተኛ ህክምና ያስፈልጋል በስታዲየም,Medical/Hospital,amharic,0.8
+Multi-vehicle accident with fire on highway at the shopping mall,Fire Force,english,0.99
+"Burglary in progress, suspect inside building at the Main Factory",Police,english,0.88
+Demonstration mode active,Other,english,0.89
+"Someone is acting strange, might need doctor at the commercial district",Medical/Hospital,english,0.51
+"Sample message, disregard",Other,english,0.89
+"Shots fired, active shooter situation at Central Bank",Police,english,0.97
+"Officer needs backup, suspect resisting at Summit",Police,english,0.88
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 02,Medical/Hospital,amharic,0.74
+Manni ibidda bubba'e Paarkii,Fire Force,afaan_oromo,0.75
+"Carjacking occurring right now, suspect armed at the Hospital gate",Police,english,0.92
+"Fight with weapons, people are injured at a local house",Medical/Hospital,english,0.59
+Terrorist attack causing fire and casualties at Main Road,Police,english,0.52
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በፒያሳ,Fire Force,amharic,0.82
+Terrorist attack causing fire and casualties at the Park,Police,english,0.52
+የህዝብ ጸጥታ ችግር አለ በአውቶቡስ ቴርሚናል,Police,amharic,0.78
+Aarii baay'ee jira Baankii Qabxii,Fire Force,afaan_oromo,0.8
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.84
+Just checking if the system works,Other,english,0.95
+"Maybe someone fainted, please verify at the commercial district",Medical/Hospital,english,0.47
+ሐኪም በአስቸኳይ ይፈለጋል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.88
+"Gas explosion reported, building collapse possible at Kebele 04",Fire Force,english,0.89
+የህዝብ ጸጥታ ችግር አለ በፓርክ,Police,amharic,0.81
+የድንገተኛ ህክምና ያስፈልጋል በባቡር ጣቢያ,Medical/Hospital,amharic,0.75
+"Maybe there's a fire, can you check? at Atlas area",Fire Force,english,0.44
+"I think there's a medical issue, can you check? at Adama Market",Medical/Hospital,english,0.47
+"Major incident with fire, injuries, and crime scene at the shopping mall",Fire Force,english,0.55
+Not sure but someone looks sick at CMC Condominium,Medical/Hospital,english,0.52
+Ambulaansii ariifachiisaa Buufata Otobisii,Medical/Hospital,afaan_oromo,0.86
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በፒያሳ,Fire Force,amharic,0.71
+Terrorist attack causing fire and casualties at Mexico Square,Police,english,0.52
+Ambulaansii ariifachiisaa Kebele 04,Medical/Hospital,afaan_oromo,0.76
+"Sample message, disregard",Other,english,0.98
+Forest fire spreading rapidly toward homes at the shopping mall,Fire Force,english,0.99
+ህመምተኛ አለ ዶክተር ያስፈልጋል በአውቶቡስ ቴርሚናል,Medical/Hospital,amharic,0.74
+Namni hame ta'e jira Daandii Guddaa,Police,afaan_oromo,0.82
+Not sure but someone looks sick at my Home,Medical/Hospital,english,0.47
+Car crash with fire and suspected DUI at the Office,Fire Force,english,0.58
+Not sure but better check this area at Main Road,Police,english,0.53
+"Shots fired, active shooter situation at CMC Condominium",Police,english,0.91
+"Apartment fire, people trapped inside at Piazza",Fire Force,english,0.65
+Apartment building fire with residents trapped at Kebele 04,Fire Force,english,0.87
+"Someone is acting strange, might need doctor at the shopping mall",Medical/Hospital,english,0.53
+"Burglary in progress, suspect inside building at Main Road",Police,english,0.92
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በአዳማ ገበያ,Fire Force,amharic,0.71
+"Chemical facility fire, hazardous materials involved at Summit",Fire Force,english,0.99
+"I heard something, might be trouble at the city center",Police,english,0.44
+"Person having heart attack, need ambulance immediately at the downtown area",Medical/Hospital,english,0.88
+"Major trauma with heavy bleeding, emergency transport required at Kebele 04",Medical/Hospital,english,0.94
+Ibiddi bubba'e jira Buufata Otobisii,Fire Force,afaan_oromo,0.87
+"Child choking, immediate medical intervention needed at Kebele 02",Medical/Hospital,english,0.98
+Not sure if it's a crime but looks wrong at the University campus,Police,english,0.55
+"Simulation running, no action needed",Other,english,0.91
+Practice report for training purposes,Other,english,0.93
+Ibiddi bubba'e jira Paarkii,Fire Force,afaan_oromo,0.72
+"Major trauma with heavy bleeding, emergency transport required at a private residence",Medical/Hospital,english,0.88
+"Shots fired, active shooter situation at the city center",Police,english,0.9
+"Carjacking occurring right now, suspect armed at Main Road",Police,english,0.89
+Waan bala'aan uumame Paarkii,Police,afaan_oromo,0.73
+ህመምተኛ አለ ዶክተር ያስፈልጋል በቀበሌ 02,Medical/Hospital,amharic,0.79
+"Shots fired, active shooter situation at a family home",Police,english,0.88
+"Testing the app, please ignore",Other,english,0.92
+"Sample message, disregard",Other,english,0.96
+"Riot with multiple offenders, public safety risk at Adama Market",Police,english,0.9
+"No emergency, just a test message",Other,english,0.89
+"Kidnapping witnessed, suspect fleeing scene at Atlas area",Police,english,0.92
+Ambulaansii ariifachiisaa Adama Gandaa,Medical/Hospital,afaan_oromo,0.85
+Waan hatamuun uumame Bole Daandii,Police,afaan_oromo,0.75
+"Major incident with fire, injuries, and crime scene at the city center",Fire Force,english,0.55
+"Severe bleeding, send paramedics right away at the Hospital gate",Medical/Hospital,english,0.97
+"Possible smoke, but I'm not certain at a private residence",Fire Force,english,0.59
+ፖሊስ በአስቸኳይ ይላኩ በስታዲየም,Police,amharic,0.79
+Riot with fires set to buildings at the construction site,Police,english,0.61
+ቤት ውስጥ እሳት ተነስቷል በፒያሳ,Fire Force,amharic,0.73
+Waan bala'aan uumame Adama Gandaa,Police,afaan_oromo,0.8
+"Person with allergic reaction, throat swelling, anaphylaxis at the downtown area",Medical/Hospital,english,0.93
+"Severe bleeding, send paramedics right away at the Stadium",Medical/Hospital,english,0.92
+Apartment building fire with residents trapped at my Home,Fire Force,english,0.97
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 04,Medical/Hospital,amharic,0.86
+"Shots fired, active shooter situation at the commercial district",Police,english,0.93
+"Maybe someone fainted, please verify at the Office",Medical/Hospital,english,0.43
+"Testing the app, please ignore",Other,english,0.88
+ቤት ውስጥ እሳት ተነስቷል በፒያሳ,Fire Force,amharic,0.75
+Ambulaansii ariifachiisaa Bole Daandii,Medical/Hospital,afaan_oromo,0.8
+"Shots fired, active shooter situation at the Main Factory",Police,english,0.94
+Just checking if the system works,Other,english,0.94
+አምቡላንስ በፍጥነት ይላኩ በአዳማ ገበያ,Medical/Hospital,amharic,0.72
+"Person having heart attack, need ambulance immediately at the Gas Station",Medical/Hospital,english,0.94
+"Someone might need medical attention, not sure at the Gas Station",Medical/Hospital,english,0.51
+Demonstration mode active,Other,english,0.93
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቀበሌ 04,Police,amharic,0.77
+Not sure but someone looks sick at the shopping mall,Medical/Hospital,english,0.48
+"Unconscious person not breathing, cardiac arrest at Summit",Medical/Hospital,english,0.91
+"Riot with multiple offenders, public safety risk at the local Pharmacy",Police,english,0.87
+"I think there's a medical issue, can you check? at the Hospital gate",Medical/Hospital,english,0.68
+"Active robbery in progress, armed suspect on premises at the University campus",Police,english,0.99
+"Person having heart attack, need ambulance immediately at the Hospital gate",Medical/Hospital,english,0.97
+Something doesn't look right here at the marketplace,Police,english,0.47
+ፖሊስ በአስቸኳይ ይላኩ በቀበሌ 04,Police,amharic,0.76
+"Someone is acting strange, might need doctor at the business district",Medical/Hospital,english,0.67
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በስታዲየም,Police,amharic,0.76
+Protestors burning vehicles at the Hospital gate,Police,english,0.6
+ፖሊስ በአስቸኳይ ይላኩ በፒያሳ,Police,amharic,0.72
+"Unconscious person not breathing, cardiac arrest at Kebele 02",Medical/Hospital,english,0.97
+Not sure but better check this area at a private residence,Police,english,0.44
+አምቡላንስ በፍጥነት ይላኩ በባቡር ጣቢያ,Medical/Hospital,amharic,0.87
+የህዝብ ጸጥታ ችግር አለ በአዳማ ገበያ,Police,amharic,0.72
+Protestors burning vehicles at Bus Terminal,Police,english,0.6
+"Severe bleeding, send paramedics right away at the business district",Medical/Hospital,english,0.94
+"Gas explosion reported, building collapse possible at Bole Road",Fire Force,english,0.98
+ፖሊስ በአስቸኳይ ይላኩ በፒያሳ,Police,amharic,0.81
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በአዳማ ገበያ,Fire Force,amharic,0.76
+Manni ibidda bubba'e Staadiyamii,Fire Force,afaan_oromo,0.74
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በሲኤምሲ,Medical/Hospital,amharic,0.79
+"Stroke symptoms, FAST positive, need hospital at a family home",Medical/Hospital,english,0.96
+"Person shot, multiple injuries reported at a local house",Medical/Hospital,english,0.58
+Not sure but better check this area at my Home,Police,english,0.5
+የወንጀል ክስተት ተከስቷል በማዕከላዊ ባንክ,Police,amharic,0.86
+Demonstration mode active,Other,english,0.89
+"Gas leak, people are unconscious at Main Road",Fire Force,english,0.66
+"Shots fired, active shooter situation at Train Station",Police,english,0.89
+"Testing the app, please ignore",Other,english,0.99
+House fire with smoke inhalation victims at Kebele 02,Fire Force,english,0.64
+"Shots fired, active shooter situation at CMC Condominium",Police,english,0.91
+Gargaarsa fayyaa barbaada Bole Daandii,Medical/Hospital,afaan_oromo,0.75
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በባቡር ጣቢያ,Fire Force,amharic,0.77
+"Sample message, disregard",Other,english,0.89
+የህዝብ ጸጥታ ችግር አለ በሲኤምሲ,Police,amharic,0.7
+Protestors burning vehicles at Mexico Square,Police,english,0.6
+Rimeen uumame poolisii barbaada Piazza,Police,afaan_oromo,0.85
+"Unconscious person not breathing, cardiac arrest at my Home",Medical/Hospital,english,0.91
+Ambulaansii ariifachiisaa Adama Gandaa,Medical/Hospital,afaan_oromo,0.75
+Not sure but better check this area at the Stadium,Police,english,0.51
+የድንገተኛ ህክምና ያስፈልጋል በቀበሌ 04,Medical/Hospital,amharic,0.82
+Arson suspect caught on fire at an Apartment building,Police,english,0.57
+"Kidnapping witnessed, suspect fleeing scene at the commercial district",Police,english,0.97
+"Apartment fire, people trapped inside at my Home",Fire Force,english,0.65
+Ibiddi bubba'e jira Buufata Otobisii,Fire Force,afaan_oromo,0.82
+Demonstration mode active,Other,english,0.88
+"I smell something like smoke, not sure at Piazza",Fire Force,english,0.57
+Ijaarsi ibidda jala jira Baankii Qabxii,Fire Force,afaan_oromo,0.73
+"Testing the app, please ignore",Other,english,0.97
+Just checking if the system works,Other,english,0.98
+"Person with allergic reaction, throat swelling, anaphylaxis at Sarbet",Medical/Hospital,english,0.93
+"Person shot, multiple injuries reported at Kebele 04",Medical/Hospital,english,0.58
+Riot with fires set to buildings at the business district,Police,english,0.61
+"Simulation running, no action needed",Other,english,0.93
+"I think there's a medical issue, can you check? at a private residence",Medical/Hospital,english,0.56
+Dhibee fayyaa cimaa uumame Paarkii,Medical/Hospital,afaan_oromo,0.81
+Hospitaala nan barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.76
+ፖሊስ በአስቸኳይ ይላኩ በቦሌ መንገድ,Police,amharic,0.75
+Terrorist attack causing fire and casualties at Atlas area,Police,english,0.52
+"Gas explosion reported, building collapse possible at a family home",Fire Force,english,0.95
+Yeroo madaa namni dhukkubsate jira Bole Daandii,Medical/Hospital,afaan_oromo,0.72
+Rimeen uumame poolisii barbaada Kebele 02,Police,afaan_oromo,0.79
+Demonstration mode active,Other,english,0.89
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በአዳማ ገበያ,Fire Force,amharic,0.71
+Gargaarsa fayyaa barbaada Buufata Otobisii,Medical/Hospital,afaan_oromo,0.87
+Aarii baay'ee jira Buufata Otobisii,Fire Force,afaan_oromo,0.83
+"Building explosion, multiple casualties at the local Pharmacy",Fire Force,english,0.63
+"Simulation running, no action needed",Other,english,0.97
+Apartment building fire with residents trapped at Bole Road,Fire Force,english,0.98
+የወንጀል ክስተት ተከስቷል በአዳማ ገበያ,Police,amharic,0.83
+Riot with fires set to buildings at the Stadium,Police,english,0.61
+"I think there's a medical issue, can you check? at the Main Factory",Medical/Hospital,english,0.55
+"I hear someone crying for help, maybe injured at the marketplace",Medical/Hospital,english,0.45
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በቦሌ መንገድ,Fire Force,amharic,0.82
+Not sure but better check this area at a private residence,Police,english,0.44
+የህዝብ ጸጥታ ችግር አለ በፒያሳ,Police,amharic,0.85
+የወንጀል ክስተት ተከስቷል በማዕከላዊ ባንክ,Police,amharic,0.72
+"Active robbery in progress, armed suspect on premises at the Park",Police,english,0.91
+"Stroke symptoms, FAST positive, need hospital at Central Bank",Medical/Hospital,english,0.98
+Gargaarsa fayyaa barbaada Piazza,Medical/Hospital,afaan_oromo,0.88
+Not sure if it's a fire or something else at Bus Terminal,Fire Force,english,0.63
+Structure fire with visible flames from multiple windows at Kebele 04,Fire Force,english,0.96
+Structure fire with visible flames from multiple windows at Train Station,Fire Force,english,0.94
+"Gas explosion reported, building collapse possible at Summit",Fire Force,english,0.96
+Just checking if the system works,Other,english,0.96
+"Riot with multiple offenders, public safety risk at Kazanchis",Police,english,0.91
+"Unconscious person not breathing, cardiac arrest at a family home",Medical/Hospital,english,0.94
+"Burglary in progress, suspect inside building at the Stadium",Police,english,0.9
+Just checking if the system works,Other,english,0.88
+Demonstration mode active,Other,english,0.93
+የህዝብ ጸጥታ ችግር አለ በማዕከላዊ ባንክ,Police,amharic,0.85
+"Carjacking occurring right now, suspect armed at Train Station",Police,english,0.94
+Forest fire spreading rapidly toward homes at the Office,Fire Force,english,0.92
+Something doesn't look right here at an Apartment building,Police,english,0.63
+Apartment building fire with residents trapped at the Hospital gate,Fire Force,english,0.94
+Not sure but better check this area at the construction site,Police,english,0.66
+"Carjacking occurring right now, suspect armed at the marketplace",Police,english,0.91
+Terrorist attack causing fire and casualties at Sarbet,Police,english,0.52
+Gas main break with strong odor throughout area at a private residence,Fire Force,english,0.94
+Dhibee fayyaa cimaa uumame Buufata Otobisii,Medical/Hospital,afaan_oromo,0.85
+"Severe bleeding, send paramedics right away at the Main Factory",Medical/Hospital,english,0.9
+"Active seizure, patient needs emergency medical care at the Stadium",Medical/Hospital,english,0.88
+"Maybe there's a fire, can you check? at Summit",Fire Force,english,0.5
+"Active seizure, patient needs emergency medical care at Bus Terminal",Medical/Hospital,english,0.89
+"No emergency, just a test message",Other,english,0.9
+Something doesn't look right here at the marketplace,Police,english,0.62
+Waan hatamuun uumame Piazza,Police,afaan_oromo,0.74
+ህመምተኛ አለ ዶክተር ያስፈልጋል በሲኤምሲ,Medical/Hospital,amharic,0.77
+"Carjacking occurring right now, suspect armed at Summit",Police,english,0.99
+"Possible smoke, but I'm not certain at a local house",Fire Force,english,0.62
+Waan bala'aan uumame Baankii Qabxii,Police,afaan_oromo,0.71
+Riot with fires set to buildings at a private residence,Police,english,0.61
+Rimeen uumame poolisii barbaada Adama Gandaa,Police,afaan_oromo,0.71
+"Active seizure, patient needs emergency medical care at Adama Market",Medical/Hospital,english,0.94
+Gas main break with strong odor throughout area at an Apartment building,Fire Force,english,0.92
+"Chemical facility fire, hazardous materials involved at CMC Condominium",Fire Force,english,0.98
+Multi-vehicle accident with fire on highway at Adama Market,Fire Force,english,0.93
+አምቡላንስ በፍጥነት ይላኩ በፓርክ,Medical/Hospital,amharic,0.74
+Gargaarsa fayyaa barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.77
+Criminal barricaded in burning building at the Gas Station,Police,english,0.63
+"Active robbery in progress, armed suspect on premises at the local Pharmacy",Police,english,0.91
+Dhibee fayyaa cimaa uumame Piazza,Medical/Hospital,afaan_oromo,0.83
+"Gas explosion reported, building collapse possible at the Stadium",Fire Force,english,0.98
+Criminal barricaded in burning building at Bole Road,Police,english,0.63
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በአዳማ ገበያ,Police,amharic,0.75
+Car crash with fire and suspected DUI at Main Road,Fire Force,english,0.58
+"Maybe someone fainted, please verify at the Gas Station",Medical/Hospital,english,0.69
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በአውቶቡስ ቴርሚናል,Police,amharic,0.86
+"Carjacking occurring right now, suspect armed at my Home",Police,english,0.89
+የወንጀል ክስተት ተከስቷል በዋና መንገድ,Police,amharic,0.76
+"Carjacking occurring right now, suspect armed at Piazza",Police,english,0.97
+Practice report for training purposes,Other,english,0.94
+"Person shot, multiple injuries reported at Bole Road",Medical/Hospital,english,0.58
+Hospitaala nan barbaada Buufata Otobisii,Medical/Hospital,afaan_oromo,0.88
+Apartment building fire with residents trapped at Main Road,Fire Force,english,0.93
+"A stabbing occurred, victim is bleeding heavily at CMC Condominium",Medical/Hospital,english,0.62
+House fire with smoke inhalation victims at a private residence,Fire Force,english,0.64
+"Simulation running, no action needed",Other,english,0.9
+Criminal barricaded in burning building at Train Station,Police,english,0.63
+"Violent attack, victim unconscious and bleeding at the business district",Medical/Hospital,english,0.6
+"Building explosion, multiple casualties at Train Station",Fire Force,english,0.63
+ሐኪም በአስቸኳይ ይፈለጋል በባቡር ጣቢያ,Medical/Hospital,amharic,0.82
+"Child choking, immediate medical intervention needed at the Hospital gate",Medical/Hospital,english,0.91
+I think I see something suspicious at Bus Terminal,Police,english,0.42
+Ibiddi bubba'e jira Baankii Qabxii,Fire Force,afaan_oromo,0.79
+Domestic violence incident with active assault at the Park,Police,english,0.94
+Just checking if the system works,Other,english,0.9
+"Sample message, disregard",Other,english,0.88
+"Active robbery in progress, armed suspect on premises at the marketplace",Police,english,0.93
+"Major trauma with heavy bleeding, emergency transport required at a residential building",Medical/Hospital,english,0.91
+Terrorist attack causing fire and casualties at the construction site,Police,english,0.52
+"Carjacking occurring right now, suspect armed at a family home",Police,english,0.95
+Practice report for training purposes,Other,english,0.87
+Multi-vehicle accident with fire on highway at Sarbet,Fire Force,english,0.98
+Poolisii ariifachiisaa Kebele 02,Police,afaan_oromo,0.78
+የህዝብ ጸጥታ ችግር አለ በቀበሌ 02,Police,amharic,0.86
+Poolisii ariifachiisaa Baankii Qabxii,Police,afaan_oromo,0.84
+የወንጀል ክስተት ተከስቷል በአዳማ ገበያ,Police,amharic,0.88
+"Major incident with fire, injuries, and crime scene at Adama Market",Fire Force,english,0.55
+"Child choking, immediate medical intervention needed at Sarbet",Medical/Hospital,english,0.92
+Demonstration mode active,Other,english,0.93
+Not sure if it's a fire or something else at a family home,Fire Force,english,0.63
+Demonstration mode active,Other,english,0.94
+"Severe bleeding, send paramedics right away at a residential building",Medical/Hospital,english,0.95
+"Burglary in progress, suspect inside building at Bole Road",Police,english,0.95
+Riot with fires set to buildings at the University campus,Police,english,0.61
+Poolisii ariifachiisaa Buufata Otobisii,Police,afaan_oromo,0.81
+"Simulation running, no action needed",Other,english,0.97
+"No emergency, just a test message",Other,english,0.89
+I think I see something suspicious at Sarbet,Police,english,0.61
+ህመምተኛ አለ ዶክተር ያስፈልጋል በቀበሌ 04,Medical/Hospital,amharic,0.74
+"I think there's a medical issue, can you check? at the construction site",Medical/Hospital,english,0.64
+Hospitaala nan barbaada Buufata Otobisii,Medical/Hospital,afaan_oromo,0.78
+"Officer needs backup, suspect resisting at an Apartment building",Police,english,0.91
+"Person with allergic reaction, throat swelling, anaphylaxis at the Hospital gate",Medical/Hospital,english,0.95
+"Possible smoke, but I'm not certain at Central Bank",Fire Force,english,0.47
+"Kidnapping witnessed, suspect fleeing scene at Kebele 04",Police,english,0.94
+የወንጀል ክስተት ተከስቷል በስታዲየም,Police,amharic,0.7
+"Stroke symptoms, FAST positive, need hospital at Adama Market",Medical/Hospital,english,0.91
+"I think I see smoke, please verify at the local Pharmacy",Fire Force,english,0.62
+ፖሊስ በአስቸኳይ ይላኩ በአዳማ ገበያ,Police,amharic,0.86
+"Simulation running, no action needed",Other,english,0.95
+Aarii baay'ee jira Staadiyamii,Fire Force,afaan_oromo,0.76
+Practice report for training purposes,Other,english,0.99
+"Sample message, disregard",Other,english,0.93
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በባቡር ጣቢያ,Fire Force,amharic,0.77
+የህዝብ ጸጥታ ችግር አለ በስታዲየም,Police,amharic,0.85
+ህመምተኛ አለ ዶክተር ያስፈልጋል በአውቶቡስ ቴርሚናል,Medical/Hospital,amharic,0.77
+"Unconscious person not breathing, cardiac arrest at the city center",Medical/Hospital,english,0.9
+"Gas explosion reported, building collapse possible at Kebele 04",Fire Force,english,0.92
+"Shots fired, active shooter situation at the shopping mall",Police,english,0.95
+"Chemical facility fire, hazardous materials involved at the Gas Station",Fire Force,english,0.87
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በቀበሌ 04,Medical/Hospital,amharic,0.71
+Waan bala'aan uumame Buufata Otobisii,Police,afaan_oromo,0.88
+"I smell something like smoke, not sure at an Apartment building",Fire Force,english,0.43
+"Someone is acting strange, might need doctor at the business district",Medical/Hospital,english,0.47
+Not sure if it's a fire or something else at the business district,Fire Force,english,0.6
+Gaasiin yaa'a jira Bole Daandii,Fire Force,afaan_oromo,0.81
+Dhibee fayyaa cimaa uumame Buufata Baabura,Medical/Hospital,afaan_oromo,0.88
+Namni hame ta'e jira Adama Gandaa,Police,afaan_oromo,0.83
+Structure fire with visible flames from multiple windows at Adama Market,Fire Force,english,0.91
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በፒያሳ,Police,amharic,0.81
+"Possible heart attack, but I'm not certain at Atlas area",Medical/Hospital,english,0.63
+"Sample message, disregard",Other,english,0.93
+"Testing the app, please ignore",Other,english,0.91
+Waan bala'aan uumame Buufata Otobisii,Police,afaan_oromo,0.72
+Domestic violence incident with active assault at my Home,Police,english,0.97
+"Someone is acting strange, might need doctor at the University campus",Medical/Hospital,english,0.6
+Ibiddi bubba'e jira Bole Daandii,Fire Force,afaan_oromo,0.72
+"Major trauma with heavy bleeding, emergency transport required at the local Pharmacy",Medical/Hospital,english,0.97
+Forest fire spreading rapidly toward homes at a family home,Fire Force,english,0.94
+"Carjacking occurring right now, suspect armed at Atlas area",Police,english,0.96
+Demonstration mode active,Other,english,0.87
+Yeroo madaa namni dhukkubsate jira Kebele 02,Medical/Hospital,afaan_oromo,0.88
+"Person shot, multiple injuries reported at Gerji",Medical/Hospital,english,0.58
+Poolisii ariifachiisaa Buufata Otobisii,Police,afaan_oromo,0.81
+"Simulation running, no action needed",Other,english,0.91
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቀበሌ 04,Police,amharic,0.76
+"Child choking, immediate medical intervention needed at a family home",Medical/Hospital,english,0.95
+Yeroo madaa namni dhukkubsate jira Paarkii,Medical/Hospital,afaan_oromo,0.86
+Gargaarsa fayyaa barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.75
+Demonstration mode active,Other,english,0.89
+"Person shot, multiple injuries reported at a local house",Medical/Hospital,english,0.58
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በሲኤምሲ,Fire Force,amharic,0.83
+"Unconscious person not breathing, cardiac arrest at a local house",Medical/Hospital,english,0.98
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በአዳማ ገበያ,Fire Force,amharic,0.72
+Gaasiin yaa'a jira Adama Gandaa,Fire Force,afaan_oromo,0.83
+Multi-vehicle accident with fire on highway at Gerji,Fire Force,english,0.98
+"Carjacking occurring right now, suspect armed at the marketplace",Police,english,0.9
+"I think there's a medical issue, can you check? at the downtown area",Medical/Hospital,english,0.55
+"Possible heart attack, but I'm not certain at Train Station",Medical/Hospital,english,0.55
+አምቡላንስ በፍጥነት ይላኩ በፒያሳ,Medical/Hospital,amharic,0.87
+"No emergency, just a test message",Other,english,0.87
+"Gas leak, people are unconscious at the Hospital gate",Fire Force,english,0.66
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በፒያሳ,Fire Force,amharic,0.8
+"Carjacking occurring right now, suspect armed at the shopping mall",Police,english,0.88
+ሐኪም በአስቸኳይ ይፈለጋል በፓርክ,Medical/Hospital,amharic,0.84
+Namni hame ta'e jira Adama Gandaa,Police,afaan_oromo,0.83
+Not sure if it's a fire or something else at Main Road,Fire Force,english,0.57
+Car crash with fire and suspected DUI at the Main Factory,Fire Force,english,0.58
+"Active seizure, patient needs emergency medical care at Adama Market",Medical/Hospital,english,0.88
+Criminal barricaded in burning building at the marketplace,Police,english,0.63
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቦሌ መንገድ,Police,amharic,0.79
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በስታዲየም,Fire Force,amharic,0.71
+"Industrial fire with toxic smoke, evacuate area at the Gas Station",Fire Force,english,0.9
+Practice report for training purposes,Other,english,0.94
+"Officer needs backup, suspect resisting at the local Pharmacy",Police,english,0.98
+"Riot with multiple offenders, public safety risk at CMC Condominium",Police,english,0.93
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በባቡር ጣቢያ,Police,amharic,0.77
+Rimeen uumame poolisii barbaada Bole Daandii,Police,afaan_oromo,0.77
+"Active seizure, patient needs emergency medical care at the construction site",Medical/Hospital,english,0.9
+"Apartment fire, people trapped inside at the city center",Fire Force,english,0.65
+Gaasiin yaa'a jira Kebele 04,Fire Force,afaan_oromo,0.74
+"Burglary in progress, suspect inside building at the Office",Police,english,0.9
+Rimeen uumame poolisii barbaada Bole Daandii,Police,afaan_oromo,0.78
+"Child choking, immediate medical intervention needed at the city center",Medical/Hospital,english,0.91
+"Something burning maybe, please check at the Gas Station",Fire Force,english,0.63
+Multi-vehicle accident with fire on highway at Kebele 02,Fire Force,english,0.96
+"Could be a break-in, please investigate at the marketplace",Police,english,0.67
+"Sample message, disregard",Other,english,0.95
+Dhibee fayyaa cimaa uumame Daandii Guddaa,Medical/Hospital,afaan_oromo,0.75
+"Simulation running, no action needed",Other,english,0.98
+"Possible heart attack, but I'm not certain at CMC Condominium",Medical/Hospital,english,0.5
+Apartment building fire with residents trapped at Gerji,Fire Force,english,0.95
+"Simulation running, no action needed",Other,english,0.91
+"I hear someone crying for help, maybe injured at Train Station",Medical/Hospital,english,0.53
+"Person having heart attack, need ambulance immediately at Kebele 02",Medical/Hospital,english,0.88
+የህዝብ ጸጥታ ችግር አለ በአዳማ ገበያ,Police,amharic,0.87
+አምቡላንስ በፍጥነት ይላኩ በዋና መንገድ,Medical/Hospital,amharic,0.79
+"I heard a pop, might be electrical at the Gas Station",Fire Force,english,0.52
+Ijaarsi ibidda jala jira Bole Daandii,Fire Force,afaan_oromo,0.76
+Waan bala'aan uumame Buufata Otobisii,Police,afaan_oromo,0.72
+Something doesn't look right here at the local Pharmacy,Police,english,0.54
+Not sure but someone looks sick at the construction site,Medical/Hospital,english,0.52
+Rimeen uumame poolisii barbaada Adama Gandaa,Police,afaan_oromo,0.85
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በፓርክ,Fire Force,amharic,0.73
+"Carjacking occurring right now, suspect armed at Sarbet",Police,english,0.87
+Practice report for training purposes,Other,english,0.96
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 04,Medical/Hospital,amharic,0.74
+"Active robbery in progress, armed suspect on premises at Kebele 02",Police,english,0.95
+"Active robbery in progress, armed suspect on premises at Sarbet",Police,english,0.94
+Not sure but someone looks sick at the city center,Medical/Hospital,english,0.68
+"Person shot, multiple injuries reported at the Gas Station",Medical/Hospital,english,0.58
+"Burglary in progress, suspect inside building at a family home",Police,english,0.89
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.74
+Ijaarsi ibidda jala jira Paarkii,Fire Force,afaan_oromo,0.76
+"Apartment fire, people trapped inside at Bus Terminal",Fire Force,english,0.65
+Not sure but someone looks sick at an Apartment building,Medical/Hospital,english,0.66
+"Someone might need medical attention, not sure at Gerji",Medical/Hospital,english,0.67
+"Chemical facility fire, hazardous materials involved at the Gas Station",Fire Force,english,0.88
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በቦሌ መንገድ,Fire Force,amharic,0.76
+"Child choking, immediate medical intervention needed at Kazanchis",Medical/Hospital,english,0.99
+"Violent attack, victim unconscious and bleeding at my Home",Medical/Hospital,english,0.6
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በቦሌ መንገድ,Fire Force,amharic,0.77
+"I think I see smoke, please verify at the Office",Fire Force,english,0.62
+Something doesn't look right here at Adama Market,Police,english,0.49
+"I hear someone crying for help, maybe injured at the marketplace",Medical/Hospital,english,0.55
+Demonstration mode active,Other,english,0.92
+Arson suspect caught on fire at Central Bank,Police,english,0.57
+"No emergency, just a test message",Other,english,0.91
+"Officer needs backup, suspect resisting at a local house",Police,english,0.94
+"Testing the app, please ignore",Other,english,0.92
+Practice report for training purposes,Other,english,0.94
+"Sample message, disregard",Other,english,0.89
+Not sure but someone looks sick at the commercial district,Medical/Hospital,english,0.44
+"I hear someone crying for help, maybe injured at Summit",Medical/Hospital,english,0.45
+"Stroke symptoms, FAST positive, need hospital at Kebele 02",Medical/Hospital,english,0.99
+Ijaarsi ibidda jala jira Buufata Otobisii,Fire Force,afaan_oromo,0.84
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቀበሌ 02,Police,amharic,0.78
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በሲኤምሲ,Medical/Hospital,amharic,0.86
+"Maybe a robbery, not certain at a family home",Police,english,0.43
+"Could be a break-in, please investigate at Atlas area",Police,english,0.69
+Not sure if it's a crime but looks wrong at Train Station,Police,english,0.47
+"Simulation running, no action needed",Other,english,0.99
+Gas main break with strong odor throughout area at CMC Condominium,Fire Force,english,0.93
+"A stabbing occurred, victim is bleeding heavily at Gerji",Medical/Hospital,english,0.62
+Dhibee fayyaa cimaa uumame Staadiyamii,Medical/Hospital,afaan_oromo,0.88
+Structure fire with visible flames from multiple windows at Kebele 04,Fire Force,english,0.89
+"Possible heart attack, but I'm not certain at Bole Road",Medical/Hospital,english,0.56
+"Simulation running, no action needed",Other,english,0.87
+Apartment building fire with residents trapped at Central Bank,Fire Force,english,0.96
+"I think there's a medical issue, can you check? at the construction site",Medical/Hospital,english,0.54
+Not sure if it's a crime but looks wrong at the local Pharmacy,Police,english,0.56
+Not sure but someone looks sick at the construction site,Medical/Hospital,english,0.6
+"Severe bleeding, send paramedics right away at the Main Factory",Medical/Hospital,english,0.91
+"Carjacking occurring right now, suspect armed at the Office",Police,english,0.92
+Ijaarsi ibidda jala jira Kebele 04,Fire Force,afaan_oromo,0.88
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በቀበሌ 02,Fire Force,amharic,0.76
+Namni hame ta'e jira Buufata Baabura,Police,afaan_oromo,0.76
+"Major incident with fire, injuries, and crime scene at Adama Market",Fire Force,english,0.55
+"A stabbing occurred, victim is bleeding heavily at Adama Market",Medical/Hospital,english,0.62
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በፓርክ,Fire Force,amharic,0.7
+Namni hame ta'e jira Daandii Guddaa,Police,afaan_oromo,0.76
+Riot with fires set to buildings at Sarbet,Police,english,0.61
+"Possible smoke, but I'm not certain at a local house",Fire Force,english,0.56
+Something doesn't look right here at CMC Condominium,Police,english,0.62
+Poolisii ariifachiisaa Adama Gandaa,Police,afaan_oromo,0.74
+"Person shot, multiple injuries reported at my Home",Medical/Hospital,english,0.58
+House fire with smoke inhalation victims at the University campus,Fire Force,english,0.64
+Car crash with fire and suspected DUI at Kazanchis,Fire Force,english,0.58
+Rimeen uumame poolisii barbaada Staadiyamii,Police,afaan_oromo,0.79
+Not sure if it's a crime but looks wrong at Kebele 04,Police,english,0.58
+Criminal barricaded in burning building at the University campus,Police,english,0.63
+Not sure if it's a fire or something else at Adama Market,Fire Force,english,0.64
+Namni hame ta'e jira Piazza,Police,afaan_oromo,0.75
+Poolisii ariifachiisaa Staadiyamii,Police,afaan_oromo,0.72
+Not sure if it's a fire or something else at an Apartment building,Fire Force,english,0.52
+"I hear someone crying for help, maybe injured at Piazza",Medical/Hospital,english,0.44
+"Unconscious person not breathing, cardiac arrest at the Office",Medical/Hospital,english,0.95
+"Possible smoke, but I'm not certain at the local Pharmacy",Fire Force,english,0.57
+Gas main break with strong odor throughout area at a private residence,Fire Force,english,0.93
+ሐኪም በአስቸኳይ ይፈለጋል በስታዲየም,Medical/Hospital,amharic,0.85
+ፖሊስ በአስቸኳይ ይላኩ በባቡር ጣቢያ,Police,amharic,0.73
+"Severe bleeding, send paramedics right away at Kebele 02",Medical/Hospital,english,0.94
+Ibiddi bubba'e jira Buufata Otobisii,Fire Force,afaan_oromo,0.76
+Ibiddi bubba'e jira Daandii Guddaa,Fire Force,afaan_oromo,0.72
+Practice report for training purposes,Other,english,0.99
+"Kidnapping witnessed, suspect fleeing scene at Bus Terminal",Police,english,0.89
+"Possible smoke, but I'm not certain at Summit",Fire Force,english,0.54
+Not sure but someone looks sick at a residential building,Medical/Hospital,english,0.53
+"Someone is acting strange, might need doctor at Central Bank",Medical/Hospital,english,0.56
+"Child choking, immediate medical intervention needed at the Stadium",Medical/Hospital,english,0.97
+Riot with fires set to buildings at Kebele 02,Police,english,0.61
+Criminal barricaded in burning building at the Office,Police,english,0.63
+"Building explosion, multiple casualties at the Main Factory",Fire Force,english,0.63
+Something doesn't look right here at the city center,Police,english,0.46
+"Stroke symptoms, FAST positive, need hospital at Sarbet",Medical/Hospital,english,0.87
+Dhibee fayyaa cimaa uumame Buufata Otobisii,Medical/Hospital,afaan_oromo,0.73
+"Person with allergic reaction, throat swelling, anaphylaxis at the downtown area",Medical/Hospital,english,0.95
+Domestic violence incident with active assault at Piazza,Police,english,0.98
+"I heard something, might be trouble at the city center",Police,english,0.51
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በባቡር ጣቢያ,Fire Force,amharic,0.84
+"Violent attack, victim unconscious and bleeding at the city center",Medical/Hospital,english,0.6
+"Could be a break-in, please investigate at Main Road",Police,english,0.68
+"Shots fired, active shooter situation at Main Road",Police,english,0.87
+Manni ibidda bubba'e Paarkii,Fire Force,afaan_oromo,0.81
+"Chemical facility fire, hazardous materials involved at a local house",Fire Force,english,0.97
+Criminal barricaded in burning building at Kebele 02,Police,english,0.63
+Dhibee fayyaa cimaa uumame Bole Daandii,Medical/Hospital,afaan_oromo,0.84
+Manni ibidda bubba'e Adama Gandaa,Fire Force,afaan_oromo,0.73
+Ambulaansii ariifachiisaa Buufata Otobisii,Medical/Hospital,afaan_oromo,0.86
+ህመምተኛ አለ ዶክተር ያስፈልጋል በባቡር ጣቢያ,Medical/Hospital,amharic,0.73
+Domestic violence incident with active assault at a local house,Police,english,0.89
+Domestic violence incident with active assault at Bole Road,Police,english,0.88
+Riot with fires set to buildings at the shopping mall,Police,english,0.61
+"I heard something, might be trouble at a local house",Police,english,0.67
+Domestic violence incident with active assault at Kebele 02,Police,english,0.89
+"Person shot, multiple injuries reported at Summit",Medical/Hospital,english,0.58
+Aarii baay'ee jira Buufata Baabura,Fire Force,afaan_oromo,0.83
+"Active seizure, patient needs emergency medical care at Train Station",Medical/Hospital,english,0.89
+Gas main break with strong odor throughout area at a private residence,Fire Force,english,0.89
+"Active robbery in progress, armed suspect on premises at a local house",Police,english,0.98
+"I smell something like smoke, not sure at Gerji",Fire Force,english,0.45
+Not sure but better check this area at Piazza,Police,english,0.68
+"Sample message, disregard",Other,english,0.96
+Hospitaala nan barbaada Buufata Otobisii,Medical/Hospital,afaan_oromo,0.82
+Aarii baay'ee jira Paarkii,Fire Force,afaan_oromo,0.74
+Gargaarsa fayyaa barbaada Piazza,Medical/Hospital,afaan_oromo,0.81
+"Possible heart attack, but I'm not certain at Kebele 02",Medical/Hospital,english,0.53
+ፖሊስ በአስቸኳይ ይላኩ በፒያሳ,Police,amharic,0.78
+"I heard a pop, might be electrical at the business district",Fire Force,english,0.49
+I think I see something suspicious at Sarbet,Police,english,0.65
+"Officer needs backup, suspect resisting at Central Bank",Police,english,0.88
+"I hear someone crying for help, maybe injured at Kazanchis",Medical/Hospital,english,0.67
+"Shots fired, active shooter situation at the Gas Station",Police,english,0.93
+Criminal barricaded in burning building at Atlas area,Police,english,0.63
+"Stroke symptoms, FAST positive, need hospital at Kebele 04",Medical/Hospital,english,0.97
+Ibiddi bubba'e jira Baankii Qabxii,Fire Force,afaan_oromo,0.82
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 04,Medical/Hospital,amharic,0.87
+House fire with smoke inhalation victims at my Home,Fire Force,english,0.64
+Arson suspect caught on fire at CMC Condominium,Police,english,0.57
+Riot with fires set to buildings at a family home,Police,english,0.61
+"Industrial fire with toxic smoke, evacuate area at a family home",Fire Force,english,0.89
+Dhibee fayyaa cimaa uumame Piazza,Medical/Hospital,afaan_oromo,0.82
+"I think there's a medical issue, can you check? at the Hospital gate",Medical/Hospital,english,0.45
+"Active robbery in progress, armed suspect on premises at Main Road",Police,english,0.9
+House fire with smoke inhalation victims at Central Bank,Fire Force,english,0.64
+"Possible smoke, but I'm not certain at the Park",Fire Force,english,0.56
+ፖሊስ በአስቸኳይ ይላኩ በቀበሌ 04,Police,amharic,0.83
+"Major trauma with heavy bleeding, emergency transport required at a family home",Medical/Hospital,english,0.91
+"Could be a break-in, please investigate at Kazanchis",Police,english,0.56
+"Fight with weapons, people are injured at the marketplace",Medical/Hospital,english,0.59
+"Active seizure, patient needs emergency medical care at Train Station",Medical/Hospital,english,0.87
+ፖሊስ በአስቸኳይ ይላኩ በአውቶቡስ ቴርሚናል,Police,amharic,0.76
+Riot with fires set to buildings at Kebele 02,Police,english,0.61
+Not sure but better check this area at the construction site,Police,english,0.65
+"Violent attack, victim unconscious and bleeding at Bole Road",Medical/Hospital,english,0.6
+Not sure but someone looks sick at the Main Factory,Medical/Hospital,english,0.56
+"I think I see smoke, please verify at Piazza",Fire Force,english,0.44
+"I hear someone crying for help, maybe injured at the University campus",Medical/Hospital,english,0.57
+"Burglary in progress, suspect inside building at Kazanchis",Police,english,0.97
+"Maybe a robbery, not certain at the city center",Police,english,0.44
+Not sure if it's a crime but looks wrong at my Home,Police,english,0.66
+"Someone is acting strange, might need doctor at CMC Condominium",Medical/Hospital,english,0.64
+"Riot with multiple offenders, public safety risk at the Office",Police,english,0.99
+"Major trauma with heavy bleeding, emergency transport required at Kebele 02",Medical/Hospital,english,0.91
+"Person with allergic reaction, throat swelling, anaphylaxis at a family home",Medical/Hospital,english,0.92
+የድንገተኛ ህክምና ያስፈልጋል በአውቶቡስ ቴርሚናል,Medical/Hospital,amharic,0.78
+"Kidnapping witnessed, suspect fleeing scene at a family home",Police,english,0.97
+Practice report for training purposes,Other,english,0.91
+Waan hatamuun uumame Adama Gandaa,Police,afaan_oromo,0.77
+"Maybe a robbery, not certain at the Stadium",Police,english,0.46
+"Possible heart attack, but I'm not certain at Bole Road",Medical/Hospital,english,0.55
+Gargaarsa fayyaa barbaada Adama Gandaa,Medical/Hospital,afaan_oromo,0.81
+Not sure but someone looks sick at the business district,Medical/Hospital,english,0.66
+Rimeen uumame poolisii barbaada Kebele 02,Police,afaan_oromo,0.81
+Not sure but better check this area at the Main Factory,Police,english,0.45
+"I heard something, might be trouble at Central Bank",Police,english,0.67
+"Something burning maybe, please check at a residential building",Fire Force,english,0.43
+"Fight with weapons, people are injured at Kebele 04",Medical/Hospital,english,0.59
+"Active seizure, patient needs emergency medical care at a family home",Medical/Hospital,english,0.88
+Not sure but better check this area at the Stadium,Police,english,0.62
+"Shots fired, active shooter situation at the University campus",Police,english,0.96
+"Someone might need medical attention, not sure at the business district",Medical/Hospital,english,0.5
+"Someone might need medical attention, not sure at a residential building",Medical/Hospital,english,0.49
+"Gas leak, people are unconscious at CMC Condominium",Fire Force,english,0.66
+House fire with smoke inhalation victims at the commercial district,Fire Force,english,0.64
+Terrorist attack causing fire and casualties at the commercial district,Police,english,0.52
+"Maybe someone fainted, please verify at the city center",Medical/Hospital,english,0.45
+Something doesn't look right here at the marketplace,Police,english,0.43
+"Possible smoke, but I'm not certain at the marketplace",Fire Force,english,0.55
+ሐኪም በአስቸኳይ ይፈለጋል በባቡር ጣቢያ,Medical/Hospital,amharic,0.75
+"Could be a break-in, please investigate at Kazanchis",Police,english,0.46
+"Stroke symptoms, FAST positive, need hospital at the Main Factory",Medical/Hospital,english,0.92
+Waan bala'aan uumame Paarkii,Police,afaan_oromo,0.73
+"Active robbery in progress, armed suspect on premises at the commercial district",Police,english,0.95
+"Person with allergic reaction, throat swelling, anaphylaxis at the Office",Medical/Hospital,english,0.93
+Waan bala'aan uumame Kebele 04,Police,afaan_oromo,0.83
+"Unconscious person not breathing, cardiac arrest at the marketplace",Medical/Hospital,english,0.95
+"Riot with multiple offenders, public safety risk at the construction site",Police,english,0.98
+Just checking if the system works,Other,english,0.96
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በቀበሌ 02,Fire Force,amharic,0.72
+Yeroo madaa namni dhukkubsate jira Kebele 04,Medical/Hospital,afaan_oromo,0.77
+"No emergency, just a test message",Other,english,0.9
+"Someone might need medical attention, not sure at the Hospital gate",Medical/Hospital,english,0.48
+ሐኪም በአስቸኳይ ይፈለጋል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.72
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቦሌ መንገድ,Police,amharic,0.7
+"Burglary in progress, suspect inside building at Summit",Police,english,0.95
+"I hear someone crying for help, maybe injured at the marketplace",Medical/Hospital,english,0.63
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በቀበሌ 04,Fire Force,amharic,0.82
+"Simulation running, no action needed",Other,english,0.97
+"Violent attack, victim unconscious and bleeding at Central Bank",Medical/Hospital,english,0.6
+"Major trauma with heavy bleeding, emergency transport required at the Gas Station",Medical/Hospital,english,0.87
+Manni ibidda bubba'e Adama Gandaa,Fire Force,afaan_oromo,0.84
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በቀበሌ 02,Fire Force,amharic,0.7
+Not sure if it's a crime but looks wrong at Gerji,Police,english,0.51
+"Violent attack, victim unconscious and bleeding at the Office",Medical/Hospital,english,0.6
+Not sure but better check this area at the shopping mall,Police,english,0.47
+የህዝብ ጸጥታ ችግር አለ በአውቶቡስ ቴርሚናል,Police,amharic,0.77
+"Burglary in progress, suspect inside building at the shopping mall",Police,english,0.96
+"Active robbery in progress, armed suspect on premises at the business district",Police,english,0.88
+"Unconscious person not breathing, cardiac arrest at an Apartment building",Medical/Hospital,english,0.88
+Protestors burning vehicles at CMC Condominium,Police,english,0.6
+Terrorist attack causing fire and casualties at Mexico Square,Police,english,0.52
+Just checking if the system works,Other,english,0.95
+"Officer needs backup, suspect resisting at Kebele 04",Police,english,0.97
+Demonstration mode active,Other,english,0.9
+"Shots fired, active shooter situation at Summit",Police,english,0.87
+"Apartment fire, people trapped inside at the marketplace",Fire Force,english,0.65
+Manni ibidda bubba'e Piazza,Fire Force,afaan_oromo,0.75
+Practice report for training purposes,Other,english,0.87
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በቀበሌ 04,Fire Force,amharic,0.77
+"Industrial fire with toxic smoke, evacuate area at a residential building",Fire Force,english,0.95
+Car crash with fire and suspected DUI at Atlas area,Fire Force,english,0.58
+"Simulation running, no action needed",Other,english,0.94
+"Severe bleeding, send paramedics right away at the shopping mall",Medical/Hospital,english,0.87
+"I heard something, might be trouble at the Hospital gate",Police,english,0.44
+"Maybe there's a fire, can you check? at the Main Factory",Fire Force,english,0.45
+House fire with smoke inhalation victims at the Office,Fire Force,english,0.64
+Gargaarsa fayyaa barbaada Buufata Otobisii,Medical/Hospital,afaan_oromo,0.81
+Hospitaala nan barbaada Buufata Baabura,Medical/Hospital,afaan_oromo,0.87
+Manni ibidda bubba'e Bole Daandii,Fire Force,afaan_oromo,0.79
+"Major incident with fire, injuries, and crime scene at a residential building",Fire Force,english,0.55
+Hospitaala nan barbaada Piazza,Medical/Hospital,afaan_oromo,0.73
+Protestors burning vehicles at Sarbet,Police,english,0.6
+"Active robbery in progress, armed suspect on premises at the Gas Station",Police,english,0.98
+Something doesn't look right here at Summit,Police,english,0.66
+Domestic violence incident with active assault at the Hospital gate,Police,english,0.94
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በአውቶቡስ ቴርሚናል,Fire Force,amharic,0.8
+"Active robbery in progress, armed suspect on premises at Piazza",Police,english,0.89
+"Person having heart attack, need ambulance immediately at the city center",Medical/Hospital,english,0.92
+"I heard a pop, might be electrical at Piazza",Fire Force,english,0.44
+"Someone is acting strange, might need doctor at the construction site",Medical/Hospital,english,0.59
+Dhibee fayyaa cimaa uumame Kebele 02,Medical/Hospital,afaan_oromo,0.73
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በሲኤምሲ,Fire Force,amharic,0.75
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቀበሌ 04,Police,amharic,0.82
+አምቡላንስ በፍጥነት ይላኩ በሲኤምሲ,Medical/Hospital,amharic,0.85
+"Kidnapping witnessed, suspect fleeing scene at a family home",Police,english,0.94
+Aarii baay'ee jira Adama Gandaa,Fire Force,afaan_oromo,0.74
+"Possible heart attack, but I'm not certain at CMC Condominium",Medical/Hospital,english,0.64
+Arson suspect caught on fire at the marketplace,Police,english,0.57
+"Simulation running, no action needed",Other,english,0.92
+I think I see something suspicious at the commercial district,Police,english,0.48
+Ibiddi bubba'e jira Adama Gandaa,Fire Force,afaan_oromo,0.75
+Not sure but someone looks sick at Main Road,Medical/Hospital,english,0.45
+ፖሊስ በአስቸኳይ ይላኩ በባቡር ጣቢያ,Police,amharic,0.83
+"Maybe there's a fire, can you check? at the Main Factory",Fire Force,english,0.51
+"I think there's a medical issue, can you check? at the marketplace",Medical/Hospital,english,0.55
+Gaasiin yaa'a jira Adama Gandaa,Fire Force,afaan_oromo,0.81
+"Possible smoke, but I'm not certain at Train Station",Fire Force,english,0.54
+Terrorist attack causing fire and casualties at Bus Terminal,Police,english,0.52
+"Person having heart attack, need ambulance immediately at Bole Road",Medical/Hospital,english,0.9
+Demonstration mode active,Other,english,0.9
+Terrorist attack causing fire and casualties at Summit,Police,english,0.52
+"Person with allergic reaction, throat swelling, anaphylaxis at an Apartment building",Medical/Hospital,english,0.95
+Not sure but better check this area at the Hospital gate,Police,english,0.57
+"I heard a pop, might be electrical at Summit",Fire Force,english,0.52
+"Active seizure, patient needs emergency medical care at Adama Market",Medical/Hospital,english,0.88
+"Chemical facility fire, hazardous materials involved at the Gas Station",Fire Force,english,0.88
+"Maybe someone fainted, please verify at the shopping mall",Medical/Hospital,english,0.62
+"I think I see smoke, please verify at the local Pharmacy",Fire Force,english,0.66
+"Major trauma with heavy bleeding, emergency transport required at a residential building",Medical/Hospital,english,0.91
+"Carjacking occurring right now, suspect armed at Bole Road",Police,english,0.96
+Gargaarsa fayyaa barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.79
+Protestors burning vehicles at the commercial district,Police,english,0.6
+"Someone might need medical attention, not sure at a family home",Medical/Hospital,english,0.66
+አምቡላንስ በፍጥነት ይላኩ በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.85
+"Someone is acting strange, might need doctor at Kazanchis",Medical/Hospital,english,0.5
+Rimeen uumame poolisii barbaada Bole Daandii,Police,afaan_oromo,0.87
+Demonstration mode active,Other,english,0.9
+"Simulation running, no action needed",Other,english,0.96
+Gargaarsa fayyaa barbaada Piazza,Medical/Hospital,afaan_oromo,0.73
+የወንጀል ክስተት ተከስቷል በፓርክ,Police,amharic,0.8
+"Possible smoke, but I'm not certain at Gerji",Fire Force,english,0.66
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በስታዲየም,Police,amharic,0.81
+Structure fire with visible flames from multiple windows at a family home,Fire Force,english,0.96
+"Sample message, disregard",Other,english,0.94
+"Major trauma with heavy bleeding, emergency transport required at the marketplace",Medical/Hospital,english,0.97
+Aarii baay'ee jira Kebele 04,Fire Force,afaan_oromo,0.76
+Gaasiin yaa'a jira Buufata Baabura,Fire Force,afaan_oromo,0.73
+Namni hame ta'e jira Kebele 02,Police,afaan_oromo,0.75
+Apartment building fire with residents trapped at Train Station,Fire Force,english,0.95
+Just checking if the system works,Other,english,0.95
+Forest fire spreading rapidly toward homes at Train Station,Fire Force,english,0.98
+"Testing the app, please ignore",Other,english,0.88
+Not sure but someone looks sick at Bole Road,Medical/Hospital,english,0.6
+"Maybe a robbery, not certain at Main Road",Police,english,0.44
+Demonstration mode active,Other,english,0.92
+"I hear someone crying for help, maybe injured at the marketplace",Medical/Hospital,english,0.51
+"Possible heart attack, but I'm not certain at Gerji",Medical/Hospital,english,0.56
+"Unconscious person not breathing, cardiac arrest at a family home",Medical/Hospital,english,0.98
+House fire with smoke inhalation victims at Gerji,Fire Force,english,0.64
+Not sure but better check this area at Atlas area,Police,english,0.53
+"Chemical facility fire, hazardous materials involved at the downtown area",Fire Force,english,0.95
+"Carjacking occurring right now, suspect armed at the shopping mall",Police,english,0.91
+"A stabbing occurred, victim is bleeding heavily at the Stadium",Medical/Hospital,english,0.62
+Not sure but someone looks sick at Kebele 04,Medical/Hospital,english,0.69
+Practice report for training purposes,Other,english,0.96
+"Kidnapping witnessed, suspect fleeing scene at the marketplace",Police,english,0.93
+Gas main break with strong odor throughout area at the shopping mall,Fire Force,english,0.87
+ህመምተኛ አለ ዶክተር ያስፈልጋል በአዳማ ገበያ,Medical/Hospital,amharic,0.87
+ፖሊስ በአስቸኳይ ይላኩ በአውቶቡስ ቴርሚናል,Police,amharic,0.77
+Practice report for training purposes,Other,english,0.9
+"I heard a pop, might be electrical at Summit",Fire Force,english,0.67
+"Possible smoke, but I'm not certain at an Apartment building",Fire Force,english,0.59
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በሲኤምሲ,Medical/Hospital,amharic,0.85
+"Possible smoke, but I'm not certain at a family home",Fire Force,english,0.65
+"Simulation running, no action needed",Other,english,0.9
+"Burglary in progress, suspect inside building at a residential building",Police,english,0.93
+Demonstration mode active,Other,english,0.99
+"Unconscious person not breathing, cardiac arrest at a family home",Medical/Hospital,english,0.94
+Waan hatamuun uumame Buufata Baabura,Police,afaan_oromo,0.79
+Structure fire with visible flames from multiple windows at Sarbet,Fire Force,english,0.93
+Something doesn't look right here at the Stadium,Police,english,0.49
+የወንጀል ክስተት ተከስቷል በአዳማ ገበያ,Police,amharic,0.87
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በቦሌ መንገድ,Fire Force,amharic,0.85
+Gas main break with strong odor throughout area at a private residence,Fire Force,english,0.88
+"Building explosion, multiple casualties at Piazza",Fire Force,english,0.63
+Rimeen uumame poolisii barbaada Daandii Guddaa,Police,afaan_oromo,0.76
+"Stroke symptoms, FAST positive, need hospital at the University campus",Medical/Hospital,english,0.95
+Forest fire spreading rapidly toward homes at the downtown area,Fire Force,english,0.93
+"Violent attack, victim unconscious and bleeding at an Apartment building",Medical/Hospital,english,0.6
+Practice report for training purposes,Other,english,0.95
+"Fight with weapons, people are injured at Main Road",Medical/Hospital,english,0.59
+"Person with allergic reaction, throat swelling, anaphylaxis at Piazza",Medical/Hospital,english,0.98
+Yeroo madaa namni dhukkubsate jira Baankii Qabxii,Medical/Hospital,afaan_oromo,0.82
+"I think I see smoke, please verify at the Park",Fire Force,english,0.6
+"Unconscious person not breathing, cardiac arrest at a residential building",Medical/Hospital,english,0.98
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በቀበሌ 02,Fire Force,amharic,0.87
+ሐኪም በአስቸኳይ ይፈለጋል በቀበሌ 04,Medical/Hospital,amharic,0.76
+ቤት ውስጥ እሳት ተነስቷል በቦሌ መንገድ,Fire Force,amharic,0.81
+"No emergency, just a test message",Other,english,0.9
+Rimeen uumame poolisii barbaada Buufata Otobisii,Police,afaan_oromo,0.77
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በማዕከላዊ ባንክ,Fire Force,amharic,0.82
+"Someone might need medical attention, not sure at the local Pharmacy",Medical/Hospital,english,0.46
+"Industrial fire with toxic smoke, evacuate area at the Main Factory",Fire Force,english,0.94
+Not sure if it's a fire or something else at Atlas area,Fire Force,english,0.46
+"Something burning maybe, please check at the city center",Fire Force,english,0.61
+"Active robbery in progress, armed suspect on premises at Central Bank",Police,english,0.87
+"Person having heart attack, need ambulance immediately at Bus Terminal",Medical/Hospital,english,0.98
+Multi-vehicle accident with fire on highway at the local Pharmacy,Fire Force,english,0.96
+Practice report for training purposes,Other,english,0.99
+"Maybe someone fainted, please verify at CMC Condominium",Medical/Hospital,english,0.59
+Waan bala'aan uumame Buufata Otobisii,Police,afaan_oromo,0.76
+Ambulaansii ariifachiisaa Adama Gandaa,Medical/Hospital,afaan_oromo,0.76
+"Maybe there's a fire, can you check? at my Home",Fire Force,english,0.65
+Rimeen uumame poolisii barbaada Buufata Baabura,Police,afaan_oromo,0.82
+"Maybe someone fainted, please verify at the Hospital gate",Medical/Hospital,english,0.51
+"Child choking, immediate medical intervention needed at Sarbet",Medical/Hospital,english,0.94
+Namni hame ta'e jira Adama Gandaa,Police,afaan_oromo,0.82
+"Chemical facility fire, hazardous materials involved at a residential building",Fire Force,english,0.88
+"Burglary in progress, suspect inside building at a family home",Police,english,0.96
+Gaasiin yaa'a jira Buufata Otobisii,Fire Force,afaan_oromo,0.79
+Waan bala'aan uumame Bole Daandii,Police,afaan_oromo,0.73
+Riot with fires set to buildings at Bus Terminal,Police,english,0.61
+"Something burning maybe, please check at the downtown area",Fire Force,english,0.46
+"Simulation running, no action needed",Other,english,0.98
+"Industrial fire with toxic smoke, evacuate area at Kazanchis",Fire Force,english,0.91
+የወንጀል ክስተት ተከስቷል በአዳማ ገበያ,Police,amharic,0.75
+ሐኪም በአስቸኳይ ይፈለጋል በባቡር ጣቢያ,Medical/Hospital,amharic,0.78
+Dhibee fayyaa cimaa uumame Daandii Guddaa,Medical/Hospital,afaan_oromo,0.74
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በቀበሌ 02,Fire Force,amharic,0.86
+"A stabbing occurred, victim is bleeding heavily at a family home",Medical/Hospital,english,0.62
+"I think there's a medical issue, can you check? at the Main Factory",Medical/Hospital,english,0.63
+"Stroke symptoms, FAST positive, need hospital at the commercial district",Medical/Hospital,english,0.89
+"Possible heart attack, but I'm not certain at the city center",Medical/Hospital,english,0.49
+Aarii baay'ee jira Kebele 02,Fire Force,afaan_oromo,0.76
+"Industrial fire with toxic smoke, evacuate area at Gerji",Fire Force,english,0.87
+Gargaarsa fayyaa barbaada Staadiyamii,Medical/Hospital,afaan_oromo,0.72
+"Maybe a robbery, not certain at Gerji",Police,english,0.48
+"I think there's a medical issue, can you check? at Piazza",Medical/Hospital,english,0.47
+"Violent attack, victim unconscious and bleeding at Main Road",Medical/Hospital,english,0.6
+Ibiddi bubba'e jira Staadiyamii,Fire Force,afaan_oromo,0.87
+Arson suspect caught on fire at Kebele 02,Police,english,0.57
+Ijaarsi ibidda jala jira Piazza,Fire Force,afaan_oromo,0.74
+"Maybe there's a fire, can you check? at Atlas area",Fire Force,english,0.64
+Aarii baay'ee jira Bole Daandii,Fire Force,afaan_oromo,0.75
+"Fight with weapons, people are injured at the Main Factory",Medical/Hospital,english,0.59
+Demonstration mode active,Other,english,0.94
+"Fight with weapons, people are injured at Adama Market",Medical/Hospital,english,0.59
+"Someone might need medical attention, not sure at Gerji",Medical/Hospital,english,0.49
+Gargaarsa fayyaa barbaada Piazza,Medical/Hospital,afaan_oromo,0.8
+Not sure if it's a crime but looks wrong at Adama Market,Police,english,0.45
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በፒያሳ,Police,amharic,0.87
+የህዝብ ጸጥታ ችግር አለ በዋና መንገድ,Police,amharic,0.85
+Waan bala'aan uumame Daandii Guddaa,Police,afaan_oromo,0.72
+Practice report for training purposes,Other,english,0.95
+Ambulaansii ariifachiisaa Staadiyamii,Medical/Hospital,afaan_oromo,0.83
+Demonstration mode active,Other,english,0.98
+"Stroke symptoms, FAST positive, need hospital at the Main Factory",Medical/Hospital,english,0.88
+"Major incident with fire, injuries, and crime scene at the Stadium",Fire Force,english,0.55
+Terrorist attack causing fire and casualties at my Home,Police,english,0.52
+"A stabbing occurred, victim is bleeding heavily at Sarbet",Medical/Hospital,english,0.62
+Just checking if the system works,Other,english,0.87
+"Shots fired, active shooter situation at the shopping mall",Police,english,0.92
+"Fight with weapons, people are injured at CMC Condominium",Medical/Hospital,english,0.59
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በዋና መንገድ,Fire Force,amharic,0.85
+Rimeen uumame poolisii barbaada Kebele 04,Police,afaan_oromo,0.83
+Apartment building fire with residents trapped at the city center,Fire Force,english,0.95
+"Possible heart attack, but I'm not certain at Sarbet",Medical/Hospital,english,0.5
+Yeroo madaa namni dhukkubsate jira Piazza,Medical/Hospital,afaan_oromo,0.78
+"Fight with weapons, people are injured at Central Bank",Medical/Hospital,english,0.59
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በስታዲየም,Medical/Hospital,amharic,0.75
+Ambulaansii ariifachiisaa Staadiyamii,Medical/Hospital,afaan_oromo,0.84
+Gas main break with strong odor throughout area at the University campus,Fire Force,english,0.9
+Something doesn't look right here at the Stadium,Police,english,0.44
+ህመምተኛ አለ ዶክተር ያስፈልጋል በስታዲየም,Medical/Hospital,amharic,0.86
+Not sure if it's a fire or something else at Bole Road,Fire Force,english,0.55
+Waan hatamuun uumame Buufata Baabura,Police,afaan_oromo,0.83
+"Active seizure, patient needs emergency medical care at a residential building",Medical/Hospital,english,0.98
+Manni ibidda bubba'e Daandii Guddaa,Fire Force,afaan_oromo,0.8
+የወንጀል ክስተት ተከስቷል በባቡር ጣቢያ,Police,amharic,0.84
+Domestic violence incident with active assault at a residential building,Police,english,0.91
+"Gas leak, people are unconscious at Train Station",Fire Force,english,0.66
+"Major incident with fire, injuries, and crime scene at a private residence",Fire Force,english,0.55
+Yeroo madaa namni dhukkubsate jira Staadiyamii,Medical/Hospital,afaan_oromo,0.76
+አምቡላንስ በፍጥነት ይላኩ በቀበሌ 04,Medical/Hospital,amharic,0.75
+ፖሊስ በአስቸኳይ ይላኩ በባቡር ጣቢያ,Police,amharic,0.77
+"Kidnapping witnessed, suspect fleeing scene at the University campus",Police,english,0.94
+Manni ibidda bubba'e Piazza,Fire Force,afaan_oromo,0.86
+ሐኪም በአስቸኳይ ይፈለጋል በፓርክ,Medical/Hospital,amharic,0.82
+Practice report for training purposes,Other,english,0.9
+አምቡላንስ በፍጥነት ይላኩ በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.8
+"Person shot, multiple injuries reported at an Apartment building",Medical/Hospital,english,0.58
+"Chemical facility fire, hazardous materials involved at a family home",Fire Force,english,0.89
+"Apartment fire, people trapped inside at an Apartment building",Fire Force,english,0.65
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቦሌ መንገድ,Police,amharic,0.78
+Not sure if it's a crime but looks wrong at the Hospital gate,Police,english,0.62
+Aarii baay'ee jira Piazza,Fire Force,afaan_oromo,0.72
+"Officer needs backup, suspect resisting at Summit",Police,english,0.96
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በሲኤምሲ,Medical/Hospital,amharic,0.72
+Structure fire with visible flames from multiple windows at Adama Market,Fire Force,english,0.88
+"Could be a break-in, please investigate at the Office",Police,english,0.62
+"Industrial fire with toxic smoke, evacuate area at the downtown area",Fire Force,english,0.9
+Namni hame ta'e jira Staadiyamii,Police,afaan_oromo,0.71
+የወንጀል ክስተት ተከስቷል በስታዲየም,Police,amharic,0.74
+"Kidnapping witnessed, suspect fleeing scene at a residential building",Police,english,0.96
+"Testing the app, please ignore",Other,english,0.97
+"Severe bleeding, send paramedics right away at the downtown area",Medical/Hospital,english,0.9
+"Carjacking occurring right now, suspect armed at Summit",Police,english,0.89
+Gas main break with strong odor throughout area at a family home,Fire Force,english,0.96
+Structure fire with visible flames from multiple windows at Gerji,Fire Force,english,0.94
+Demonstration mode active,Other,english,0.9
+Waan hatamuun uumame Buufata Baabura,Police,afaan_oromo,0.87
+"Gas leak, people are unconscious at Mexico Square",Fire Force,english,0.66
+Arson suspect caught on fire at Sarbet,Police,english,0.57
+Car crash with fire and suspected DUI at Summit,Fire Force,english,0.58
+"Building explosion, multiple casualties at the city center",Fire Force,english,0.63
+Manni ibidda bubba'e Baankii Qabxii,Fire Force,afaan_oromo,0.86
+Not sure but better check this area at the Gas Station,Police,english,0.53
+"Fight with weapons, people are injured at the Gas Station",Medical/Hospital,english,0.59
+ፖሊስ በአስቸኳይ ይላኩ በአዳማ ገበያ,Police,amharic,0.79
+Forest fire spreading rapidly toward homes at the Hospital gate,Fire Force,english,0.88
+"Apartment fire, people trapped inside at the Stadium",Fire Force,english,0.65
+Manni ibidda bubba'e Staadiyamii,Fire Force,afaan_oromo,0.82
+Domestic violence incident with active assault at a private residence,Police,english,0.89
+Multi-vehicle accident with fire on highway at the downtown area,Fire Force,english,0.9
+Aarii baay'ee jira Kebele 04,Fire Force,afaan_oromo,0.83
+"Chemical facility fire, hazardous materials involved at the commercial district",Fire Force,english,0.96
+"Major incident with fire, injuries, and crime scene at the business district",Fire Force,english,0.55
+"Could be a break-in, please investigate at the local Pharmacy",Police,english,0.43
+Yeroo madaa namni dhukkubsate jira Kebele 04,Medical/Hospital,afaan_oromo,0.78
+Terrorist attack causing fire and casualties at Train Station,Police,english,0.52
+ህመምተኛ አለ ዶክተር ያስፈልጋል በቦሌ መንገድ,Medical/Hospital,amharic,0.79
+"Someone might need medical attention, not sure at Kebele 02",Medical/Hospital,english,0.45
+Waan hatamuun uumame Adama Gandaa,Police,afaan_oromo,0.84
+"Apartment fire, people trapped inside at Atlas area",Fire Force,english,0.65
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በማዕከላዊ ባንክ,Medical/Hospital,amharic,0.8
+Gas main break with strong odor throughout area at my Home,Fire Force,english,0.96
+Just checking if the system works,Other,english,0.9
+"I think there's a medical issue, can you check? at the Office",Medical/Hospital,english,0.62
+"Burglary in progress, suspect inside building at Gerji",Police,english,0.95
+"Burglary in progress, suspect inside building at the commercial district",Police,english,0.9
+House fire with smoke inhalation victims at Bole Road,Fire Force,english,0.64
+"Gas leak, people are unconscious at Piazza",Fire Force,english,0.66
+"Riot with multiple offenders, public safety risk at the Park",Police,english,0.94
+Not sure but better check this area at Kazanchis,Police,english,0.48
+ጢስ እየወጣ ነው እሳት ሊኖር ይችላል በስታዲየም,Fire Force,amharic,0.78
+"Possible smoke, but I'm not certain at CMC Condominium",Fire Force,english,0.65
+"I hear someone crying for help, maybe injured at the city center",Medical/Hospital,english,0.67
+Protestors burning vehicles at the University campus,Police,english,0.6
+"Person shot, multiple injuries reported at the Stadium",Medical/Hospital,english,0.58
+Waan bala'aan uumame Piazza,Police,afaan_oromo,0.78
+Car crash with fire and suspected DUI at the Hospital gate,Fire Force,english,0.58
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቀበሌ 02,Police,amharic,0.83
+"A stabbing occurred, victim is bleeding heavily at the downtown area",Medical/Hospital,english,0.62
+Arson suspect caught on fire at Kazanchis,Police,english,0.57
+"I think I see smoke, please verify at the city center",Fire Force,english,0.6
+Waan hatamuun uumame Kebele 04,Police,afaan_oromo,0.88
+Gaasiin yaa'a jira Buufata Baabura,Fire Force,afaan_oromo,0.79
+"A stabbing occurred, victim is bleeding heavily at Summit",Medical/Hospital,english,0.62
+Not sure but someone looks sick at Kebele 02,Medical/Hospital,english,0.48
+"Sample message, disregard",Other,english,0.95
+Car crash with fire and suspected DUI at the Stadium,Fire Force,english,0.58
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በስታዲየም,Medical/Hospital,amharic,0.86
+Car crash with fire and suspected DUI at a private residence,Fire Force,english,0.58
+"Someone is acting strange, might need doctor at a private residence",Medical/Hospital,english,0.5
+"Maybe a robbery, not certain at the local Pharmacy",Police,english,0.43
+Practice report for training purposes,Other,english,0.96
+"Apartment fire, people trapped inside at the Gas Station",Fire Force,english,0.65
+Waan bala'aan uumame Buufata Baabura,Police,afaan_oromo,0.88
+የእሳት አደጋ ተከስቷል ፈጣን ምላሽ ያስፈልጋል በፒያሳ,Fire Force,amharic,0.79
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በቦሌ መንገድ,Police,amharic,0.73
+"Simulation running, no action needed",Other,english,0.88
+"I heard something, might be trouble at Bus Terminal",Police,english,0.67
+Structure fire with visible flames from multiple windows at the construction site,Fire Force,english,0.9
+"Industrial fire with toxic smoke, evacuate area at Gerji",Fire Force,english,0.95
+"Apartment fire, people trapped inside at Kazanchis",Fire Force,english,0.65
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በቀበሌ 04,Police,amharic,0.85
+"I hear someone crying for help, maybe injured at the University campus",Medical/Hospital,english,0.57
+"Person with allergic reaction, throat swelling, anaphylaxis at Bus Terminal",Medical/Hospital,english,0.96
+Gas main break with strong odor throughout area at the construction site,Fire Force,english,0.87
+"Child choking, immediate medical intervention needed at the commercial district",Medical/Hospital,english,0.96
+"Child choking, immediate medical intervention needed at a local house",Medical/Hospital,english,0.98
+Gaasiin yaa'a jira Adama Gandaa,Fire Force,afaan_oromo,0.72
+"Maybe a robbery, not certain at Bole Road",Police,english,0.61
+Car crash with fire and suspected DUI at the Stadium,Fire Force,english,0.58
+"Possible smoke, but I'm not certain at Main Road",Fire Force,english,0.61
+"Person shot, multiple injuries reported at Main Road",Medical/Hospital,english,0.58
+ፖሊስ በአስቸኳይ ይላኩ በአዳማ ገበያ,Police,amharic,0.85
+Gargaarsa fayyaa barbaada Kebele 02,Medical/Hospital,afaan_oromo,0.81
+"Stroke symptoms, FAST positive, need hospital at Piazza",Medical/Hospital,english,0.9
+ፖሊስ በአስቸኳይ ይላኩ በፓርክ,Police,amharic,0.82
+"No emergency, just a test message",Other,english,0.94
+"Gas explosion reported, building collapse possible at Gerji",Fire Force,english,0.99
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በቀበሌ 02,Medical/Hospital,amharic,0.73
+"Active seizure, patient needs emergency medical care at Piazza",Medical/Hospital,english,0.97
+Waan hatamuun uumame Paarkii,Police,afaan_oromo,0.84
+ህመምተኛ አለ ዶክተር ያስፈልጋል በአውቶቡስ ቴርሚናል,Medical/Hospital,amharic,0.76
+Yeroo madaa namni dhukkubsate jira Daandii Guddaa,Medical/Hospital,afaan_oromo,0.77
+የህዝብ ጸጥታ ችግር አለ በአዳማ ገበያ,Police,amharic,0.88
+"Officer needs backup, suspect resisting at Gerji",Police,english,0.95
+Rimeen uumame poolisii barbaada Kebele 02,Police,afaan_oromo,0.82
+"Unconscious person not breathing, cardiac arrest at Bole Road",Medical/Hospital,english,0.87
+"Fight with weapons, people are injured at Piazza",Medical/Hospital,english,0.59
+"Stroke symptoms, FAST positive, need hospital at Adama Market",Medical/Hospital,english,0.88
+Criminal barricaded in burning building at the Office,Police,english,0.63
+I think I see something suspicious at the marketplace,Police,english,0.67
+"Person shot, multiple injuries reported at Gerji",Medical/Hospital,english,0.58
+እሳት ተነስቷል የእሳት አደጋ መከላከያ ይላኩ በፓርክ,Fire Force,amharic,0.72
+"Something burning maybe, please check at Kebele 04",Fire Force,english,0.61
+Not sure if it's a fire or something else at the shopping mall,Fire Force,english,0.48
+"Stroke symptoms, FAST positive, need hospital at Kebele 02",Medical/Hospital,english,0.97
+ሐኪም በአስቸኳይ ይፈለጋል በቦሌ መንገድ,Medical/Hospital,amharic,0.77
+"Someone is acting strange, might need doctor at my Home",Medical/Hospital,english,0.47
+"Unconscious person not breathing, cardiac arrest at the city center",Medical/Hospital,english,0.98
+Structure fire with visible flames from multiple windows at Kebele 04,Fire Force,english,0.88
+Gargaarsa fayyaa barbaada Paarkii,Medical/Hospital,afaan_oromo,0.86
+"Burglary in progress, suspect inside building at the Park",Police,english,0.97
+Dhibee fayyaa cimaa uumame Paarkii,Medical/Hospital,afaan_oromo,0.84
+Multi-vehicle accident with fire on highway at the downtown area,Fire Force,english,0.97
+"Possible heart attack, but I'm not certain at Train Station",Medical/Hospital,english,0.5
+"I smell something like smoke, not sure at a residential building",Fire Force,english,0.61
+"Child choking, immediate medical intervention needed at Train Station",Medical/Hospital,english,0.9
+Gaasiin yaa'a jira Piazza,Fire Force,afaan_oromo,0.85
+Not sure but someone looks sick at a residential building,Medical/Hospital,english,0.67
+Not sure but better check this area at the Office,Police,english,0.63
+"Burglary in progress, suspect inside building at Central Bank",Police,english,0.94
+"Burglary in progress, suspect inside building at Main Road",Police,english,0.95
+Ibiddi bubba'e jira Kebele 04,Fire Force,afaan_oromo,0.84
+"Someone is acting strange, might need doctor at the business district",Medical/Hospital,english,0.59
+ፖሊስ በአስቸኳይ ይላኩ በሲኤምሲ,Police,amharic,0.76
+Demonstration mode active,Other,english,0.88
+"No emergency, just a test message",Other,english,0.98
+Car crash with fire and suspected DUI at the business district,Fire Force,english,0.58
+"Officer needs backup, suspect resisting at Bus Terminal",Police,english,0.89
+Protestors burning vehicles at the shopping mall,Police,english,0.6
+"I heard a pop, might be electrical at my Home",Fire Force,english,0.5
+"I smell something like smoke, not sure at Central Bank",Fire Force,english,0.52
+"A stabbing occurred, victim is bleeding heavily at the commercial district",Medical/Hospital,english,0.62
+ሐኪም በአስቸኳይ ይፈለጋል በፒያሳ,Medical/Hospital,amharic,0.83
+Waan hatamuun uumame Paarkii,Police,afaan_oromo,0.71
+Structure fire with visible flames from multiple windows at Kazanchis,Fire Force,english,0.96
+"Testing the app, please ignore",Other,english,0.98
+"Fight with weapons, people are injured at the Gas Station",Medical/Hospital,english,0.59
+Arson suspect caught on fire at the Stadium,Police,english,0.57
+Dhibee fayyaa cimaa uumame Kebele 02,Medical/Hospital,afaan_oromo,0.81
+"I heard a pop, might be electrical at a local house",Fire Force,english,0.46
+ሐኪም በአስቸኳይ ይፈለጋል በፒያሳ,Medical/Hospital,amharic,0.81
+Demonstration mode active,Other,english,0.95
+ዘራፊ ገብቷል ፖሊስ ያስፈልጋል በዋና መንገድ,Police,amharic,0.74
+Ibiddi bubba'e jira Daandii Guddaa,Fire Force,afaan_oromo,0.74
+Practice report for training purposes,Other,english,0.97
+Namni hame ta'e jira Staadiyamii,Police,afaan_oromo,0.77
+"I hear someone crying for help, maybe injured at Adama Market",Medical/Hospital,english,0.45
+Namni hame ta'e jira Buufata Otobisii,Police,afaan_oromo,0.79
+ሐኪም በአስቸኳይ ይፈለጋል በፒያሳ,Medical/Hospital,amharic,0.83
+"Chemical facility fire, hazardous materials involved at CMC Condominium",Fire Force,english,0.94
+"A stabbing occurred, victim is bleeding heavily at Kebele 04",Medical/Hospital,english,0.62
+Not sure if it's a crime but looks wrong at Sarbet,Police,english,0.53
+ጋዝ እየፈሰሰ ነው አደጋ ሊከሰት ይችላል በስታዲየም,Fire Force,amharic,0.83
+"Gas explosion reported, building collapse possible at Kazanchis",Fire Force,english,0.95
+Practice report for training purposes,Other,english,0.99
+የህክምና ድንገተኛ ሁኔታ ተከስቷል በአዳማ ገበያ,Medical/Hospital,amharic,0.81
+"Something burning maybe, please check at the downtown area",Fire Force,english,0.59
+ጥቃት ደርሶብኛል ፖሊስ ይምጡ በዋና መንገድ,Police,amharic,0.86
+Not sure but better check this area at a residential building,Police,english,0.56
+"Active seizure, patient needs emergency medical care at Kebele 02",Medical/Hospital,english,0.98
+"Riot with multiple offenders, public safety risk at Adama Market",Police,english,0.91
+Ibiddi bubba'e jira Adama Gandaa,Fire Force,afaan_oromo,0.86
+Multi-vehicle accident with fire on highway at the city center,Fire Force,english,0.88
+Just checking if the system works,Other,english,0.98
+"I think there's a medical issue, can you check? at the construction site",Medical/Hospital,english,0.44
+Ibiddi bubba'e jira Buufata Baabura,Fire Force,afaan_oromo,0.72
+"Maybe someone fainted, please verify at Kebele 02",Medical/Hospital,english,0.42
+"Possible smoke, but I'm not certain at the business district",Fire Force,english,0.61
+Gargaarsa fayyaa barbaada Kebele 02,Medical/Hospital,afaan_oromo,0.78
+"Violent attack, victim unconscious and bleeding at the business district",Medical/Hospital,english,0.6
+Ijaarsi ibidda jala jira Staadiyamii,Fire Force,afaan_oromo,0.85
+"Simulation running, no action needed",Other,english,0.97
+Arson suspect caught on fire at a residential building,Police,english,0.57
+"No emergency, just a test message",Other,english,0.99
+Aarii baay'ee jira Piazza,Fire Force,afaan_oromo,0.75
+Protestors burning vehicles at Bus Terminal,Police,english,0.6
+"No emergency, just a test message",Other,english,0.9
+"Someone is acting strange, might need doctor at the marketplace",Medical/Hospital,english,0.55
+"No emergency, just a test message",Other,english,0.89
+Rimeen uumame poolisii barbaada Buufata Otobisii,Police,afaan_oromo,0.76
+"Apartment fire, people trapped inside at Main Road",Fire Force,english,0.65
+"Maybe someone fainted, please verify at a local house",Medical/Hospital,english,0.48
+"Could be a break-in, please investigate at Piazza",Police,english,0.53
+I think I see something suspicious at the marketplace,Police,english,0.58
+"Unconscious person not breathing, cardiac arrest at Summit",Medical/Hospital,english,0.91
