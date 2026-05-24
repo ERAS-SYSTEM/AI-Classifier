@@ -26,8 +26,10 @@ from datetime import datetime
 from typing import List, Optional
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Security, Depends, status
+from fastapi.responses import HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.security.api_key import APIKeyHeader
 from pydantic import BaseModel, Field
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 
@@ -50,6 +52,20 @@ CONFIDENCE_THRESHOLD = 0.7
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("eras-api")
+
+# API Key security scheme for Swagger and endpoints
+API_KEY_NAME = "X-API-Key"
+api_key_header = APIKeyHeader(name=API_KEY_NAME, auto_error=True)
+VALID_API_KEY = os.environ.get("ERAS_API_KEY", "eras_secure_api_key_2026")
+
+async def verify_api_key(api_key: str = Security(api_key_header)):
+    """Dependency that checks if the request has a valid X-API-Key header."""
+    if api_key == VALID_API_KEY:
+        return api_key
+    raise HTTPException(
+        status_code=status.HTTP_403_FORBIDDEN,
+        detail="Could not validate credentials. Invalid or missing X-API-Key."
+    )
 
 # ============================================
 # REQUEST / RESPONSE MODELS
@@ -240,6 +256,15 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/", response_class=HTMLResponse, include_in_schema=False)
+async def read_root():
+    """Serve the ERAS web interface portal."""
+    index_path = Path(__file__).resolve().parent / "index.html"
+    if index_path.exists():
+        with open(index_path, "r", encoding="utf-8") as f:
+            return HTMLResponse(content=f.read(), status_code=200)
+    return HTMLResponse(content="<h1>ERAS Emergency Dispatch Portal is Online</h1>", status_code=200)
+
 
 # ============================================
 # ENDPOINTS
@@ -270,7 +295,7 @@ async def model_info():
 
 
 @app.post("/predict", response_model=PredictResponse, tags=["Prediction"])
-async def predict(request: PredictRequest):
+async def predict(request: PredictRequest, api_key: str = Depends(verify_api_key)):
     """
     Classify a single emergency report.
     
@@ -300,7 +325,7 @@ async def predict(request: PredictRequest):
 
 
 @app.post("/predict/batch", response_model=BatchPredictResponse, tags=["Prediction"])
-async def predict_batch(request: BatchPredictRequest):
+async def predict_batch(request: BatchPredictRequest, api_key: str = Depends(verify_api_key)):
     """
     Classify multiple emergency reports at once (max 50).
     

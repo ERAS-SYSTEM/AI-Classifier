@@ -18,6 +18,9 @@ from transformers import DistilBertTokenizer, DistilBertForSequenceClassificatio
 # ============================================
 
 MODEL_DIR = Path("model")
+if not MODEL_DIR.exists():
+    MODEL_DIR = Path(__file__).resolve().parent / "model"
+
 
 print("Loading ERAS classifier...")
 tokenizer = DistilBertTokenizer.from_pretrained(MODEL_DIR)
@@ -28,7 +31,7 @@ with open(MODEL_DIR / "label_encoder.json", "r") as f:
     encoders = json.load(f)
     label_decoder = encoders["label_decoder"]
 
-print(f"✅ Model loaded! Labels: {list(label_decoder.values())}")
+print(f"[SUCCESS] Model loaded! Labels: {list(label_decoder.values())}")
 
 # Emoji & color mapping
 LABEL_INFO = {

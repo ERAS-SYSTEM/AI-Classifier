@@ -27,9 +27,10 @@ except ImportError:
     print("To run the Python examples, please install requests: pip install requests")
     requests = None
 
-# Set the base URL of your API server.
+# Set the base URL and API Key of your API server.
 # Change 'localhost' to the server's IP address if calling from another machine.
 API_BASE_URL = "http://localhost:8000"
+API_KEY = "eras_secure_api_key_2026"
 
 def test_api_health():
     """Checks if the API is running and the model is loaded."""
@@ -58,7 +59,8 @@ def predict_single_emergency(text: str, language: str = "english"):
         "language": language
     }
     headers = {
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
+        "X-API-Key": API_KEY
     }
     
     try:
@@ -83,7 +85,8 @@ def predict_batch_emergencies(texts: list):
         "texts": texts
     }
     headers = {
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
+        "X-API-Key": API_KEY
     }
     
     try:
@@ -113,7 +116,8 @@ async function classifyEmergency(text) {
         const response = await fetch(API_URL, {
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'X-API-Key': 'eras_secure_api_key_2026'
             },
             body: JSON.stringify({
                 text: text,
@@ -144,17 +148,19 @@ classifyEmergency("There is a bad accident on the highway, two cars collided.");
 CURL_SNIPPET = """
 # --- cURL CLI Examples ---
 
-# 1. Health check
+# 1. Health check (public endpoint, no API key required)
 curl -X GET http://localhost:8000/health
 
-# 2. Single prediction
+# 2. Single prediction (API key required)
 curl -X POST http://localhost:8000/predict \\
      -H "Content-Type: application/json" \\
+     -H "X-API-Key: eras_secure_api_key_2026" \\
      -d '{"text": "House is on fire! Send help!", "language": "english"}'
 
-# 3. Batch prediction
+# 3. Batch prediction (API key required)
 curl -X POST http://localhost:8000/predict/batch \\
      -H "Content-Type: application/json" \\
+     -H "X-API-Key: eras_secure_api_key_2026" \\
      -d '{"texts": ["Police emergency at the mall", "Patient needs an ambulance"]}'
 """
 

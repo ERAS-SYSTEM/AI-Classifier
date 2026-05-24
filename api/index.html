@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚨 ERAS Emergency Dispatch Portal</title>
+    <!-- Google Fonts: Outfit -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            
+            /* Color Schemes for Labels */
+            --color-medical: #ef4444; /* Red */
+            --color-police: #3b82f6;  /* Blue */
+            --color-fire: #f97316;    /* Orange */
+            --color-other: #64748b;   /* Slate */
+            
+            --accent-glow: rgba(99, 102, 241, 0.15);
+            --border-glow: rgba(99, 102, 241, 0.2);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Outfit', sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(99, 102, 241, 0.05) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(239, 68, 68, 0.03) 0%, transparent 40%);
+        }
+
+        header {
+            padding: 2rem 1.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .logo-icon {
+            font-size: 2.2rem;
+            animation: pulse 2s infinite;
+        }
+
+        .logo-title {
+            font-size: 1.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #f8fafc 30%, #a5b4fc 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -0.5px;
+        }
+
+        .connection-badge {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(30, 41, 59, 0.6);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background-color: #64748b;
+        }
+
+        .status-dot.online {
+            background-color: #22c55e;
+            box-shadow: 0 0 10px #22c55e;
+        }
+
+        .status-dot.offline {
+            background-color: #ef4444;
+            box-shadow: 0 0 10px #ef4444;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1.5rem;
+            width: 100%;
+            flex-grow: 1;
+            display: grid;
+            grid-template-columns: 1.2fr 1fr;
+            gap: 2rem;
+        }
+
+        @media (max-width: 968px) {
+            main {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background: rgba(30, 41, 59, 0.4);
+            backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.3);
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            transition: border-color 0.3s ease;
+        }
+
+        .card:hover {
+            border-color: rgba(99, 102, 241, 0.2);
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #e2e8f0;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .input-label {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+        }
+
+        input[type="text"], textarea {
+            width: 100%;
+            background-color: rgba(15, 23, 42, 0.6);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1rem;
+            color: var(--text-primary);
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        input[type="text"]:focus, textarea:focus {
+            border-color: #6366f1;
+            box-shadow: 0 0 15px var(--accent-glow);
+            background-color: rgba(15, 23, 42, 0.8);
+        }
+
+        /* Preset Chips */
+        .preset-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .preset-chip {
+            background-color: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 0.5rem 0.85rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            color: var(--text-secondary);
+        }
+
+        .preset-chip:hover {
+            background-color: rgba(99, 102, 241, 0.1);
+            border-color: rgba(99, 102, 241, 0.3);
+            color: var(--text-primary);
+            transform: translateY(-1px);
+        }
+
+        .btn-submit {
+            background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            padding: 1.1rem;
+            font-size: 1.05rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.75rem;
+            box-shadow: 0 4px 15px rgba(79, 70, 229, 0.3);
+        }
+
+        .btn-submit:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(79, 70, 229, 0.5);
+            background: linear-gradient(135deg, #818cf8 0%, #4f46e5 100%);
+        }
+
+        .btn-submit:active {
+            transform: translateY(0);
+        }
+
+        /* Results Area */
+        .results-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .placeholder-results {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            min-height: 300px;
+            color: var(--text-secondary);
+            text-align: center;
+            gap: 1rem;
+        }
+
+        .placeholder-icon {
+            font-size: 3rem;
+            opacity: 0.3;
+        }
+
+        /* Real Result Styles */
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .responder-tag {
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            font-weight: 700;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .tag-medical {
+            background-color: rgba(239, 68, 68, 0.15);
+            color: var(--color-medical);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+        }
+
+        .tag-police {
+            background-color: rgba(59, 130, 246, 0.15);
+            color: var(--color-police);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+        }
+
+        .tag-fire {
+            background-color: rgba(249, 115, 22, 0.15);
+            color: var(--color-fire);
+            border: 1px solid rgba(249, 115, 22, 0.3);
+        }
+
+        .tag-other {
+            background-color: rgba(100, 116, 139, 0.15);
+            color: var(--color-other);
+            border: 1px solid rgba(100, 116, 139, 0.3);
+        }
+
+        .routing-card {
+            background-color: rgba(15, 23, 42, 0.4);
+            border-radius: 16px;
+            padding: 1.25rem;
+            border: 1px solid rgba(255,255,255,0.03);
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .routing-icon {
+            font-size: 2.2rem;
+        }
+
+        .routing-label {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .routing-value {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        /* Review Alert box */
+        .alert-box {
+            background-color: rgba(245, 158, 11, 0.1);
+            border: 1px solid rgba(245, 158, 11, 0.2);
+            color: #fbbf24;
+            border-radius: 12px;
+            padding: 1rem;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            animation: slideIn 0.3s ease;
+        }
+
+        /* Score Bars */
+        .score-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .score-item {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+
+        .score-info {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .score-track {
+            height: 8px;
+            background-color: rgba(15, 23, 42, 0.6);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .score-fill {
+            height: 100%;
+            border-radius: 10px;
+            width: 0%;
+            transition: width 1s cubic-bezier(0.1, 0.8, 0.2, 1);
+        }
+
+        .score-fill.medical { background-color: var(--color-medical); }
+        .score-fill.police { background-color: var(--color-police); }
+        .score-fill.fire { background-color: var(--color-fire); }
+        .score-fill.other { background-color: var(--color-other); }
+
+        footer {
+            padding: 2rem 1.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            margin-top: 2rem;
+        }
+
+        /* Animations */
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 0.9; }
+            50% { transform: scale(1.05); opacity: 1; text-shadow: 0 0 15px rgba(239, 68, 68, 0.4); }
+            100% { transform: scale(1); opacity: 0.9; }
+        }
+
+        @keyframes slideIn {
+            from { transform: translateY(10px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        /* Loader */
+        .spinner {
+            border: 3px solid rgba(255, 255, 255, 0.1);
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            border-left-color: white;
+            animation: spin 1s linear infinite;
+            display: none;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-area">
+            <span class="logo-icon">🚨</span>
+            <h1 class="logo-title">ERAS Emergency Classifier</h1>
+        </div>
+        <div class="connection-badge">
+            <div id="statusDot" class="status-dot"></div>
+            <span id="statusText">Checking system...</span>
+        </div>
+    </header>
+
+    <main>
+        <!-- Left Column: Input Form -->
+        <section class="card">
+            <h2 class="card-title">📨 Incident Assessment</h2>
+            
+            <!-- Auth Token -->
+            <div class="input-group">
+                <label class="input-label" for="apiKeyInput">🔐 X-API-Key (Header Authentication)</label>
+                <input type="text" id="apiKeyInput" value="eras_secure_api_key_2026" placeholder="Enter API Key">
+            </div>
+
+            <!-- Report Text Area -->
+            <div class="input-group">
+                <label class="input-label" for="reportText">📝 Emergency Incident Report Text</label>
+                <textarea id="reportText" rows="6" placeholder="Type or paste emergency details here... (English, Amharic, or Afaan Oromo)"></textarea>
+            </div>
+
+            <!-- Quick Preset Chips -->
+            <div class="input-group">
+                <span class="input-label">💡 Test Presets (Click to autofill)</span>
+                <div class="preset-container">
+                    <span class="preset-chip" onclick="fillPreset(0)">🔥 House Fire</span>
+                    <span class="preset-chip" onclick="fillPreset(1)">🏥 Cardiac Event</span>
+                    <span class="preset-chip" onclick="fillPreset(2)">🚔 Armed Robbery</span>
+                    <span class="preset-chip" onclick="fillPreset(3)">❓ Non-Emergency Test</span>
+                    <span class="preset-chip" onclick="fillPreset(4)">🇪🇹 Amharic Fire</span>
+                </div>
+            </div>
+
+            <button id="classifyBtn" class="btn-submit" onclick="submitInference()">
+                <span id="btnText">Classify & Route Dispatch</span>
+                <div id="btnSpinner" class="spinner"></div>
+            </button>
+        </section>
+
+        <!-- Right Column: Results Visualization -->
+        <section class="card" style="justify-content: flex-start;">
+            <h2 class="card-title">📊 Dispatch Decision Summary</h2>
+            
+            <div id="resultsContent" class="results-wrapper" style="display: none;">
+                <!-- Category and Score -->
+                <div class="result-header">
+                    <div>
+                        <h3 id="resultCategory" style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.25rem;">Police</h3>
+                        <span id="resultConfidence" style="font-size: 1rem; color: var(--text-secondary);">Confidence: 99.8%</span>
+                    </div>
+                    <span id="responderTag" class="responder-tag tag-police">🚔 Police Unit</span>
+                </div>
+
+                <!-- Warning box if needs review -->
+                <div id="reviewAlert" class="alert-box" style="display: none;">
+                    <span>⚠️</span>
+                    <div>
+                        <strong>Low Confidence.</strong> Routed to a human operator for manual check.
+                    </div>
+                </div>
+
+                <!-- Primary Routing Action Card -->
+                <div class="routing-card">
+                    <span id="routingIcon" class="routing-icon">🚔</span>
+                    <div>
+                        <div class="routing-label">Routed Primary Unit</div>
+                        <div id="routingValue" class="routing-value">Police Department</div>
+                    </div>
+                </div>
+
+                <!-- Probability Bar Chart -->
+                <div class="input-group" style="margin-top: 1rem;">
+                    <span class="input-label">📋 Class Probability Breakdown</span>
+                    <div class="score-list">
+                        <!-- Medical -->
+                        <div class="score-item">
+                            <div class="score-info">
+                                <span>🚑 Medical/Hospital</span>
+                                <span id="val-medical">0%</span>
+                            </div>
+                            <div class="score-track">
+                                <div id="bar-medical" class="score-fill medical"></div>
+                            </div>
+                        </div>
+
+                        <!-- Police -->
+                        <div class="score-item">
+                            <div class="score-info">
+                                <span>🚔 Police Force</span>
+                                <span id="val-police">0%</span>
+                            </div>
+                            <div class="score-track">
+                                <div id="bar-police" class="score-fill police"></div>
+                            </div>
+                        </div>
+
+                        <!-- Fire -->
+                        <div class="score-item">
+                            <div class="score-info">
+                                <span>🚒 Fire Force</span>
+                                <span id="val-fire">0%</span>
+                            </div>
+                            <div class="score-track">
+                                <div id="bar-fire" class="score-fill fire"></div>
+                            </div>
+                        </div>
+
+                        <!-- Other -->
+                        <div class="score-item">
+                            <div class="score-info">
+                                <span>💬 Other / General</span>
+                                <span id="val-other">0%</span>
+                            </div>
+                            <div class="score-track">
+                                <div id="bar-other" class="score-fill other"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Placeholder (when no result is calculated) -->
+            <div id="placeholderResults" class="placeholder-results">
+                <span class="placeholder-icon">🤖</span>
+                <p>Waiting for classification request...<br>Enter report text and click classify.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>ERAS AI Emergency Classifier • Dispatch Routing System v1.1 • Secure Sandbox Dev Portal</p>
+    </footer>
+
+    <script>
+        const API_BASE = window.location.origin === "null" || window.location.protocol === "file:" 
+            ? "http://localhost:8000" 
+            : window.location.origin; // Fallback to localhost if opened as local file
+
+        // Quick Preset Data
+        const PRESETS = [
+            "Heavy smoke and large flames are spreading from the ground floor kitchen of the house.",
+            "My grandfather collapsed on the living room floor, has severe chest pains and trouble breathing.",
+            "There's an active robbery happening at the bank branch near Bole road! The suspects are armed.",
+            "Hello, just testing the dispatch line to verify the receiver works correctly.",
+            "እሳት በቤት ውስጥ ተነስቷል! እባክዎ የእሳት አደጋ መከላከያ ይላኩ!" // Amharic: "Fire has started in the house! Please send fire brigade!"
+        ];
+
+        function fillPreset(index) {
+            document.getElementById("reportText").value = PRESETS[index];
+        }
+
+        // Live Health Status Checker
+        async function checkHealth() {
+            const statusDot = document.getElementById("statusDot");
+            const statusText = document.getElementById("statusText");
+
+            try {
+                const response = await fetch(`${API_BASE}/health`, { timeout: 3000 });
+                if (response.ok) {
+                    const data = await response.json();
+                    statusDot.className = "status-dot online";
+                    statusText.textContent = `Online (${data.device.toUpperCase()})`;
+                } else {
+                    throw new Error("HTTP Status Error");
+                }
+            } catch (err) {
+                statusDot.className = "status-dot offline";
+                statusText.textContent = "Offline (No Connection)";
+            }
+        }
+
+        // Check health on load, then poll every 10 seconds
+        checkHealth();
+        setInterval(checkHealth, 10000);
+
+        // Core Inference submit
+        async function submitInference() {
+            const apiKey = document.getElementById("apiKeyInput").value;
+            const text = document.getElementById("reportText").value.trim();
+            
+            const btnText = document.getElementById("btnText");
+            const btnSpinner = document.getElementById("btnSpinner");
+            const classifyBtn = document.getElementById("classifyBtn");
+
+            const resultsContent = document.getElementById("resultsContent");
+            const placeholderResults = document.getElementById("placeholderResults");
+
+            if (!text) {
+                alert("Please enter emergency report text first.");
+                return;
+            }
+
+            // Show loading animation
+            btnText.style.display = "none";
+            btnSpinner.style.display = "block";
+            classifyBtn.disabled = true;
+
+            try {
+                const response = await fetch(`${API_BASE}/predict`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-API-Key': apiKey
+                    },
+                    body: JSON.stringify({
+                        text: text,
+                        language: 'english'
+                    })
+                });
+
+                if (!response.ok) {
+                    if (response.status === 403) {
+                        throw new Error("403 Forbidden: Invalid or missing X-API-Key.");
+                    }
+                    const errDetail = await response.text();
+                    throw new Error(`Server returned error status ${response.status}: ${errDetail}`);
+                }
+
+                const data = await response.json();
+                
+                // Hide placeholder, display results wrapper
+                placeholderResults.style.display = "none";
+                resultsContent.style.display = "flex";
+
+                // Populate Text Outputs
+                document.getElementById("resultCategory").textContent = data.emergency_type;
+                document.getElementById("resultConfidence").textContent = `Confidence: ${(data.confidence * 100).toFixed(1)}%`;
+                
+                // Set routing card details
+                document.getElementById("routingValue").textContent = data.routing.primary_responder;
+                
+                // Update tag classes and routing icon
+                const tag = document.getElementById("responderTag");
+                const icon = document.getElementById("routingIcon");
+                tag.className = "responder-tag"; // reset
+                
+                if (data.emergency_type === "Medical/Hospital") {
+                    tag.classList.add("tag-medical");
+                    tag.textContent = "🚑 Medical/Hospital";
+                    icon.textContent = "🚑";
+                } else if (data.emergency_type === "Police") {
+                    tag.classList.add("tag-police");
+                    tag.textContent = "🚔 Police Force";
+                    icon.textContent = "🚔";
+                } else if (data.emergency_type === "Fire Force") {
+                    tag.classList.add("tag-fire");
+                    tag.textContent = "🚒 Fire Force";
+                    icon.textContent = "🚒";
+                } else {
+                    tag.classList.add("tag-other");
+                    tag.textContent = "💬 Other / Review";
+                    icon.textContent = "💬";
+                }
+
+                // Operator review warning visibility
+                const reviewBox = document.getElementById("reviewAlert");
+                if (data.needs_review) {
+                    reviewBox.style.display = "flex";
+                } else {
+                    reviewBox.style.display = "none";
+                }
+
+                // Populate Class Probability bars
+                const scores = data.all_scores;
+                const setBar = (key, val) => {
+                    const pct = (val * 100).toFixed(1) + "%";
+                    document.getElementById(`val-${key}`).textContent = pct;
+                    document.getElementById(`bar-${key}`).style.width = pct;
+                };
+
+                setBar("medical", scores["Medical/Hospital"] || 0);
+                setBar("police", scores["Police"] || 0);
+                setBar("fire", scores["Fire Force"] || 0);
+                setBar("other", scores["Other"] || 0);
+
+            } catch (err) {
+                alert(`Error running classification:\n${err.message}`);
+                placeholderResults.style.display = "flex";
+                resultsContent.style.display = "none";
+            } finally {
+                // Restore button state
+                btnText.style.display = "block";
+                btnSpinner.style.display = "none";
+                classifyBtn.disabled = false;
+            }
+        }
+    </script>
+</body>
+</html>

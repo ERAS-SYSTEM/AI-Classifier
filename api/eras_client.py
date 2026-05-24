@@ -87,16 +87,25 @@ class ERASRouting:
 class ERASClient:
     """SDK client for interacting with the ERAS AI Classifier FastAPI server."""
     
-    def __init__(self, base_url: str = "http://localhost:8000", timeout: int = 10):
+    def __init__(self, base_url: str = "http://localhost:8000", api_key: Optional[str] = None, timeout: int = 10):
         """
         Initialize the ERAS API client.
         
         Args:
             base_url: The URL where the FastAPI server is running (e.g., http://192.168.1.15:8000)
+            api_key: Optional API key for authenticating endpoints (e.g. X-API-Key)
             timeout: Default timeout in seconds for API requests
         """
         self.base_url = base_url.rstrip("/")
+        self.api_key = api_key
         self.timeout = timeout
+
+    def _get_headers(self) -> Dict[str, str]:
+        """Generate request headers including API key authentication if set."""
+        headers = {"Content-Type": "application/json"}
+        if self.api_key:
+            headers["X-API-Key"] = self.api_key
+        return headers
 
     def is_healthy(self) -> bool:
         """
@@ -149,7 +158,7 @@ class ERASClient:
         }
         
         try:
-            response = requests.post(url, json=payload, timeout=self.timeout)
+            response = requests.post(url, json=payload, headers=self._get_headers(), timeout=self.timeout)
             if response.status_code == 200:
                 return ERASPrediction(response.json())
             else:
@@ -179,7 +188,7 @@ class ERASClient:
         }
         
         try:
-            response = requests.post(url, json=payload, timeout=self.timeout)
+            response = requests.post(url, json=payload, headers=self._get_headers(), timeout=self.timeout)
             if response.status_code == 200:
                 predictions_data = response.json().get("predictions", [])
                 return [ERASPrediction(pred) for pred in predictions_data]
