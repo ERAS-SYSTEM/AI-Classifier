@@ -1,0 +1,30 @@
+# ============================================================
+# 🐳 Docker Compose Configuration for ERAS AI Classifier API
+# ============================================================
+# Facilitates launching and managing the containerized API.
+# Run:
+#   docker compose up -d --build
+# ============================================================
+
+version: '3.8'
+
+services:
+  eras-classifier-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: eras-classifier-api
+    ports:
+      - "8000:8000"
+    volumes:
+      # Optional: mount the models folder for easy weight updates without rebuilds
+      - ./models:/app/models
+    restart: unless-stopped
+    environment:
+      - ENV=production
+      - PORT=8000
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
