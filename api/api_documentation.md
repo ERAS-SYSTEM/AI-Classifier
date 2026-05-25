@@ -1,4 +1,4 @@
-# 🚨 ERAS Emergency Classification API Documentation
+  # 🚨 ERAS Emergency Classification API Documentation
 
 Welcome to the **Emergency Response Alert System (ERAS) AI Classifier API** documentation. This document explains how to authenticate, invoke, and integrate the ERAS classification server into other applications, microservices, or frontends.
 
